@@ -43,7 +43,7 @@
 		</SoundData>
 		<SoundData>
 			<SoundID>SONG_OPENING_MENU</SoundID>
-			<Filename>Sounds/Soundtrack/DN_ProphecyTheme</Filename>
+			<Filename>Sounds/Soundtrack/VZ_Kwisatz_Haderach</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
@@ -11952,6 +11952,118 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
+			<SoundID>SONG_VZ_AFTERMATH</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Aftermath</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+			<SoundData>
+			<SoundID>SONG_VZ_BRUTALITY</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Brutality</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>		
+		<SoundData>
+			<SoundID>SONG_VZ_DAUGHTERS_OF_THE_DESERT</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Daughters_of_the_Desert</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>		
+		<SoundData>
+			<SoundID>SONG_VZ_DESERT_TEMPEST</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Desert_Tempest</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>		
+		<SoundData>
+			<SoundID>SONG_VZ_DESERT_WIND</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Desert_Wind</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_GARA_KULON</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Gara_Kulon</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_IN_MY_DREAMS</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_In_My_Dreams</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_JIHAD</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Jihad</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_KWISATZ_HADERACH</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Kwisatz_Haderach</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_NIGHTFALL</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Nightfall</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_PRECURSOR</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Precursor</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>	
+		<SoundData>
+			<SoundID>SONG_VZ_SACRED_WATER</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Sacred_Water</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>			
+		<SoundData>
+			<SoundID>SONG_VZ_SHIFTING_SANDS</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Shifting_Sands</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>						
+		<SoundData>
+			<SoundID>SONG_VZ_SISTERHOOD</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Sisterhood</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>		
+		<SoundData>
+			<SoundID>SONG_VZ_SURVIVAL</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Survival</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SONG_VZ_WORMSIGNS</SoundID>
+			<Filename>Sounds/Soundtrack/VZ_Wormsigns</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>		
+		<SoundData>
 			<SoundID>SONG_ATREIDES</SoundID>
 			<Filename>Sounds/Diplomacy/Atreides</Filename>
 			<LoadType>STREAMED</LoadType>
@@ -11995,7 +12107,7 @@
 		</SoundData>
 		<SoundData>
 			<SoundID>SONG_HARKONNEN</SoundID>
-			<Filename>Sounds/Diplomacy/Harkonnen</Filename>
+			<Filename>Sounds/soundtrack/14 Blood for Blood</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
