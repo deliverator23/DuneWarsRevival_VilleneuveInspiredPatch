@@ -12107,7 +12107,7 @@
 		</SoundData>
 		<SoundData>
 			<SoundID>SONG_HARKONNEN</SoundID>
-			<Filename>Sounds/soundtrack/14 Blood for Blood</Filename>
+			<Filename>Sounds/Soundtrack/VZ_Brutality</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
