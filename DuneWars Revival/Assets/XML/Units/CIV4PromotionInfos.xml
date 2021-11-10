@@ -8079,6 +8079,28 @@
 			<iDuration>2</iDuration>
 			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas3.dds,3,6</Button>  
 		</PromotionInfo>
+		<PromotionInfo>
+			<Type>PROMOTION_SPOTTER</Type>
+			<Description>Spotter</Description>
+			<Help></Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<LayerAnimationPath>NONE</LayerAnimationPath>
+			<PromotionPrereqOr1>PROMOTION_DESERT2</PromotionPrereqOr1>
+			<TechPrereq>TECH_SANDWORMS</TechPrereq>
+			<UnitClassMods>
+				<UnitClassMod>
+					<UnitClassType>UNITCLASS_WORM</UnitClassType>
+					<iUnitClassMod>900</iUnitClassMod>
+				</UnitClassMod>
+			</UnitClassMods>
+			<UnitCombats>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_THOPTER</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+			</UnitCombats>
+			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,8,7</Button>
+		</PromotionInfo>
 	</PromotionInfos>
 </Civ4PromotionInfos>
 <!-- TestPromotion
