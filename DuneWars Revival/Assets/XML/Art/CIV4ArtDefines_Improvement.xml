@@ -88,13 +88,49 @@
 			<Button>Art/Interface/Buttons/Builds/buildsolarfarm.dds</Button>
 		</ImprovementArtInfo>
 		<ImprovementArtInfo>
-			<Type>ART_DEF_IMPROVEMENT_SIETCH</Type>
+			<Type>ART_DEF_IMPROVEMENT_SIETCH1</Type>
 			<bExtraAnimations>1</bExtraAnimations>
 			<fScale>3.0</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
-			<NIF>Art/Structures/Improvements/sietch/sietch.nif</NIF>
+			<NIF>Art/Structures/Improvements/sietch/sietch1.nif</NIF>
 			<KFM></KFM>
-			<Button>Art/Interface/Buttons/Builds/buildturbine1.dds</Button>
+			<Button>Art/Structures/buildings/sietch/great_sietch.dds</Button>
+		</ImprovementArtInfo>
+		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_SIETCH2</Type>
+			<bExtraAnimations>1</bExtraAnimations>
+			<fScale>3.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Improvements/sietch/sietch2.nif</NIF>
+			<KFM></KFM>
+			<Button>Art/Interface/Buttons/Buildings/catchbasin.dds</Button>
+		</ImprovementArtInfo>
+		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_SIETCH3</Type>
+			<bExtraAnimations>1</bExtraAnimations>
+			<fScale>3.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Improvements/sietch/sietch3.nif</NIF>
+			<KFM></KFM>
+			<Button>Art/Interface/Buttons/TechTree/arrakis_habitation.dds</Button>
+		</ImprovementArtInfo>
+		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_SIETCH4</Type>
+			<bExtraAnimations>1</bExtraAnimations>
+			<fScale>3.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Improvements/sietch/sietch4.nif</NIF>
+			<KFM></KFM>
+			<Button>Art/Interface/Buttons/TechTree/military_complex.dds</Button>
+		</ImprovementArtInfo>
+		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_TRADING_POST</Type>
+			<bExtraAnimations>1</bExtraAnimations>
+			<fScale>0.9</fScale>
+			<fInterfaceScale>1</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/TueksSietch/Jabba.nif</NIF>
+			<KFM></KFM>
+			<Button>Art/Interface/Buttons/buildings/water_souk.dds</Button>
 		</ImprovementArtInfo>
 		<ImprovementArtInfo>
 			<Type>ART_DEF_IMPROVEMENT_WINDMILL</Type>
