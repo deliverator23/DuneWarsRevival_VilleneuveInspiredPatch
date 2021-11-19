@@ -3262,14 +3262,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WORKER_FREMEN</Type>
-			<Button>Art/Interface/Buttons/Units/worker.dds</Button>
+			<Button>Art/Interface/Buttons/Units/fremen_worker.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/units/desert_worker/egyptworker.nif</NIF>
+			<NIF>Art/units/fremen_worker/egyptworker.nif</NIF>
 			<KFM>Art/units/ModernWorker/ModernWorker.kfm</KFM>
-			<SHADERNIF>Art/units/desert_worker/egyptworker.nif</SHADERNIF>
+			<SHADERNIF>Art/units/fremen_worker/egyptworker.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
