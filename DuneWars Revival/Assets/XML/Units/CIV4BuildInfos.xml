@@ -1483,7 +1483,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/TechTree/arrakis_habitation.dds</Button>
+			<Button>Art/Interface/Buttons/Improvements/nascent_sietch.dds</Button>
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_COTTAGE1_FREMEN</Type>
