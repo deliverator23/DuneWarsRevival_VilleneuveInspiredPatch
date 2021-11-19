@@ -2721,11 +2721,15 @@
 			<FavoriteReligion>RELIGION_MAHDI</FavoriteReligion>
 			<Traits>
 				<Trait>
-					<TraitType>TRAIT_CHARISMATIC</TraitType>
+					<TraitType>TRAIT_PHILOSOPHICAL</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 				<Trait>
 					<TraitType>TRAIT_SPIRITUAL</TraitType>
+					<bTrait>1</bTrait>
+				</Trait>
+				<Trait>
+					<TraitType>TRAIT_FREMEN</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 			</Traits>
@@ -8162,6 +8166,10 @@
 					<TraitType>TRAIT_EXPANSIVE</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
+				<Trait>
+					<TraitType>TRAIT_FREMEN</TraitType>
+					<bTrait>1</bTrait>
+				</Trait>
 			</Traits>
 			<Flavors>
 				<Flavor>
@@ -8763,6 +8771,10 @@
 				</Trait>
 				<Trait>
 					<TraitType>TRAIT_PHILOSOPHICAL</TraitType>
+					<bTrait>1</bTrait>
+				</Trait>
+				<Trait>
+					<TraitType>TRAIT_FREMEN</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 			</Traits>
@@ -17135,7 +17147,7 @@
 				</DiploMusicWarEra>
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
-<LeaderHeadInfo>
+		<LeaderHeadInfo>
 			<Type>LEADER_CHANI</Type>
 			<Description>TXT_KEY_LEADER_CHANI</Description>
 			<Civilopedia>TXT_KEY_LEADER_CHANI_PEDIA</Civilopedia>
@@ -17227,11 +17239,15 @@
 			<FavoriteReligion>RELIGION_MAHDI</FavoriteReligion>
 			<Traits>
 				<Trait>
-					<TraitType>TRAIT_CHARISMATIC</TraitType>
+					<TraitType>TRAIT_ORGANIZED</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 				<Trait>
 					<TraitType>TRAIT_PROTECTIVE</TraitType>
+					<bTrait>1</bTrait>
+				</Trait>
+				<Trait>
+					<TraitType>TRAIT_FREMEN</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 			</Traits>

@@ -2017,6 +2017,22 @@ However, it was the way in which Halleck managed to fuse the minstrel and warrio
 		<Spanish>Ruthless</Spanish>	
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREMEN</Tag>
+		<English>Fremen Leader</English>
+		<French>Fremen Leader</French>
+		<German>Fremen Leader</German>
+		<Italian>Fremen Leader</Italian>
+		<Spanish>Fremen Leader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREMEN_SHORT</Tag>
+		<English>Fremen</English>
+		<French>Fremen</French>
+		<German>Fremen</German>
+		<Italian>Fremen</Italian>
+		<Spanish>Fremen</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_TRAIT_TECHMAN</Tag>
 		<English>Technician</English>
 		<French>Techman</French>
