@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_FOOD</Tag>
+		<English>Emphasize Water</English>
+		<French>Privil&#233;gier la nourriture</French>
+		<German>Schwerpunkt Nahrung</German>
+		<Italian>Privilegia il cibo</Italian>
+		<Spanish>Favorecer alimentos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAIN_MENU_CIVILOPEDIA</Tag>
+		<English>DUNE ENCYCLOPEDIA</English>
+		<French>ENCYCLOPEDIE DE DUNE</French>
+		<German>DUNE ENCYCLOPEDIA</German>
+		<Italian>DUNE ENCYCLOPEDIA</Italian>
+		<Spanish>DUNE ENCYCLOPEDIA</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_SEAPATROL</Tag>
+			<English>Desert Patrol</English>
+			<French>Desert Patrol</French>
+			<German>Desert Patrol</German>
+			<Italian>Desert Patrol</Italian>
+			<Spanish>Desert Patrol</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_VERSION</Tag>
+			<English>[COLOR_HIGHLIGHT_TEXT]Homeworld Screen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]2.20[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT], [COLOR_YELLOW]Deliverator[COLOR_REVERT] and [COLOR_YELLOW]M[COLOR_REVERT]</English>
+			<French>[COLOR_HIGHLIGHT_TEXT]Ecran Monde Natal[COLOR_REVERT] (Version [COLOR_HIGHLIGHT_TEXT]2.06[COLOR_REVERT])[NEWLINE]de [COLOR_YELLOW]koma13[COLOR_REVERT] et [COLOR_YELLOW]Deliverator[COLOR_REVERT]</French>
+			<German>[COLOR_HIGHLIGHT_TEXT]Homeworld Screen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]2.06[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT] and [COLOR_YELLOW]Deliverator[COLOR_REVERT]</German>
+			<Italian>[COLOR_HIGHLIGHT_TEXT]Homeworld Screen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]2.06[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT] and [COLOR_YELLOW]Deliverator[COLOR_REVERT]</Italian>
+			<Spanish>[COLOR_HIGHLIGHT_TEXT]Homeworld Screen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]2.06[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT] and [COLOR_YELLOW]Deliverator[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_TITLE</Tag>
+			<English>Negotiate Guild Transport</English>
+			<French>N?cier un Transport avec la Guilde</French>
+			<German>Negotiate Guild Transport</German>
+			<Italian>Negotiate Guild Transport</Italian>
+			<Spanish>Negotiate Guild Transport</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_TRANSPORT</Tag>
+			<English>Transport</English>
+			<French>Transporter</French>
+			<German>Transport</German>
+			<Italian>Transport</Italian>
+			<Spanish>Transport</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_TITLE_FREMEN</Tag>
+			<English>Gathering of the Tribes</English>
+			<French>Rassembler les Tribus</French>
+			<German>Gathering of the Tribes</German>
+			<Italian>Gathering of the Tribes</Italian>
+			<Spanish>Gathering of the Tribes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_TRANSPORT_FREMEN</Tag>
+			<English>Recruit</English>
+			<French>Recruter</French>
+			<German>Recruit</German>
+			<Italian>Recruit</Italian>
+			<Spanish>Recruit</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_HW_SELECT_UNIT</Tag>
+			<English>Select Units</English>
+			<French>Select Units</French>
+			<German>Select Units</German>
+			<Italian>Select Units</Italian>
+			<Spanish>Select Units</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_SELECT_CITY</Tag>
+			<English>Select Destination</English>
+			<French>S?ct. Destination</French>
+			<German>Select Destination</German>
+			<Italian>Select Destination</Italian>
+			<Spanish>Select Destination</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_DESTINATION_NEEDED</Tag>
+			<English>Select a destination city...</English>
+			<French>S?ctionnez une Ville de destination...</French>
+			<German>Select a destination city...</German>
+			<Italian>Select a destination city...</Italian>
+			<Spanish>Select a destination city...</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_AIR_LIMIT REACHED</Tag>
+			<English>City Air Capacity limit reached...</English>
+			<French>The Air Capacity limit of this city has been reached...</French>
+			<German>The Air Capacity limit of this city has been reached...</German>
+			<Italian>The Air Capacity limit of this city has been reached...</Italian>
+			<Spanish>The Air Capacity limit of this city has been reached...</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HW_UNIT_SELECTION_NEEDED</Tag>
+			<English>Select at least one unit...</English>
+			<French>S?ctionnez au moins une unit?.</French>
+			<German>Select at least one unit...</German>
+			<Italian>Select at least one unit...</Italian>
+			<Spanish>Select at least one unit...</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_ATREIDES</Tag>
+			<English>CALADAN[NEWLINE]Third planet of Delta Pavonis; the ancestral fiefdom of House Atreides. The Atreides family have controlled the fief of Caladan for twenty-six generations.</English>
+			<French>CALADAN[NEWLINE]3? plan? de Delta Pavonis; Le fief ancestral de la Maison Atr?es. La Famille Atr?es poss? la gestion de Caladan depuis vingt-six g?rations.</French>
+			<German>CALADAN[NEWLINE]Third planet of Delta Pavonis; the ancestral fiefdom of House Atreides. The Atreides family have controlled the fief of Caladan for twenty-six generations.</German>
+			<Italian>CALADAN[NEWLINE]Third planet of Delta Pavonis; the ancestral fiefdom of House Atreides. The Atreides family have controlled the fief of Caladan for twenty-six generations.</Italian>
+			<Spanish>CALADAN[NEWLINE]Third planet of Delta Pavonis; the ancestral fiefdom of House Atreides. The Atreides family have controlled the fief of Caladan for twenty-six generations.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_ORDOS</Tag>
+			<English>SIGMA DRACONIS IV[NEWLINE]An iceworld situated in the constellation Draco; homeworld of the insidious House Ordos.</English>
+			<French>SIGMA DRACONIS IV[NEWLINE]Un monde de glace situ?ans la constellation du Dragon ; Monde natal de l'incidieuse Maison Ordos.</French>
+			<German>SIGMA DRACONIS IV[NEWLINE]An iceworld situated in the constellation Draco; homeworld of the insidious House Ordos.</German>
+			<Italian>SIGMA DRACONIS IV[NEWLINE]An iceworld situated in the constellation Draco; homeworld of the insidious House Ordos.</Italian>
+			<Spanish>SIGMA DRACONIS IV[NEWLINE]An iceworld situated in the constellation Draco; homeworld of the insidious House Ordos.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_TLEILAX</Tag>
+			<English>TLEILAX[NEWLINE]Lone planet of Thalim, noted as renegade training center for Mentats; source of "twisted" Mentats; homeworld of the Bene Tleilax.</English>
+			<French>TLEILAX[NEWLINE]Plan? isol?de Thalim, mentionn?omme un centre d'entra?ment ren?t pour Mentats; source de Mentats "twisted" ; Monde natal des Bene Tleilax.</French>
+			<German>TLEILAX[NEWLINE]Lone planet of Thalim, noted as renegade training center for Mentats; source of "twisted" Mentats; homeworld of the Bene Tleilax.</German>
+			<Italian>TLEILAX[NEWLINE]Lone planet of Thalim, noted as renegade training center for Mentats; source of "twisted" Mentats; homeworld of the Bene Tleilax.</Italian>
+			<Spanish>TLEILAX[NEWLINE]Lone planet of Thalim, noted as renegade training center for Mentats; source of "twisted" Mentats; homeworld of the Bene Tleilax.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_CORRINO</Tag>
+			<English>KAITAIN[NEWLINE]The seat of power of the Padishah Emperor. The weather of Kaitain is kept warm and temperate by a flotilla of weather satellites.</English>
+			<French>KAITAIN[NEWLINE]Le si? du Pouvoir de l'Empereur Padishah. Le Climat de Kaitain est maintenu chaud et temp? par une constellation de satellites m?orologiques.</French>
+			<German>KAITAIN[NEWLINE]The seat of power of the Padishah Emperor. The weather of Kaitain is kept warm and temperate by a flotilla of weather satellites.</German>
+			<Italian>KAITAIN[NEWLINE]The seat of power of the Padishah Emperor. The weather of Kaitain is kept warm and temperate by a flotilla of weather satellites.</Italian>
+			<Spanish>KAITAIN[NEWLINE]The seat of power of the Padishah Emperor. The weather of Kaitain is kept warm and temperate by a flotilla of weather satellites.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_HARKONNEN</Tag>
+			<English>GIEDI PRIME[NEWLINE]The planet of Ophiuchi B (36), homeworld of House Harkonnen. A median-viable planet with a low active-photosynthesis range.</English>
+			<French>GIEDI PRIME[NEWLINE]Plan? de Ophiuchi B (36), monde natal de la Maison Harkonnen. une plan? semi-viable avec une port?tr?courte d'activit?e photosynth?.</French>
+			<German>GIEDI PRIME[NEWLINE]The planet of Ophiuchi B (36), homeworld of House Harkonnen. A median-viable planet with a low active-photosynthesis range.</German>
+			<Italian>GIEDI PRIME[NEWLINE]The planet of Ophiuchi B (36), homeworld of House Harkonnen. A median-viable planet with a low active-photosynthesis range.</Italian>
+			<Spanish>GIEDI PRIME[NEWLINE]The planet of Ophiuchi B (36), homeworld of House Harkonnen. A median-viable planet with a low active-photosynthesis range.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_GESSERIT</Tag>
+			<English>WALLACH IX[NEWLINE]Ninth planet of Laoujin; devastated by atomics during the Butlerian Jihad; the site of the Bene Gesserit Mother School.</English>
+			<French>WALLACH IX[NEWLINE]neuvi? plan? de Laoujin; d?st?par des Atomiques durant le Jihad Butl?en ; C'est le site de l'Ecole de l'Ordre Bene Gesserit.</French>
+			<German>WALLACH IX[NEWLINE]Ninth planet of Laoujin; devastated by atomics during the Butlerian Jihad; the site of the Bene Gesserit Mother School.</German>
+			<Italian>WALLACH IX[NEWLINE]Ninth planet of Laoujin; devastated by atomics during the Butlerian Jihad; the site of the Bene Gesserit Mother School.</Italian>
+			<Spanish>WALLACH IX[NEWLINE]Ninth planet of Laoujin; devastated by atomics during the Butlerian Jihad; the site of the Bene Gesserit Mother School.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_IX</Tag>
+			<English>IX[NEWLINE]A planet supreme in machine culture. Its name originates from the Roman numeral IX, as it is the ninth planet of its sun.</English>
+			<French>IX[NEWLINE]Une plan? supr? dans la culture m?nique. Son nom provient du chiffre Romain IX, en tant que neuvi? plan? de son soleil.</French>
+			<German>IX[NEWLINE]A planet supreme in machine culture. Its name originates from the Roman numeral IX, as it is the ninth planet of its sun.</German>
+			<Italian>IX[NEWLINE]A planet supreme in machine culture. Its name originates from the Roman numeral IX, as it is the ninth planet of its sun.</Italian>
+			<Spanish>IX[NEWLINE]A planet supreme in machine culture. Its name originates from the Roman numeral IX, as it is the ninth planet of its sun.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_ECAZ</Tag>
+			<English>ECAZ[NEWLINE]Fourth planet of Alpha Centauri B; the sculptors' paradise, so called because it is the home of fogwood, the plant growth capable of being shaped in situ solely by the power of human thought.</English>
+			<French>ECAZ[NEWLINE]4? plan? d'Alpha Centauri B; le paradis des sculpteurs, nomm?insi car c'est la plan? d'origine du 'fogwood', une plante grimpante capable d'?e fa?n?sur site simplement par le pouvoir de la pens?humaine.</French>
+			<German>ECAZ[NEWLINE]Fourth planet of Alpha Centauri B; the sculptors' paradise, so called because it is the home of fogwood, the plant growth capable of being shaped in situ solely by the power of human thought.</German>
+			<Italian>ECAZ[NEWLINE]Fourth planet of Alpha Centauri B; the sculptors' paradise, so called because it is the home of fogwood, the plant growth capable of being shaped in situ solely by the power of human thought.</Italian>
+			<Spanish>ECAZ[NEWLINE]Fourth planet of Alpha Centauri B; the sculptors' paradise, so called because it is the home of fogwood, the plant growth capable of being shaped in situ solely by the power of human thought.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_FREMEN</Tag>
+			<English>THE SOUTHERN SIETCHES[NEWLINE]The Fremen exist on Arrakis in vast numbers. Fremen from the Southern Sietches can be persuaded to join with your own tribe - for a price.</English>
+			<French>LES SIETCHES DU SUD[NEWLINE]Les Fremen existent sur Arrakis en grand nombre. Les Fremen des Sietches du Sud peuvent ?e convaincu de rejoindre notre tribu - pour un certain prix.</French>
+			<German>THE SOUTHERN SIETCHES[NEWLINE]The Fremen exist on Arrakis in vast numbers. Fremen from the Southern Sietches can be persuaded to join with your own tribe - for a price.</German>
+			<Italian>THE SOUTHERN SIETCHES[NEWLINE]The Fremen exist on Arrakis in vast numbers. Fremen from the Southern Sietches can be persuaded to join with your own tribe - for a price.</Italian>
+			<Spanish>THE SOUTHERN SIETCHES[NEWLINE]The Fremen exist on Arrakis in vast numbers. Fremen from the Southern Sietches can be persuaded to join with your own tribe - for a price.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NO_REINFORCEMENT</Tag>
+		<English>No reinforcements presently available</English>
+		<French>Aucun Renfort Disponible</French>
+		<German>No reinforcements presently available</German>
+		<Italian>No reinforcements presently available</Italian>
+		<Spanish>No reinforcements presently available</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLANET_CIVILIZATION_RICHESE</Tag>
+			<English>RICHESE[NEWLINE]Fourth planet in the Epsilon Eridani star system, and classed with Ix as supreme in machine culture since both planets escaped the more severe effects of the Butlerian Jihad. Richese was noted for miniaturization.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_SPLASH_SCREEN</Tag>
+		<English>The %s1_era Era has begun!</English>
+		<French>Vous venez d'entrer dans une nouvelle &#232;re (%s1_era) !</French>
+		<German>Ihr habt das Zeitalter %s1 erreicht!</German>
+		<Italian>Sei entrato nell'era %s1_era!</Italian>
+		<Spanish>Hab&#233;is entrado en [NUM1:el:la:los:las] %s1_era.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_OTHER_CIV_FEATURES</Tag>
+		<English>Other Features</English>
+		<French>Other Features</French>
+		<German>Other Features</German>
+		<Italian>Other Features</Italian>
+		<Spanish>Other Features</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVILOPEDIA_CIV_FEATURES</Tag>
+		<English>[BOLD]Features:[\BOLD][NEWLINE]</English>
+		<French>[BOLD]Features :[\BOLD][NEWLINE]</French>
+		<German>[BOLD]Features:[\BOLD][NEWLINE]</German>
+		<Italian>[BOLD]Features:[\BOLD][NEWLINE]</Italian>
+		<Spanish>[BOLD]Features:[\BOLD][NEWLINE]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DEFENSE_MOD</Tag>
+		<English>[ICON_BULLET]%d1_Mod%% Defense</English>
+		<French>[ICON_BULLET]%d1_Mod%% en d&#233;fense</French>
+		<German>[ICON_BULLET]%d1_Mod%% Verteidigung</German>
+		<Italian>[ICON_BULLET]%d1_Mod%% alla difesa</Italian>
+		<Spanish>[ICON_BULLET]%d1_Mod%% a la defensa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RESTRICTED_UNIT</Tag>
+		<English>Cannot be built by any Civilization</English>
+		<French>Cannot be built by any Civilization</French>
+		<German>Kann von keiner Zvilisation gebaut werden</German>
+		<Italian>Cannot be built by any Civilization</Italian>
+		<Spanish>Cannot be built by any Civilization</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEBUG_VARIABLE_NUMBER2</Tag>
+		<English>Test Value: %d1_Num %d2_Num</English>
+		<French>Test Value: %d1_Num %d2_Num</French>
+		<German>Test Value: %d1_Num %d2_Num</German>
+		<Italian>Test Value: %d1_Num %d2_Num</Italian>
+		<Spanish>Test Value: %d1_Num %d2_Num</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_DEBUG_VARIABLE_NUMBER</Tag>
+		<English>Test Value: %d1_Num</English>
+		<French>Test Value: %d1_Num</French>
+		<German>Test Value: %d1_Num</German>
+		<Italian>Test Value: %d1_Num</Italian>
+		<Spanish>Test Value: %d1_Num</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_MOD_TRAIT</Tag>
+		<English>%D1%%: from Trait</English>
+		<French>%D1%%: from Trait</French>
+		<German>%D1%%: from Trait</German>
+		<Italian>%D1%%: from Trait</Italian>
+		<Spanish>%D1%%: from Trait</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FOREIGN_TRADE_ROUTE_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% income from foreign trade</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% income from foreign trade</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% income from foreign trade</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% income from foreign trade</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% income from foreign trade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEE_NO_INVISIBLES</Tag>
+		<English>[ICON_BULLET]Cannot see any invisible units</English>
+		<French>[ICON_BULLET]Cannot see any invisible units</French>
+		<German>[ICON_BULLET]Cannot see any invisible units</German>
+		<Italian>[ICON_BULLET]Cannot see any invisible units</Italian>
+		<Spanish>[ICON_BULLET]Cannot see any invisible units</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DENIED_BUILDINGS</Tag>
+		<English>Cannot Build</English>
+		<French>Cannot Build</French>
+		<German>[COLOR_WARNING_TEXT]Gesperrte Geb&#228;ude[COLOR_REVERT]</German>
+		<Italian>Cannot Build</Italian>
+		<Spanish>Cannot Build</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DENIED_BUILDINGS_NO</Tag>
+		<English>No Buildings Blocked</English>
+		<French>No Buildings Blocked</French>
+		<German>Keine</German>
+		<Italian>No Buildings Blocked</Italian>
+		<Spanish>No Buildings Blocked</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DENIED_UNITS_NO</Tag>
+		<English>No Units Blocked</English>
+		<French>No Units Blocked</French>
+		<German>Keine</German>
+		<Italian>No Units Blocked</Italian>
+		<Spanish>No Units Blocked</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DENIED_UNITS</Tag>
+		<English>Cannot Train</English>
+		<French>Cannot Train</French>
+		<German>[COLOR_WARNING_TEXT]Gesperrte Einheiten[COLOR_REVERT]</German>
+		<Italian>Cannot Train</Italian>
+		<Spanish>Cannot Train</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_YOU_UNIT_FLED</Tag>
+		<English>Your %s1_UnitName has fled from combat with a %s2_EnUName!</English>
+		<French>Votre %s1_UnitName a fui le combat contre un %s2_EnUName!</French>
+		<German>Deine %s1_UnitName ist vom Kampf geflohen mit einer %s2_EnUName!</German>
+		<Italian>Your %s1_UnitName has fled from combat with a %s2_EnUName!</Italian>
+		<Spanish>Your %s1_UnitName has fled from combat with a %s2_EnUName!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ENEMY_UNIT_FLED</Tag>
+		<English>A %s1_EnUName has fled from combat with your %s2_UnitName!</English>
+		<French>Un %s1_EnUName a fui le combat contre votre %s2_UnitName!</French>
+		<German>Ein %s1_EnUName ist vom Kampf geflohen mit deiner %s2_UnitName!</German>
+		<Italian>A %s1_EnUName has fled from combat with your %s2_UnitName!</Italian>
+		<Spanish>A %s1_EnUName has fled from combat with your %s2_UnitName!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_SANDSTORM</Tag>
+		<English>Sandstorm</English>
+		<French>Tempête de Sable</French>
+		<German>Sandstorm</German>
+		<Italian>Sandstorm</Italian>
+		<Spanish>Sandstorm</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENTTRIGGER_TRAIT_ABOMINATION</Tag>
+		<English>The inner voices of your ancestors are struggling for control of your mind!</English>
+		<French>Les voix intérieures de vos ancêtres vous harcèlent pour prendre le contrôle de votre esprit!</French>
+		<German>The inner voices of your ancestors are struggling for control of your mind!</German>
+		<Italian>The inner voices of your ancestors are struggling for control of your mind!</Italian>
+		<Spanish>The inner voices of your ancestors are struggling for control of your mind!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_PROD_REL_MILITARY</Tag>
+		<English>[ICON_BULLET]%D1%%[ICON_PRODUCTION] from Religion Shrine</English>
+		<French>[ICON_BULLET]%D1%%[ICON_PRODUCTION] de l'autel de la religion</French>
+		<German>[ICON_BULLET]%D1%%[ICON_PRODUCTION] from Religion Shrine</German>
+		<Italian>[ICON_BULLET]%D1%%[ICON_PRODUCTION] from Religion Shrine</Italian>
+		<Spanish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] from Religion Shrine</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_PRODUCTION</Tag>
+		<English>[SPACE]%d1_Num[ICON_PRODUCTION] added at %s2_CityName.</English>
+		<French>%d1_Num [ICON_PRODUCTION] ajouté à %s2_CityName.</French>
+		<German>%d1_Num [ICON_PRODUCTION] added at %s2_CityName.</German>
+		<Italian>%d1_Num [ICON_PRODUCTION] added at %s2_CityName.</Italian>
+		<Spanish>%d1_Num [ICON_PRODUCTION] added at %s2_CityName.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MISC_PREREQ_ITEM</Tag>
+		<English>[ICON_BULLET]Requires[SPACE]</English>
+		<French>[ICON_BULLET]Requiert[SPACE]</French>
+		<German>[ICON_BULLET]Requires[SPACE]</German>
+		<Italian>[ICON_BULLET]Requires[SPACE]</Italian>
+		<Spanish>[ICON_BULLET]Requires[SPACE]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_OR</Tag>
+		<English>[SPACE]or[SPACE]</English>
+		<French>[SPACE]ou[SPACE]</French>
+		<German>[SPACE]or[SPACE]</German>
+		<Italian>[SPACE]or[SPACE]</Italian>
+		<Spanish>[SPACE]or[SPACE]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNOT_MOVE_PEAK</Tag>
+		<English>[ICON_BULLET]Cannot Enter Mesa</English>
+		<French>[ICON_BULLET]Ne peut se déplacer dans les plateaux</French>
+		<German>[ICON_BULLET]Cannot Enter Mesa</German>
+		<Italian>[ICON_BULLET]Cannot Enter Mesa</Italian>
+		<Spanish>[ICON_BULLET]Cannot Enter Mesa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NO_UPKEEP</Tag>
+		<English>[ICON_BULLET]Zero Unit Cost and Unit Supply</English>
+		<French>[ICON_BULLET]Zero Unit Cost and Unit Supply</French>
+		<German>[ICON_BULLET]Zero Unit Cost and Unit Supply</German>
+		<Italian>[ICON_BULLET]Zero Unit Cost and Unit Supply</Italian>
+		<Spanish>[ICON_BULLET]Zero Unit Cost and Unit Supply</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELP_LEVEL_FRACTIONAL</Tag>
+		<English>, XP: (%s1_Curr/%d2_Needed)</English>
+		<French>, EXP : (%s1_Curr/%d2_Needed)</French>
+		<German>, EP: (%s1_Curr/%d2_Needed)</German>
+		<Italian>, XP: (%s1_Curr/%d2_Needed)</Italian>
+		<Spanish>, PX: (%s1_Curr/%d2_Needed)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TIME_AD_SAVE</Tag>
+		<English>AG-%s1_Date</English>
+		<French>AG-%s1_Date</French>
+		<German>AG-%s1_Date</German>
+		<Italian>AG-%s1_Date</Italian>
+		<Spanish>AG-%s1_Date</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TIME_AD</Tag>
+		<English>%d1_Date AG</English>
+		<French>%d1_Date AG</French>
+		<German>%d1_Date AG</German>
+		<Italian>%d1_Date AG</Italian>
+		<Spanish>%d1_Date AG</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DAWN_OF_MAN_SCREEN_TITLE</Tag>
+		<English>THE DESERT HAS NO MASTER...</English>
+		<French>LE DESERT N'A PAS DE MAITRE...</French>
+		<German>THE DESERT HAS NO MASTER...</German>
+		<Italian>THE DESERT HAS NO MASTER...</Italian>
+		<Spanish>THE DESERT HAS NO MASTER...</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DAWN_OF_MAN_TEXT</Tag>
+		<!-- %s1_year = string version of the date -->
+		<English>%s1_year. The savage winds of Arrakis sweep across the sea of sand. They rip and tear at deserted settlements, abandoned cities, the burnt-out husks of grounded thopters and carryalls, the wind-etched skeletons of the fallen.[NEWLINE][NEWLINE]The titanic struggle to control the planet and its priceless treasure, the spice melange, now seems like a distant memory. The Great Catastrophe has wiped out all but a remnant of each of the warring factions. Communication links with the Spacing Guild and your Homeworld are lost, and your ragged band must now struggle to rebuild and revive all that is lost.[NEWLINE][NEWLINE]The %s2_civ now look to you to lead them and gain control over Dune. Remember, %s3_leader, he who controls Arrakis controls the spice, and he who controls the spice controls the universe. Do you have the strength and cunning to prevail? Rise from beneath the sandstorm, overcome your rivals and become the Master of Dune!</English>
+		<French>%s1_year. Les Vents sauvages d'Arrakis balayent la mer de sable. Ils s'engouffrent et déchirent les campements désertés, les villes abandonnées, les carcasses calcinées de transporteurs et thopters cloués au sol à jamais, les squelettes érodés de ceux qui sont tombés. [NEWLINE][NEWLINE] la lutte titanesque pour le contrôle de la planète et de son trésor inestimable, l'Epice, apparaît n'être qu'un lointain souvenir. La Grande Catastrhope a détruit le peu qui restaient des factions en guerre. Les relais de communication avec la Guilde spaciale et votre monde natal sont perdus, et les survivants doivent lutter chaque jour pour survivre et tenter de reconstruire tout ce qui a été perdu. [NEWLINE][NEWLINE]Les %s2:3_civ comptent sur vous pour les guider et reprendre le contrôle de Dune. Souvenez-vous, %s3_leader, celui qui contrôle Arrakis contrôle l'Epice, et celui qui contrôle l'Epice contrôle l'Univers. Avez-vous assez de force, de courage et de ruse pour l'emporter ?</French>
+		<German>%s1_year. The savage winds of Arrakis sweep across the sea of sand. They rip and tear at deserted settlements, abandoned cities, the burnt-out husks of grounded thopters and carryalls, the wind-etched skeletons of the fallen.[NEWLINE][NEWLINE]The titanic struggle to control the planet and its priceless treasure, the spice melange, now seems like a distant memory. The Great Catastrophe has wiped out all but a remnant of each of the warring factions. Communication links with the Spacing Guild and your homeworld are lost, and your ragged band must now struggle to rebuild and regain all that is lost.[NEWLINE][NEWLINE]The %s2_civ now look to you to lead them and gain control over Dune. Remember, %s3_leader, he who controls Arrakis controls the spice, and he who controls the spice controls the universe. Do you have the strength and cunning to prevail?</German>
+		<Italian>%s1_year. The savage winds of Arrakis sweep across the sea of sand. They rip and tear at deserted settlements, abandoned cities, the burnt-out husks of grounded thopters and carryalls, the wind-etched skeletons of the fallen.[NEWLINE][NEWLINE]The titanic struggle to control the planet and its priceless treasure, the spice melange, now seems like a distant memory. The Great Catastrophe has wiped out all but a remnant of each of the warring factions. Communication links with the Spacing Guild and your homeworld are lost, and your ragged band must now struggle to rebuild and regain all that is lost.[NEWLINE][NEWLINE]The %s2_civ now look to you to lead them and gain control over Dune. Remember, %s3_leader, he who controls Arrakis controls the spice, and he who controls the spice controls the universe. Do you have the strength and cunning to prevail?</Italian>
+		<Spanish>%s1_year. The savage winds of Arrakis sweep across the sea of sand. They rip and tear at deserted settlements, abandoned cities, the burnt-out husks of grounded thopters and carryalls, the wind-etched skeletons of the fallen.[NEWLINE][NEWLINE]The titanic struggle to control the planet and its priceless treasure, the spice melange, now seems like a distant memory. The Great Catastrophe has wiped out all but a remnant of each of the warring factions. Communication links with the Spacing Guild and your homeworld are lost, and your ragged band must now struggle to rebuild and regain all that is lost.[NEWLINE][NEWLINE]The %s2_civ now look to you to lead them and gain control over Dune. Remember, %s3_leader, he who controls Arrakis controls the spice, and he who controls the spice controls the universe. Do you have the strength and cunning to prevail?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PER_CITY_WITH_STRING</Tag>
+		<English>[SPACE]per City with[SPACE]</English>
+		<French>[SPACE]par Ville avec[SPACE]</French>
+		<German>[SPACE]per City with[SPACE]</German>
+		<Italian>[SPACE]per City with[SPACE]</Italian>
+		<Spanish>[SPACE]per City with[SPACE]</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HEALTH_FROM_FRESH_WATER</Tag>
+		<English>%D1_Change[ICON_HEALTHY] from Moisture</English>
+		<French>%D1_Change[ICON_HEALTHY] de l'Humidité</French>
+		<German>%D1_Change[ICON_HEALTHY] from Moisture</German>
+		<Italian>%D1_Change[ICON_HEALTHY] from Moisture</Italian>
+		<Spanish>%D1_Change[ICON_HEALTHY] from Moisture</Spanish>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_KEY_MISC_FROM_FRESH_WATER</Tag>
+		<English>%D1_Change[ICON_UNHEALTHY] from Moisture</English>
+		<French>%D1_Change[ICON_UNHEALTHY] de l'Humidité</French>
+		<German>%D1_Change[ICON_UNHEALTHY] from Moisture</German>
+		<Italian>%D1_Change[ICON_UNHEALTHY] from Moisture</Italian>
+		<Spanish>%D1_Change[ICON_UNHEALTHY] from Moisture</Spanish>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_FRESH_WATER</Tag>
+		<English>Moisture</English>
+		<French>Humidité</French>
+		<German>Moisture</German>
+		<Italian>Moisture</Italian>
+		<Spanish>Moisture</Spanish>
+	</TEXT>				
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_ADDS_FRESH_WATER</Tag>
+		<English>[NEWLINE][ICON_BULLET]Acts as a source of moisture</English>
+		<French>[NEWLINE][ICON_BULLET]Agit comme une source d'humidité</French>
+		<German>[NEWLINE][ICON_BULLET]Acts as a source of moisture</German>
+		<Italian>[NEWLINE][ICON_BULLET]Acts as a source of moisture</Italian>
+		<Spanish>[NEWLINE][ICON_BULLET]Acts as a source of moisture</Spanish>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_KEY_TERRAIN_NO_FRESH_WATER_CITIES</Tag>
+		<English>[NEWLINE][ICON_BULLET]Cities cannot be founded near moisture</English>
+		<French>[NEWLINE][ICON_BULLET]Les Villes ne peuvent être fondées près des sources d'humidité</French>
+		<German>[NEWLINE][ICON_BULLET]Cities cannot be founded near moisture</German>
+		<Italian>[NEWLINE][ICON_BULLET]Cities cannot be founded near moisture</Italian>
+		<Spanish>[NEWLINE][ICON_BULLET]Cities cannot be founded near moisture</Spanish>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_KEY_TERRAIN_FRESH_WATER_CITIES</Tag>
+		<English>unless they are near moisture</English>
+		<French>sauf si elles sont à proximité d'humidité</French>
+		<German>unless they are near moisture</German>
+		<Italian>unless they are near moisture</Italian>
+		<Spanish>unless they are near moisture</Spanish>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FRESH_WATER_RADIUS</Tag>
+		<English>[ICON_BULLET]Adds Moisture in a %d1 tile radius</English>
+		<French>[ICON_BULLET]procure de l'humidité dans un rayon de %d1 cases</French>
+		<German>[ICON_BULLET]Adds Moisture in a %d1 tile radius</German>
+		<Italian>[ICON_BULLET]Adds Moisture in a %d1 tile radius</Italian>
+		<Spanish>[ICON_BULLET]Adds Moisture in a %d1 tile radius</Spanish>
+	</TEXT>				
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_NO_BUILD_FRESH_WATER</Tag>
+		<English>[ICON_BULLET]Cannot be built near Moisture</English>
+		<French>[ICON_BULLET]Ne peut être construit près de sources d'humidité</French>
+		<German>[ICON_BULLET]Cannot be built near Moisture</German>
+		<Italian>[ICON_BULLET]Cannot be built near Moisture</Italian>
+		<Spanish>[ICON_BULLET]Cannot be built near Moisture</Spanish>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_WORLD_FXMAMMOTH</Tag>
+		<English>Mammoth</English>
+		<French>Mammouth</French>
+		<German>Mammoth</German>
+		<Italian>Mammoth</Italian>
+		<Spanish>Mammoth</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_PEAK</Tag>
+		<English>Mesa</English>
+		<French>Plateau</French>
+		<German>Mesa</German>
+		<Italian>Mesa</Italian>
+		<Spanish>Mesa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_HILLS</Tag>
+		<English>Sink/</English>
+		<French>Vallée/</French>
+		<German>Sink/</German>
+		<Italian>Sink/</Italian>
+		<Spanish>Sink/</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_HILLS</Tag>
+		<English>Sink</English>
+		<French>Vallée</French>
+		<German>Sink</German>
+		<Italian>Sink</Italian>
+		<Spanish>Sink</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_PEAKS</Tag>
+		<English>Mesa</English>
+		<French>Plateau</French>
+		<German>Mesa</German>
+		<Italian>Mesa</Italian>
+		<Spanish>Mesa</Spanish>
+	</TEXT>
+
+	<!-- Projects -->
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_HOUSE_ATOMICS_PEDIA</Tag>
+		<English>
+Stub pedia for House Atomics
+		</English>
+		<French>
+Stub pedia for House Atomics
+		</French>
+		<German>
+Stub pedia for House Atomics
+		</German>
+		<Italian>
+Stub pedia for House Atomics
+		</Italian>
+		<Spanish>
+Stub pedia for House Atomics
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_HOUSE_ATOMICS_STRATEGY</Tag>
+		<English>
+Stub strategy for House Atomics
+		</English>
+		<French>
+Stub strategy for House Atomics
+		</French>
+		<German>
+Stub strategy for House Atomics
+		</German>
+		<Italian>
+Stub strategy for House Atomics
+		</Italian>
+		<Spanish>
+Stub strategy for House Atomics
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA1</Tag>
+		<English>
+[ICON_BULLET]Kwisatz Haderach: "Shortening of the Way." This is the label applied by the Bene Gesserit to the unknown for which they sought a genetic solution: a male Bene Gesserit whose organic mental powers would bridge space and time.
+[ICON_BULLET]Settled as free specialist in the Capital, his Prescience will grant extra beakers and espionage points according to his ability and spice usage.
+[ICON_BULLET]Each following Kwisatz Haderach will substitute the previous one.
+[ICON_BULLET]The existence of the Precursor allows a chance for every unit, after a combat victory, to gain 'Inspired I'.
+		</English>
+		<French>
+Stub pedia for Breeding Projects
+		</French>
+		<German>
+Stub pedia for Breeding Projects
+		</German>
+		<Italian>
+Stub pedia for Breeding Projects
+		</Italian>
+		<Spanish>
+Stub pedia for Breeding Projects
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA2</Tag>
+		<English>
+[ICON_BULLET]Kwisatz Haderach: "Shortening of the Way." This is the label applied by the Bene Gesserit to the unknown for which they sought a genetic solution: a male Bene Gesserit whose organic mental powers would bridge space and time.
+[ICON_BULLET]Settled as free specialist in the Capital, his Prescience will grant extra beakers and espionage points according to his ability and spice usage.
+[ICON_BULLET]Each following Kwisatz Haderach will substitute the previous one.
+[ICON_BULLET]The existence of the Aspirant allows a chance for every unit, after a combat victory, to gain 'Inspired II'.
+		</English>
+		<French>
+Stub pedia for Breeding Projects
+		</French>
+		<German>
+Stub pedia for Breeding Projects
+		</German>
+		<Italian>
+Stub pedia for Breeding Projects
+		</Italian>
+		<Spanish>
+Stub pedia for Breeding Projects
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA3</Tag>
+		<English>
+[ICON_BULLET]Kwisatz Haderach: "Shortening of the Way." This is the label applied by the Bene Gesserit to the unknown for which they sought a genetic solution: a male Bene Gesserit whose organic mental powers would bridge space and time.
+[ICON_BULLET]Settled as free specialist in the Capital, his Prescience will grant extra beakers and espionage points according to his ability and spice usage.
+[ICON_BULLET]Each following Kwisatz Haderach will substitute the previous one.
+[ICON_BULLET]The existence of the Candidate allows a chance for every unit, after a combat victory, to gain 'Inspired III'.
+		</English>
+		<French>
+Stub pedia for Breeding Projects
+		</French>
+		<German>
+Stub pedia for Breeding Projects
+		</German>
+		<Italian>
+Stub pedia for Breeding Projects
+		</Italian>
+		<Spanish>
+Stub pedia for Breeding Projects
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA4</Tag>
+		<English>
+[ICON_BULLET]Kwisatz Haderach: "Shortening of the Way." This is the label applied by the Bene Gesserit to the unknown for which they sought a genetic solution: a male Bene Gesserit whose organic mental powers would bridge space and time.
+[ICON_BULLET]Settled as free specialist in the Capital, his Prescience will grant extra beakers and espionage points according to his ability and spice usage.
+[ICON_BULLET]Each following Kwisatz Haderach will substitute the previous one.
+[ICON_BULLET]The existence of the Kwisatz Haderach allows a chance for every unit, after a combat victory, to gain 'Inspired IV'.
+[ICON_BULLET]Will inspire every Bene Gesserit city.
+		</English>
+		<French>
+Stub pedia for Breeding Projects
+		</French>
+		<German>
+Stub pedia for Breeding Projects
+		</German>
+		<Italian>
+Stub pedia for Breeding Projects
+		</Italian>
+		<Spanish>
+Stub pedia for Breeding Projects
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING_PROJECT_STRATEGY</Tag>
+		<English>
+The Bene Gesserit Breeding Project comes in four levels.  Ultimately it will produce a Kwisatz Haderach.  When each level is complete, one irreplaceable specialist is granted.
+		</English>
+		<French>
+Le projet de procréation Bene Gesserit contient Quatre niveaux. Au stade ultime, cela engendrera le Kwisatz Haderach. Lorsque chaque niveau est terminé, une Unité unique et irremplaçable est disponible. Chaque unité a un champ de vision supérieur et booste la puissance des unités qui combattent à ses cotés.
+		</French>
+		<German>
+The Bene Gesserit Breeding Project comes in four levels.  Ultimately it will produce a Kwisatz Haderach.  When each level is complete, one irreplaceable unit is granted.  Each unit has a longer visibility range and gives a stronger combat boost to units in its stack.
+		</German>
+		<Italian>
+The Bene Gesserit Breeding Project comes in four levels.  Ultimately it will produce a Kwisatz Haderach.  When each level is complete, one irreplaceable unit is granted.  Each unit has a longer visibility range and gives a stronger combat boost to units in its stack.
+		</Italian>
+		<Spanish>
+The Bene Gesserit Breeding Project comes in four levels.  Ultimately it will produce a Kwisatz Haderach.  When each level is complete, one irreplaceable unit is granted.  Each unit has a longer visibility range and gives a stronger combat boost to units in its stack.
+		</Spanish>
+	</TEXT>
+	<!-- Miscellaneous -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WATER_WORK</Tag>
+		<English>Can Work Desert Tiles</English>
+		<French>Peut Travailler sur les Cases désertiques</French>
+		<German>Can Work Desert Tiles</German>
+		<Italian>Can Work Desert Tiles</Italian>
+		<Spanish>Can Work Desert Tiles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WATER_PLOTS</Tag>
+		<English>Desert Tiles</English>
+		<French>Cases désertiques</French>
+		<German>Desert Tiles</German>
+		<Italian>Desert Tiles</Italian>
+		<Spanish>Desert Tiles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WATER_PLOTS_ALL_CITIES</Tag>
+		<English>All Cities Desert Tiles</English>
+		<French>Cases désertiques de toutes les Villes</French>
+		<German>All Cities Desert Tiles</German>
+		<Italian>All Cities Desert Tiles</Italian>
+		<Spanish>All Cities Desert Tiles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GET_SLAVE</Tag>
+		<English>
+You have captured a slave!
+		</English>
+		<French>
+Vous avez capturé un esclave!
+		</French>
+		<German>
+You have captured a slave!
+		</German>
+		<Italian>
+You have captured a slave!
+		</Italian>
+		<Spanish>
+You have captured a slave!
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GET_VEHICLE</Tag>
+		<English>
+You have captured a defeated %s1 %s2!
+		</English>
+		<French>
+Vous avez capturé un %s1!
+		</French>
+		<German>
+You have captured a %s1!
+		</German>
+		<Italian>
+You have captured a %s1!
+		</Italian>
+		<Spanish>
+You have captured a %s1!
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELP_GOLD_COST</Tag>
+		<English>
+Hire Cost: %d1_Num
+		</English>
+		<French>
+Coût de recrutement : %d1_Num
+		</French>
+		<German>
+Hire Cost: %d1_Num
+		</German>
+		<Italian>
+Hire Cost: %d1_Num
+		</Italian>
+		<Spanish>
+Hire Cost: %d1_Num
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_FOOD</Tag>
+		<English>Water</English>
+		<French>Eau</French>
+		<German>Water</German>
+		<Italian>Water</Italian>
+		<Spanish>Water</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_FAVORITE_CIVILIZATION</Tag>
+		<English>
+%D1: "There is a bond of friendship between us."
+		</English>
+		<French>
+%D1: "Il existe un lien d'amitié entre nous."
+		</French>
+		<German>
+%D1: "There is a bond of friendship between us."
+		</German>
+		<Italian>
+%D1: "There is a bond of friendship between us."
+		</Italian>
+		<Spanish>
+%D1: "There is a bond of friendship between us."
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_HATED_CIVILIZATION</Tag>
+		<English>
+%D1: "There is a long-standing vendetta between us!"
+		</English>
+		<French>
+%D1: "Il y a des querelles ancestrales entre nous!"
+		</French>
+		<German>
+%D1: "There is a long-standing vendetta between us!"
+		</German>
+		<Italian>
+%D1: "There is a long-standing vendetta between us!"
+		</Italian>
+		<Spanish>
+%D1: "There is a long-standing vendetta between us!"
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_HATED_CIVIC</Tag>
+		<English>
+%D1: "You believe in the wrong future for Arrakis!"
+		</English>
+		<French>
+%D1: "Vous croyez à un autre Futur pour Arrakis!"
+		</French>
+		<German>
+%D1: "You believe in the wrong future for Arrakis!"
+		</German>
+		<Italian>
+%D1: "You believe in the wrong future for Arrakis!"
+		</Italian>
+		<Spanish>
+%D1: "You believe in the wrong future for Arrakis!"
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_EXTRA_BAD</Tag>
+		<English>
+%D1: "Your terraforming is threatening the spice!"
+		</English>
+		<French>
+%D1: "Votre Terraformation menace l'Epice!"
+		</French>
+		<German>
+%D1: "Your terraforming is threatening the spice!"
+		</German>
+		<Italian>
+%D1: "Your terraforming is threatening the spice!"
+		</Italian>
+		<Spanish>
+%D1: "Your terraforming is threatening the spice!"
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ARRAKIS_SPICE_HELP</Tag>
+		<English>
+[ICON_BULLET]Causes -4 reaction to followers of Arrakis Paradise civic
+[ICON_BULLET]Spice expires much more slowly within cultural borders
+		</English>
+		<French>
+[ICON_BULLET]Provoque -4 pour les nations suivant la doctrine Paradis d'Arrakis
+[ICON_BULLET]Les sources d'Epice s'épuisent plus lentement à l'intérieur de nos frontières
+		</French>
+		<German>
+[ICON_BULLET]Causes -4 reaction to followers of Arrakis Paradise civic
+[ICON_BULLET]Spice expires much more slowly within cultural borders
+		</German>
+		<Italian>
+[ICON_BULLET]Causes -4 reaction to followers of Arrakis Paradise civic
+[ICON_BULLET]Spice expires much more slowly within cultural borders
+		</Italian>
+		<Spanish>
+[ICON_BULLET]Causes -4 reaction to followers of Arrakis Paradise civic
+[ICON_BULLET]Spice expires much more slowly within cultural borders
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ARRAKIS_PARADISE_HELP</Tag>
+		<English>
+[ICON_BULLET]Causes -4 reaction to followers of Spice Industry civic
+[ICON_BULLET]Required to build Catchbasin and Reservoir of Liet
+		</English>
+		<French>
+[ICON_BULLET]Provoque -4 pour les nations suivant la doctrine Industrie de l'Epice
+[ICON_BULLET]Requis pour construire des Bassins d'accumulation et le Réservoir de Liet
+		</French>
+		<German>
+[ICON_BULLET]Causes -4 reaction to followers of Spice Industry civic
+[ICON_BULLET]Required to build Catchbasin and Reservoir of Liet
+		</German>
+		<Italian>
+[ICON_BULLET]Causes -4 reaction to followers of Spice Industry civic
+[ICON_BULLET]Required to build Catchbasin and Reservoir of Liet
+		</Italian>
+		<Spanish>
+[ICON_BULLET]Causes -4 reaction to followers of Spice Industry civic
+[ICON_BULLET]Required to build Catchbasin and Reservoir of Liet
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PEAK_INVALID</Tag>
+		<English>[ICON_BULLET]Can not be built on mesa</English>
+		<French>[ICON_BULLET]Ne peut être construit sur un plateau</French>
+		<German>[ICON_BULLET]Can not be built on mesa</German>
+		<Italian>[ICON_BULLET]Can not be built on mesa</Italian>
+		<Spanish>[ICON_BULLET]Can not be built on mesa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_RELIGION_FORBIDDEN</Tag>
+		<English>Your civilization is forbidden.</English>
+		<French>Interdite pour Votre civilization.</French>
+		<German>Your civilization is forbidden.</German>
+		<Italian>Your civilization is forbidden.</Italian>
+		<Spanish>Your civilization is forbidden.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_UNIT_PRODUCED</Tag>
+		<English>[ICON_BULLET]Produced by[SPACE]</English>
+		<French>[ICON_BULLET]Produit par[SPACE]</French>
+		<German>[ICON_BULLET]Produced by[SPACE]</German>
+		<Italian>[ICON_BULLET]Produced by[SPACE]</Italian>
+		<Spanish>[ICON_BULLET]Produced by[SPACE]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_REQUIRES_CIVILIZATION</Tag>
+		<English>[ICON_BULLET]May Only Be Created By</English>
+		<French>[ICON_BULLET]Peut uniquement être créé par</French>
+		<German>[ICON_BULLET]May Only Be Created By</German>
+		<Italian>[ICON_BULLET]May Only Be Created By</Italian>
+		<Spanish>[ICON_BULLET]May Only Be Created By</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_PRODUCES_UNIT</Tag>
+		<English>[ICON_BULLET]Produces One Free</English>
+		<French>[ICON_BULLET]Produit gratuitement un</French>
+		<German>[ICON_BULLET]Produces One Free</German>
+		<Italian>[ICON_BULLET]Produces One Free</Italian>
+		<Spanish>[ICON_BULLET]Produces One Free</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN1</Tag>
+		<English>Harq al'Ada</English>
+		<French>Harq al'Ada</French>
+		<German>Harq al'Ada</German>
+		<Italian>Harq al'Ada</Italian>
+		<Spanish>Harq al'Ada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN2</Tag>
+		<English>Bronso of Ix</English>
+		<French>Bronso de Ix</French>
+		<German>Bronso of Ix</German>
+		<Italian>Bronso of Ix</Italian>
+		<Spanish>Bronso of Ix</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN3</Tag>
+		<English>Hayt</English>
+		<French>Hayt</French>
+		<German>Hayt</German>
+		<Italian>Hayt</Italian>
+		<Spanish>Hayt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN4</Tag>
+		<English>Palimbasha</English>
+		<French>Palimbasha</French>
+		<German>Palimbasha</German>
+		<Italian>Palimbasha</Italian>
+		<Spanish>Palimbasha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN5</Tag>
+		<English>Tagir Mohandis</English>
+		<French>Tagir Mohandis</French>
+		<German>Tagir Mohandis</German>
+		<Italian>Tagir Mohandis</Italian>
+		<Spanish>Tagir Mohandis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN6</Tag>
+		<English>Hadi Benotto</English>
+		<French>Hadi Benotto</French>
+		<German>Hadi Benotto</German>
+		<Italian>Hadi Benotto</Italian>
+		<Spanish>Hadi Benotto</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN7</Tag>
+		<English>Harq al'Ada</English>
+		<French>Harq al'Ada</French>
+		<German>Harq al'Ada</German>
+		<Italian>Harq al'Ada</Italian>
+		<Spanish>Harq al'Ada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN8</Tag>
+		<English>Bronso of Ix</English>
+		<French>Bronso de Ix</French>
+		<German>Bronso of Ix</German>
+		<Italian>Bronso of Ix</Italian>
+		<Spanish>Bronso of Ix</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN9</Tag>
+		<English>Palimbasha</English>
+		<French>Palimbasha</French>
+		<German>Palimbasha</German>
+		<Italian>Palimbasha</Italian>
+		<Spanish>Palimbasha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN10</Tag>
+		<English>Tagir Mohandis</English>
+		<French>Tagir Mohandis</French>
+		<German>Tagir Mohandis</German>
+		<Italian>Tagir Mohandis</Italian>
+		<Spanish>Tagir Mohandis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TOPCIVS_HISTORIAN11</Tag>
+		<English>Hadi Benotto</English>
+		<French>Hadi Benotto</French>
+		<German>Hadi Benotto</German>
+		<Italian>Hadi Benotto</Italian>
+		<Spanish>Hadi Benotto</Spanish>
+	</TEXT>
+
+	<!-- BuildInfos -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_INSFARM</Tag>
+		<English>Build an Insect Farm</English>
+		<French>Construire une Ferme d'Insectes</French>
+		<German>Build an Insect Farm</German>
+		<Italian>Build an Insect Farm</Italian>
+		<Spanish>Build an Insect Farm</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_MINE</Tag>
+		<English>Build a Surface Mine</English>
+		<French>Construire une Mine de surface</French>
+		<German>Build a Surface Mine</German>
+		<Italian>Build a Surface Mine</Italian>
+		<Spanish>Build a Surface Mine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_MINE2</Tag>
+		<English>Build a Deep Mine</English>
+		<French>Construire une Mine souterraine</French>
+		<German>Build a Deep Mine</German>
+		<Italian>Build a Deep Mine</Italian>
+		<Spanish>Build a Deep Mine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_MINE3</Tag>
+		<English>Build a Core Mine</English>
+		<French>Construire une Mine de profondeur</French>
+		<German>Build a Core Mine</German>
+		<Italian>Build a Core Mine</Italian>
+		<Spanish>Build a Core Mine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SOLARFARM</Tag>
+		<English>Build a Solar Farm</English>
+		<French>Construire une Ferme Solaire</French>
+		<German>Build a Solar Farm</German>
+		<Italian>Build a Solar Farm</Italian>
+		<Spanish>Build a Solar Farm</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WINDMILL</Tag>
+		<English>Build Turbines</English>
+		<French>Construire des Turbines</French>
+		<German>Build Turbines</German>
+		<Italian>Build Turbines</Italian>
+		<Spanish>Build Turbines</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION</Tag>
+		<English>Build a Desert Plantation</English>
+		<French>Construire une Plantation de Désert</French>
+		<German>Build a Desert Plantation</German>
+		<Italian>Build a Desert Plantation</Italian>
+		<Spanish>Build a Desert Plantation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_DEWCOLL</Tag>
+		<English>Build Dew Collectors</English>
+		<French>Construire un Collecteur de Rosée</French>
+		<German>Build Dew Collectors</German>
+		<Italian>Build Dew Collectors</Italian>
+		<Spanish>Build Dew Collectors</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_OUTPOST</Tag>
+		<English>Build an Outpost</English>
+		<French>Construire un Poste avancé</French>
+		<German>Build an Outpost</German>
+		<Italian>Build an Outpost</Italian>
+		<Spanish>Build an Outpost</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WINDTRAP</Tag>
+		<English>Build a Wind Trap</English>
+		<French>Construire un Piège à Vent</French>
+		<German>Build a Wind Trap</German>
+		<Italian>Build a Wind Trap</Italian>
+		<Spanish>Build a Wind Trap</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HARVESTER</Tag>
+		<English>Build a Spice Harvester</English>
+		<French>Déployer une Moissonneuse</French>
+		<German>Build a Spice Harvester</German>
+		<Italian>Build a Spice Harvester</Italian>
+		<Spanish>Build a Spice Harvester</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SHALLOW_WELL</Tag>
+		<English>Dig a Shallow Well</English>
+		<French>Creuser un Puits de surface</French>
+		<German>Dig a Shallow Well</German>
+		<Italian>Dig a Shallow Well</Italian>
+		<Spanish>Dig a Shallow Well</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_DEEP_WELL</Tag>
+		<English>Drill a Deep Well</English>
+		<French>Creuser un Puits souterrain</French>
+		<German>Drill a Deep Well</German>
+		<Italian>Drill a Deep Well</Italian>
+		<Spanish>Drill a Deep Well</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_AQUABORE</Tag>
+		<English>Drill an Aquabore</English>
+		<French>Réaliser un Forage</French>
+		<German>Drill an Aquabore</German>
+		<Italian>Drill an Aquabore</Italian>
+		<Spanish>Drill an Aquabore</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_MELTING_LENS</Tag>
+		<English>Build Melting Lens</English>
+		<French>Construire des Lentilles de Fusion</French>
+		<German>Build Melting Lens</German>
+		<Italian>Build Melting Lens</Italian>
+		<Spanish>Build Melting Lens</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_REMOVE_OUTCROP</Tag>
+		<English>Demolish Outcrop</English>
+		<French>Démolir les pics rocheux</French>
+		<German>Demolish Outcrop</German>
+		<Italian>Demolish Outcrop</Italian>
+		<Spanish>Demolish Outcrop</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_ICE_EXTRACTOR</Tag>
+		<English>Build Ice Extractor</English>
+		<French>Construire un Extracteur de Glace</French>
+		<German>Build Ice Extractor</German>
+		<Italian>Build Ice Extractor</Italian>
+		<Spanish>Build Ice Extractor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_DESALINATOR</Tag>
+		<English>Desalinate Sink</English>
+		<French>Désaliniser</French>
+		<German>Desalinate Sink</German>
+		<Italian>Desalinate Sink</Italian>
+		<Spanish>Desalinate Sink</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_ANCIENT</Tag>
+		<English>Ayat - Seeds</English>
+		<French>Ayat - Semences</French>
+		<German>Ayat - Seeds</German>
+		<Italian>Ayat - Seeds</Italian>
+		<Spanish>Ayat - Seeds</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_CLASSICAL</Tag>
+		<English>Wali - Youth</English>
+		<French>Wali - Enfance</French>
+		<German>Wali - Youth</German>
+		<Italian>Wali - Youth</Italian>
+		<Spanish>Wali - Youth</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_MEDIEVAL</Tag>
+		<English>Mihna - Testing</English>
+		<French>Mihna - Jeunesse</French>
+		<German>Mihna - Testing</German>
+		<Italian>Mihna - Testing</Italian>
+		<Spanish>Mihna - Testing</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_RENAISSANCE</Tag>
+		<English>Hajra - Seeking</English>
+		<French>Hajra - Recherche</French>
+		<German>Hajra - Seeking</German>
+		<Italian>Hajra - Seeking</Italian>
+		<Spanish>Hajra - Seeking</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_INDUSTRIAL</Tag>
+		<English>Tahaddi - Strength</English>
+		<French>Tahaddi - Force</French>
+		<German>Tahaddi - Strength</German>
+		<Italian>Tahaddi - Strength</Italian>
+		<Spanish>Tahaddi - Strength</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_MODERN</Tag>
+		<English>Ijaz - Prophecy</English>
+		<French>Ijaz - Prophétie</French>
+		<German>Ijaz - Prophecy</German>
+		<Italian>Ijaz - Prophecy</Italian>
+		<Spanish>Ijaz - Prophecy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_FUTURE</Tag>
+		<English>Jannah - Paradise</English>
+		<French>Jannah - Paradis</French>
+		<German>Jannah - Paradise</German>
+		<Italian>Jannah - Paradise</Italian>
+		<Spanish>Jannah - Paradise</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_COFFEE</Tag>
+		<English>The station contains an abundant Coffee Plantation.</English>
+		<French>La Station contient une plantation florissante de café.</French>
+		<German>The station contains an abundant Coffee Plantation.</German>
+		<Italian>The station contains an abundant Coffee Plantation.</Italian>
+		<Spanish>The station contains an abundant Coffee Plantation.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_INCENSE</Tag>
+		<English>The station contains a thriving Incense Bush Plantation.</English>
+		<French>La Station contient une plantation florissante d'arbres à encens.</French>
+		<German>The station contains a thriving Incense Bush Plantation.</German>
+		<Italian>The station contains a thriving Incense Bush Plantation.</Italian>
+		<Spanish>The station contains a thriving Incense Bush Plantation.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_DATES</Tag>
+		<English>The station contains an abundant Date Plantation.</English>
+		<French>La Station contient une plantation de Dattes.</French>
+		<German>The station contains an abundant Date Plantation.</German>
+		<Italian>The station contains an abundant Date Plantation.</Italian>
+		<Spanish>The station contains an abundant Date Plantation.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_CEREAL</Tag>
+		<English>The station contains a thriving Cereal Plantation.</English>
+		<French>La Station contient une variété de céréales qui s'est bien adaptée au désert.</French>
+		<German>The station contains a thriving Cereal Plantation.</German>
+		<Italian>The station contains a thriving Cereal Plantation.</Italian>
+		<Spanish>The station contains a thriving Cereal Plantation.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_WATER_SUPPLY</Tag>
+		<English>You have found a new supply of fresh water!</English>
+		<French>Vous avez trouvé une nouvelle source d'eau!</French>
+		<German>You have found a new supply of fresh water!</German>
+		<Italian>You have found a new supply of fresh water!</Italian>
+		<Spanish>You have found a new supply of fresh water!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_LOW_PRODUCTION</Tag>
+		<English>You have salvaged some functioning equipment.</English>
+		<French>Vous avez réussi à sauver de l'équipement.</French>
+		<German>You have salvaged some functioning equipment.</German>
+		<Italian>You have salvaged some functioning equipment.</Italian>
+		<Spanish>You have salvaged some functioning equipment.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_MEDIUM_PRODUCTION</Tag>
+		<English>You have salvaged some mechanical tools.</English>
+		<French>Vous avez réussi à récupérer quelques outils méchanisés.</French>
+		<German>You have salvaged some mechanical tools.</German>
+		<Italian>You have salvaged some mechanical tools.</Italian>
+		<Spanish>You have salvaged some mechanical tools.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_LOW_SCIENCE</Tag>
+		<English>You have discovered some blueprints on minimic film.</English>
+		<French>Vous avez trouvé des fragments de vidéofilms.</French>
+		<German>You have discovered some blueprints on minimic film.</German>
+		<Italian>You have discovered some blueprints on minimic film.</Italian>
+		<Spanish>You have discovered some blueprints on minimic film.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_MEDIUM_SCIENCE</Tag>
+		<English>You have found some shigawire recordings containing scientific secrets.</English>
+		<French>Vous avez retrouvé des documents, pouvant détenir des secrets scientifiques.</French>
+		<German>You have found some shigawire recordings containing scientific secrets.</German>
+		<Italian>You have found some shigawire recordings containing scientific secrets.</Italian>
+		<Spanish>You have found some shigawire recordings containing scientific secrets.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_LOW_GOLD</Tag>
+		<English>You have found a small stockpile of spice.</English>
+		<French>Vous avez découvert une petite réserve d'Epice.</French>
+		<German>You have found a small stockpile of spice.</German>
+		<Italian>You have found a small stockpile of spice.</Italian>
+		<Spanish>You have found a small stockpile of spice.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_MEDIUM_GOLD</Tag>
+		<English>You have discovered a stockpile of spice.</English>
+		<French>Vous avez découvert une réserve d'Epice.</French>
+		<German>You have discovered a stockpile of spice.</German>
+		<Italian>You have discovered a stockpile of spice.</Italian>
+		<Spanish>You have discovered a stockpile of spice.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_HIGH_GOLD</Tag>
+		<English>You have discovered a large stockpile of spice.</English>
+		<French>Vous avez découvert une réserve importante d'Epice.</French>
+		<German>You have discovered a large stockpile of spice.</German>
+		<Italian>You have discovered a large stockpile of spice.</Italian>
+		<Spanish>You have discovered a large stockpile of spice.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_STILLSUIT</Tag>
+		<English>You have found some Fremen stillsuits in good condition.</English>
+		<French>Vous avez trouvé des distilles Fremen en bon état.</French>
+		<German>You have found some Fremen stillsuits in good condition.</German>
+		<Italian>You have found some Fremen stillsuits in good condition.</Italian>
+		<Spanish>You have found some Fremen stillsuits in good condition.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_INFANTRY</Tag>
+		<English>You encounter friendly smugglers who agree to join forces with you.</English>
+		<French>Vous rencontrez des contrebandiers qui acceptent après négociation de se joindre à vos forces.</French>
+		<German>You encounter friendly smugglers who agree to join forces with you.</German>
+		<Italian>You encounter friendly smugglers who agree to join forces with you.</Italian>
+		<Spanish>You encounter friendly smugglers who agree to join forces with you.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_QUAD</Tag>
+		<English>You have found an old but still functional vehicle.</English>
+		<French>Vous avez trouvé un vieux véhicule, miraculeusement encore en état de marche.</French>
+		<German>You have found an old but still functional vehicle.</German>
+		<Italian>You have found an old but still functional vehicle.</Italian>
+		<Spanish>You have found an old but still functional vehicle.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_VULTURE_THOPTER</Tag>
+		<English>You have found an old but still functional thopter.</English>
+		<French>Vous avez trouvé un vieux thoptère qui semble encore pouvoir prendre les airs.</French>
+		<German>You have an old but still functional thopter.</German>
+		<Italian>You have an old but still functional thopter.</Italian>
+		<Spanish>You have an old but still functional thopter.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_BARBARIANS_SOLDIER</Tag>
+		<English>You are ambushed by a group of hostile Smugglers!</English>
+		<French>Un groupe de Contrebandiers vous a tendu une embuscade!</French>
+		<German>You are ambushed by a group of hostile Smugglers!</German>
+		<Italian>You are ambushed by a group of hostile Smugglers!</Italian>
+		<Spanish>You are ambushed by a group of hostile Smugglers!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_BARBARIANS_INFANTRY</Tag>
+		<English>You are ambushed by a group of hostile Smugglers!</English>
+		<French>Un groupe de Contrebandiers vous a tendu une embuscade!</French>
+		<German>You are ambushed by a group of hostile Smugglers!</German>
+		<Italian>You are ambushed by a group of hostile Smugglers!</Italian>
+		<Spanish>You are ambushed by a group of hostile Smugglers!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_BARBARIANS_CRYSKNIFE</Tag>
+		<English>You have disturbed a group of Waterstealers!</English>
+		<French>Vous avez dérangé une bande de Voleurs d'eau!</French>
+		<German>You have disturbed a group of Waterstealers!</German>
+		<Italian>You have disturbed a group of Waterstealers!</Italian>
+		<Spanish>You have disturbed a group of Waterstealers!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING1</Tag>
+		<English>Breeding Project I</English>
+		<French>Programme de Procréation I</French>
+		<German>Breeding Project I</German>
+		<Italian>Breeding Project I</Italian>
+		<Spanish>Breeding Project I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING2</Tag>
+		<English>Breeding Project II</English>
+		<French>Programme de Procréation II</French>
+		<German>Breeding Project II</German>
+		<Italian>Breeding Project II</Italian>
+		<Spanish>Breeding Project II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING3</Tag>
+		<English>Breeding Project III</English>
+		<French>Programme de Procréation III</French>
+		<German>Breeding Project III</German>
+		<Italian>Breeding Project III</Italian>
+		<Spanish>Breeding Project III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BREEDING4</Tag>
+		<English>Breeding Project IV</English>
+		<French>Programme de Procréation IV</French>
+		<German>Breeding Project IV</German>
+		<Italian>Breeding Project IV</Italian>
+		<Spanish>Breeding Project IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_MONITOR_ELECTRICAL_SYSTEM</Tag>
+		<English>Monitor Electrical System</English>
+		<French>Système électrique</French>
+		<German>Monitor Electrical System</German>
+		<Italian>Monitor Electrical System</Italian>
+		<Spanish>Monitor Electrical System</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_MONITOR_WEAPONS_SYSTEM</Tag>
+		<English>Monitor Weapons System</English>
+		<French>Système d'Armement</French>
+		<German>Monitor Weapons System</German>
+		<Italian>Monitor Weapons System</Italian>
+		<Spanish>Monitor Weapons System</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_MONITOR_HULL</Tag>
+		<English>Monitor Hull</English>
+		<French>Coque</French>
+		<German>Monitor Hull</German>
+		<Italian>Monitor Hull</Italian>
+		<Spanish>Monitor Hull</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_MONITOR_PROPULSION_SYSTEM</Tag>
+		<English>Monitor Propulsion System</English>
+		<French>Système de Propulsion</French>
+		<German>Monitor Propulsion System</German>
+		<Italian>Monitor Propulsion System</Italian>
+		<Spanish>Monitor Propulsion System</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_MONITOR_POWER_SYSTEM</Tag>
+		<English>Monitor Power System</English>
+		<French>Système d'Alimentation</French>
+		<German>Monitor Power System</German>
+		<Italian>Monitor Power System</Italian>
+		<Spanish>Monitor Power System</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_CITIZEN</Tag>
+		<English>Worker</English>
+		<French>Ouvrier</French>
+		<German>Worker</German>
+		<Italian>Worker</Italian>
+		<Spanish>Worker</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_PRIEST</Tag>
+		<English>Priest</English>
+		<French>Prêtre</French>
+		<German>Priest</German>
+		<Italian>Priest</Italian>
+		<Spanish>Priest</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ARTIST</Tag>
+		<English>Nobleman</English>
+		<French>Noble</French>
+		<German>Nobleman</German>
+		<Italian>Nobleman</Italian>
+		<Spanish>Nobleman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SCIENTIST</Tag>
+		<English>Scientist</English>
+		<French>Scientifique</French>
+		<German>Scientist</German>
+		<Italian>Scientist</Italian>
+		<Spanish>Scientist</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_MERCHANT</Tag>
+		<English>Merchant</English>
+		<French>Marchand</French>
+		<German>Merchant</German>
+		<Italian>Merchant</Italian>
+		<Spanish>Merchant</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ENGINEER</Tag>
+		<English>Techman</English>
+		<French>Ingénieur</French>
+		<German>Techman</German>
+		<Italian>Techman</Italian>
+		<Spanish>Techman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SPY</Tag>
+		<English>Spy</English>
+		<French>Espion</French>
+		<German>Spy</German>
+		<Italian>Spy</Italian>
+		<Spanish>Spy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_PRIEST</Tag>
+		<English>Great Prophet</English>
+		<French>Prophète Illustre</French>
+		<German>Great Prophet</German>
+		<Italian>Great Prophet</Italian>
+		<Spanish>Great Prophet</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_ARTIST</Tag>
+		<English>Great Nobleman</English>
+		<French>Noble Illustre</French>
+		<German>Great Nobleman</German>
+		<Italian>Great Nobleman</Italian>
+		<Spanish>Great Nobleman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SCIENTIST</Tag>
+		<English>Great Scientist</English>
+		<French>Scientifique Illustre</French>
+		<German>Great Scientist</German>
+		<Italian>Great Scientist</Italian>
+		<Spanish>Great Scientist</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_MERCHANT</Tag>
+		<English>Great Merchant</English>
+		<French>Marchand Illustre</French>
+		<German>Great Merchant</German>
+		<Italian>Great Merchant</Italian>
+		<Spanish>Great Merchant</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_ENGINEER</Tag>
+		<English>Great Techman</English>
+		<French>Ingénieur Illustre</French>
+		<German>Great Techman</German>
+		<Italian>Great Techman</Italian>
+		<Spanish>Great Techman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_GENERAL</Tag>
+		<English>Great Burseg</English>
+		<French>Grand Burseg</French>
+		<German>Great Burseg</German>
+		<Italian>Great Burseg</Italian>
+		<Spanish>Great Burseg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SPY</Tag>
+		<English>Great Spy</English>
+		<French>Maître Espion</French>
+		<German>Great Spy</German>
+		<Italian>Great Spy</Italian>
+		<Spanish>Great Spy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TERRAFORMING</Tag>
+		<English>Terraforming</English>
+		<French>Terraformation</French>
+		<German>Terraforming</German>
+		<Italian>Terraforming</Italian>
+		<Spanish>Terraforming</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SPICE</Tag>
+		<English>Spice Monopoly</English>
+		<French>Spice Monopoly</French>
+		<German>Spice Monopoly</German>
+		<Italian>Spice Monopoly</Italian>
+		<Spanish>Spice Monopoly</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HOLY</Tag>
+		<English>Holy War</English>
+		<French>Guerre Sainte</French>
+		<German>Holy War</German>
+		<Italian>Holy War</Italian>
+		<Spanish>Holy War</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROCESS_ESPIONAGE</Tag>
+		<English>Espionage</English>
+		<French>Espionnage</French>
+		<German>Espionage</German>
+		<Italian>Espionage</Italian>
+		<Spanish>Espionage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROCESS_IDLE</Tag>
+		<English>Idle</English>
+		<French>Pas d'activité</French>
+		<German>Idle</German>
+		<Italian>Idle</Italian>
+		<Spanish>Idle</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_TARGET_CITY_REVOLT</Tag>
+		<English>A Traitor has completely lowered the defenses of %s1_CityName! The city is panicking!</English>
+		<French>Des ennemis infiltr&#233;s ont assassin&#233; le gouverneur de la ville de %s1_CityName !</French>
+		<German>Feindliche Spione haben den Stadtverwalter von %s1_CityName ermordet!</German>
+		<Italian>Infiltrati nemici hanno assassinato il governatore della citt&#224; di %s1_CityName!</Italian>
+		<Spanish>&#161;Los enemigos infiltrados han asesinado al gobernante de la ciudad de %s1_CityName!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DESTROYED</Tag>
+		<English>A %s1 destroyed your %s2</English>
+		<French>Un %s1 a détruit votre %s2</French>
+		<German>A %s1 destroyed your %s2</German>
+		<Italian>A %s1 destroyed your %s2</Italian>
+		<Spanish>A %s1 destroyed your %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DESTROYED_SW</Tag>
+		<English>A Sandworm destroyed your %s1!</English>
+		<French>Un %s1 a détruit votre %s2</French>
+		<German>A %s1 destroyed your %s2</German>
+		<Italian>A %s1 destroyed your %s2</Italian>
+		<Spanish>A %s1 destroyed your %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DESTROYED_ST</Tag>
+		<English>A Sandstorm destroyed your %s1</English>
+		<French>Un %s1 a détruit votre %s2</French>
+		<German>A %s1 destroyed your %s2</German>
+		<Italian>A %s1 destroyed your %s2</Italian>
+		<Spanish>A %s1 destroyed your %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYED_ST</Tag>
+		<English>A Sandstorm destroyed your %s1</English>
+		<French>Un %s1 a détruit votre %s2</French>
+		<German>A %s1 destroyed your %s2</German>
+		<Italian>A %s1 destroyed your %s2</Italian>
+		<Spanish>A %s1 destroyed your %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMMOBILE_ST</Tag>
+		<English>A Sandstorm has forced your %s1 to be immobilized</English>
+		<French>Un %s1 a détruit votre %s2</French>
+		<German>A %s1 destroyed your %s2</German>
+		<Italian>A %s1 destroyed your %s2</Italian>
+		<Spanish>A %s1 destroyed your %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DAMAGED_ST</Tag>
+		<English>A Sandstorm damaged your %s1</English>
+		<French>Un %s1 a endommagé votre %s2</French>
+		<German>A %s1 damaged your %s2</German>
+		<Italian>A %s1 damaged your %s2</Italian>
+		<Spanish>A %s1 damaged your %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POORLY_MAINT_REMOVED</Tag>
+		<English>The 'Poorly Maintained' Promotion has been removed from your %s1.</English>
+		<French>The Poorly Maintained Promotion has been removed from your %s1</French>
+		<German>The Poorly Maintained Promotion has been removed from your %s1</German>
+		<Italian>The Poorly Maintained Promotion has been removed from your %s1</Italian>
+		<Spanish>The Poorly Maintained Promotion has been removed from your %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HILLS_SUFFIX_01</Tag>
+		<English>%s1 Sink</English>
+		<French>Vallée de %s1</French>
+		<German>%s1 Sink</German>
+		<Italian>%s1 Sink</Italian>
+		<Spanish>%s1 Sink</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HILLS_SUFFIX_02</Tag>
+		<English>%s1 Basin</English>
+		<French>Bassin de %s1</French>
+		<German>%s1 Basin</German>
+		<Italian>%s1 Basin</Italian>
+		<Spanish>%s1 Basin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HILLS_SUFFIX_03</Tag>
+		<English>%s1 Chasm</English>
+		<French>Gouffre de %s1</French>
+		<German>%s1 Chasm</German>
+		<Italian>%s1 Chasm</Italian>
+		<Spanish>%s1 Chasm</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HILLS_SUFFIX_04</Tag>
+		<English>%s1 Pan</English>
+		<French>Plateau de %s1</French>
+		<German>%s1 Pan</German>
+		<Italian>%s1 Pan</Italian>
+		<Spanish>%s1 Pan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NONHILLS_SUFFIX_01</Tag>
+		<English>%s1 Rock</English>
+		<French>Rocher de %s1</French>
+		<German>%s1 Rock</German>
+		<Italian>%s1 Rock</Italian>
+		<Spanish>%s1 Rock</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NONHILLS_SUFFIX_02</Tag>
+		<English>%s1 Pass</English>
+		<French>Passage de %s1</French>
+		<German>%s1 Pass</German>
+		<Italian>%s1 Pass</Italian>
+		<Spanish>%s1 Pass</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NONHILLS_SUFFIX_03</Tag>
+		<English>%s1 Ridge</English>
+		<French>Arête de %s1</French>
+		<German>%s1 Ridge</German>
+		<Italian>%s1 Ridge</Italian>
+		<Spanish>%s1 Ridge</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NONHILLS_SUFFIX_04</Tag>
+		<English>%s1 Gap</English>
+		<French>Brèche de %s1</French>
+		<German>%s1 Gap</German>
+		<Italian>%s1 Gap</Italian>
+		<Spanish>%s1 Gap</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NONHILLS_SUFFIX_05</Tag>
+		<English>%s1 Lookout</English>
+		<French>Repaire de %s1</French>
+		<German>%s1 Lookout</German>
+		<Italian>%s1 Lookout</Italian>
+		<Spanish>%s1 Lookout</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXCEPTION_SUFFIX_01</Tag>
+		<English>Cliff</English>
+		<French>Falaise</French>
+		<German>Cliff</German>
+		<Italian>Cliff</Italian>
+		<Spanish>Cliff</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXCEPTION_SUFFIX_02</Tag>
+		<English>Cav</English>
+		<French>Caverne</French>
+		<German>Cav</German>
+		<Italian>Cav</Italian>
+		<Spanish>Cav</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXCEPTION_SUFFIX_03</Tag>
+		<English>Windsack</English>
+		<French>Pic</French>
+		<German>Windsack</German>
+		<Italian>Windsack</Italian>
+		<Spanish>Windsack</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEMUTA_CONTRACT_STRATEGY</Tag>
+		<English>Allows Semuta Den building</English>
+		<French>Permet la construction de Vendeurs de Semuta</French>
+		<German>Allows Semuta Den building</German>
+		<Italian>Allows Semuta Den building</Italian>
+		<Spanish>Allows Semuta Den building</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SLIG_CONTRACT_STRATEGY</Tag>
+		<English>+1 Happiness</English>
+		<French>+1 de Bonheur</French>
+		<German>+1 Happiness</German>
+		<Italian>+1 Happiness</Italian>
+		<Spanish>+1 Happiness</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CALWINE_CONTRACT_STRATEGY</Tag>
+		<English>+1 Happiness</English>
+		<French>+1 de Bonheur</French>
+		<German>+1 Happiness</German>
+		<Italian>+1 Happiness</Italian>
+		<Spanish>+1 Happiness</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_OPAFIRE_CONTRACT_STRATEGY</Tag>
+		<English>+1 Happiness</English>
+		<French>+1 de Bonheur</French>
+		<German>+1 Happiness</German>
+		<Italian>+1 Happiness</Italian>
+		<Spanish>+1 Happiness</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PUNDI_CONTRACT_STRATEGY</Tag>
+		<English>+1 Health</English>
+		<French>+1 en Santé</French>
+		<German>+1 Health</German>
+		<Italian>+1 Health</Italian>
+		<Spanish>+1 Health</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GINAZ_CONTRACT_STRATEGY</Tag>
+		<English>Enables Ginaz Training Promotions</English>
+		<French>Permet les promotions d'entraînement Ginaz</French>
+		<German>Enables Ginaz Training Promotions</German>
+		<Italian>Enables Ginaz Training Promotions</Italian>
+		<Spanish>Enables Ginaz Training Promotions</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SARDAUKAR_CONTRACT_STRATEGY</Tag>
+		<English>Can Train Sardaukar Melee Units</English>
+		<French>Peut entraîner des troupes Sardaukar</French>
+		<German>Can Train Sardaukar Melee Units</German>
+		<Italian>Can Train Sardaukar Melee Units</Italian>
+		<Spanish>Can Train Sardaukar Melee Units</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORRINO_CONTRACT_STRATEGY</Tag>
+		<English>(Recommended for Corrino)</English>
+		<French>(Recommandé pour la Maison Corrino)</French>
+		<German>(Recommended for Corrino)</German>
+		<Italian>(Recommended for Corrino)</Italian>
+		<Spanish>(Recommended for Corrino)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IX_CONTRACT_STRATEGY</Tag>
+		<English>Can Train Mechanical Walker Units</English>
+		<French>Peut construire des Unités de type Mechs</French>
+		<German>Can Train Mechanical Walker Units</German>
+		<Italian>Can Train Mechanical Walker Units</Italian>
+		<Spanish>Can Train Mechanical Walker Units</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IXRECOM_CONTRACT_STRATEGY</Tag>
+		<English>(Recommended for Ix)</English>
+		<French>(Recommandé pour la Maison Ix)</French>
+		<German>(Recommended for Ix)</German>
+		<Italian>(Recommended for Ix)</Italian>
+		<Spanish>(Recommended for Ix)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LABOR_CONTRACT_STRATEGY</Tag>
+		<English>Workers Build Improvements 25% Faster</English>
+		<French>Les Ouvriers construisent les aménagements 25% plus vite</French>
+		<German>Workers Build Improvements 25% Faster</German>
+		<Italian>Workers Build Improvements 25% Faster</Italian>
+		<Spanish>Workers Build Improvements 25% Faster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENTTRIGGER_CONTRACT</Tag>
+		<English>Offworld Trade Contract</English>
+		<French>Contrat d'Echange Interplanétaire</French>
+		<German>Offworld Trade Contract</German>
+		<Italian>Offworld Trade Contract</Italian>
+		<Spanish>Offworld Trade Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_WINE</Tag>
+		<English>Caladanian Wine Contract</English>
+		<French>Contrat de Vin Caladanien</French>
+		<German>Caladanian Wine Contract</German>
+		<Italian>Caladanian Wine Contract</Italian>
+		<Spanish>Caladanian Wine Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_IX_WEAP</Tag>
+		<English>Ixian Technology Contract</English>
+		<French>Ixian Technology Contract</French>
+		<German>Ixian Technology Contract</German>
+		<Italian>Ixian Technology Contract</Italian>
+		<Spanish>Ixian Technology Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_SLIG</Tag>
+		<English>Slig Contract</English>
+		<French>Contrat de Slig</French>
+		<German>Slig Contract</German>
+		<Italian>Slig Contract</Italian>
+		<Spanish>Slig Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_OPAFIRE</Tag>
+		<English>Opafire Contract</English>
+		<French>Contrat d'Opales de feu</French>
+		<German>Opafire Contract</German>
+		<Italian>Opafire Contract</Italian>
+		<Spanish>Opafire Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_SARDAUKAR</Tag>
+		<English>Sardaukar Contract</English>
+		<French>Contrat de Coopération Sardaukar</French>
+		<German>Sardaukar Contract</German>
+		<Italian>Sardaukar Contract</Italian>
+		<Spanish>Sardaukar Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_KINDJAL</Tag>
+		<English>Ginaz Training Contract</English>
+		<French>Contrat d'entraînement Ginaz</French>
+		<German>Ginaz Training Contract</German>
+		<Italian>Ginaz Training Contract</Italian>
+		<Spanish>Ginaz Training Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_SAPHO</Tag>
+		<English>Sapho Juice Contract</English>
+		<French>Contrat de Jus de Sapho</French>
+		<German>Sapho Juice Contract</German>
+		<Italian>Sapho Juice Contract</Italian>
+		<Spanish>Sapho Juice Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_SEMUTA</Tag>
+		<English>Semuta Contract</English>
+		<French>Contrat de Semuta</French>
+		<German>Semuta Contract</German>
+		<Italian>Semuta Contract</Italian>
+		<Spanish>Semuta Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_LABOR</Tag>
+		<English>Labor Contract</English>
+		<French>Contrat de Travail</French>
+		<German>Labor Contract</German>
+		<Italian>Labor Contract</Italian>
+		<Spanish>Labor Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_SOOSTONE</Tag>
+		<English>Soostone Contract</English>
+		<French>Contrat de Pierres de Soo</French>
+		<German>Soostone Contract</German>
+		<Italian>Soostone Contract</Italian>
+		<Spanish>Soostone Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_CONTRACT_PUNDI_RICE</Tag>
+		<English>Pundi Rice Contract</English>
+		<French>Contrat de Riz Pundi</French>
+		<German>Pundi Rice Contract</German>
+		<Italian>Pundi Rice Contract</Italian>
+		<Spanish>Pundi Rice Contract</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_MENTAT_CIVIC</Tag>
+		<English>Civic Specialty</English>
+		<French>Spécialisation Civile</French>
+		<German>Civic Specialty</German>
+		<Italian>Civic Specialty</Italian>
+		<Spanish>Civic Specialty</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_MENTAT_ESPIONAGE</Tag>
+		<English>Espionage Specialty</English>
+		<French>Spécialisation en Espionnage</French>
+		<German>Espionage Specialty</German>
+		<Italian>Espionage Specialty</Italian>
+		<Spanish>Espionage Specialty</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_MENTAT_FINANCE</Tag>
+		<English>Finance Specialty</English>
+		<French>Spécialisation en Finances</French>
+		<German>Finance Specialty</German>
+		<Italian>Finance Specialty</Italian>
+		<Spanish>Finance Specialty</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_MENTAT_INDUSTRY</Tag>
+		<English>Industry Specialty</English>
+		<French>Spécialisation en Industrie</French>
+		<German>Industry Specialty</German>
+		<Italian>Industry Specialty</Italian>
+		<Spanish>Industry Specialty</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_MENTAT_MILITARY</Tag>
+		<English>Military Specialty</English>
+		<French>Spécialisation en Militaire</French>
+		<German>Military Specialty</German>
+		<Italian>Military Specialty</Italian>
+		<Spanish>Military Specialty</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENTTRIGGER_MENTAT</Tag>
+		<English>Mentat Available</English>
+		<French>Un Mentat est disponible</French>
+		<German>Mentat Available</German>
+		<Italian>Mentat Available</Italian>
+		<Spanish>Mentat Available</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FUTURE_TECH_STRATEGY</Tag>
+		<English>
+The future may be bright - research this to support ever larger cities.
+		</English>
+		<French>
+The future may be bright - research this to support ever larger cities.
+		</French>
+		<German>
+The future may be bright - research this to support ever larger cities.
+		</German>
+		<Italian>
+The future may be bright - research this to support ever larger cities.
+		</Italian>
+		<Spanish>
+The future may be bright - research this to support ever larger cities.
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INVISIBLE_SILENTSUB</Tag>
+		<English>Invisibility</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_EXTRA_SPECIALISTS</Tag>
+		<English>[ICON_BULLET]Two Extra[SPACE]</English>
+		<French>[ICON_BULLET]Two Extra[SPACE]</French>
+		<German>[ICON_BULLET]Two Extra[SPACE]</German>
+		<Italian>[ICON_BULLET]Two Extra[SPACE]</Italian>
+		<Spanish>[ICON_BULLET]Two Extra[SPACE]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FASTER_EXPERIENCE_TEXT</Tag>
+		<English>[ICON_BULLET]Gains %D1_percent%% Experience from Combat</English>
+		<French>[ICON_BULLET]Octroie %D1_percent%% exp&#233;rience au combat</French>
+		<German>[ICON_BULLET]%D1_percent%% mehr Erfahrungspunkte durch Kampf</German>
+		<Italian>[ICON_BULLET]Acquisisce %D1_percent%% di esperienza da combattimento</Italian>
+		<Spanish>[ICON_BULLET]Gana un %D1_percent%% de experiencia por combate</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_UNIT_HAPPINESS_DW</Tag>
+		<English>[ICON_BULLET]%D1_PerUnit%F2_HappyOrSad per Military Unit Stationed in a City(%d3%F4_HappyOrSad Max)</English>
+		<French>[ICON_BULLET]%D1_PerUnit%F2_HappyOrSad par unit&#233; militaire en garnison dans une ville(%d3%F4_HappyOrSad Max)</French>
+		<German>[ICON_BULLET]%D1_PerUnit%F2_HappyOrSad pro in einer Stadt stationierter Milit&#228;reinheit(%d3%F4_HappyOrSad Max)</German>
+		<Italian>[ICON_BULLET]%D1_PerUnit%F2_HappyOrSad per le unit&#224; militari stazionate in citt&#224;(%d3%F4_HappyOrSad Max)</Italian>
+		<Spanish>[ICON_BULLET]%D1_PerUnit %F2_HappyOrSad por cada unidad militar destacada en la ciudad(%d3%F4_HappyOrSad Max)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_PROPHET_SPIRITUAL</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]A free Great Prophet is created if the Leader founds Shai'halud, Mahdi or Qizarate</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_PROPHET_MECHANIZED</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]A free Great Scientist is created if the Leader founds Thinking Machines</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_PROPHET_TECHMAN</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]A free Great Techman is created if the Leader founds Thinking Machines</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Prophet if they found the Shai'halud, Mahdi, or Qizarate religions</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_PROPHET_POLITICAL</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]A free Great Nobleman or Merchant is created if the Leader founds Imperial or CHOAM</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman or Merchant if they found Imperial or CHOAM</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman or Merchant if they found Imperial or CHOAM</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman or Merchant if they found Imperial or CHOAM</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman or Merchant if they found Imperial or CHOAM</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_PROPHET_IMPERIAL</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]A free Great Nobleman is created if the Leader founds Imperial</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman if they found Imperial</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman if they found Imperial</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman if they found Imperial</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Nobleman if they found Imperial</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_PROPHET_MERCANTILE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]A free Great Merchant is created if the Leader founds CHOAM</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Merchant if they found CHOAM</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Merchant if they found CHOAM</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Merchant if they found CHOAM</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]Recieves a free Great Merchant if they found CHOAM</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_INTERCEPTION_RATE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Interception:[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Interception:[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Interception:[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Interception:[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Interception:[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_AIR_SURVIVAL_ODDS</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Survival Odds:[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Survival Odds:[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Survival Odds:[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Survival Odds:[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Survival Odds:[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AI_LOOSE_SPICE</Tag>
+		<English>Semi-Random AI Spice Civics</English>
+		<French>Semi-Random AI Spice Civics</French>
+		<German>Semi-Random AI Spice Civics</German>
+		<Italian>Semi-Random AI Spice Civics</Italian>
+		<Spanish>Semi-Random AI Spice Civics</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AI_LOOSE_SPICE_HELP</Tag>
+		<English>AI Spice Civic Decisions are less predictable</English>
+		<French>AI Spice Civic Decisions are less predictable</French>
+		<German>AI Spice Civic Decisions are less predictable</German>
+		<Italian>AI Spice Civic Decisions are less predictable</Italian>
+		<Spanish>AI Spice Civic Decisions are less predictable</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AI_RANDOM_SPICE</Tag>
+		<English>Random AI Spice Civics</English>
+		<French>Random AI Spice Civics</French>
+		<German>Random AI Spice Civics</German>
+		<Italian>Random AI Spice Civics</Italian>
+		<Spanish>Random AI Spice Civics</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AI_RANDOM_SPICE_HELP</Tag>
+		<English>All AI have a 50/50 chance of picking Spice Industry or Arrakis Paradise</English>
+		<French>All AI have a 50/50 chance of picking Spice Industry or Arrakis Paradise</French>
+		<German>All AI have a 50/50 chance of picking Spice Industry or Arrakis Paradise</German>
+		<Italian>All AI have a 50/50 chance of picking Spice Industry or Arrakis Paradise</Italian>
+		<Spanish>All AI have a 50/50 chance of picking Spice Industry or Arrakis Paradise</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_SPICE</Tag>
+		<English>Build Spice Harvesters (Automated)</English>
+		<French>Build Spice Harvesters (Automated)</French>
+		<German>Build Spice Harvesters (Automated)</German>
+		<Italian>Build Spice Harvesters (Automated)</Italian>
+		<Spanish>Build Spice Harvesters (Automated)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HAPPY_RELIGIOUS_FREEDOM</Tag>
+		<English>+%d1_Change[ICON_HAPPY]: "Our beliefs make us happy!"</English>
+		<French>+%d1_Change[ICON_HAPPY] : "Nous avons foi en notre religion !"</French>
+		<German>+%d1_Change[ICON_HAPPY]: "Wir vertrauen auf unsere Religion!"</German>
+		<Italian>+%d1_Change[ICON_HAPPY]: "Crediamo nella nostra religione!"</Italian>
+		<Spanish>+%d1_Change [ICON_HAPPY]: "&#161;Creemos en nuestra religi&#243;n!"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ANGER_RELIGIOUS_FREEDOM</Tag>
+		<English>+%d1_Change[ICON_UNHAPPY]: "Conflicting beliefs are causing unrest!"</English>
+		<French>+%d1_Change[ICON_UNHAPPY] : "Nous demandons la libert&#233; de culte !"</French>
+		<German>+%d1_Change[ICON_UNHAPPY]: "Wir fordern Religionsfreiheit!"</German>
+		<Italian>+%d1_Change[ICON_UNHAPPY]: "Vogliamo la libert&#224; religiosa!"</Italian>
+		<Spanish>+%d1_Change [ICON_UNHAPPY]: "&#161;Queremos la libertad de culto!"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_SPICE_HELP</Tag>
+		<English>Automate all [COLOR_UNIT_TEXT]Worker[COLOR_REVERT] actions. The unit will continue working until you cancel its automation.</English>
+		<French>Automatise toutes les actions des [COLOR_UNIT_TEXT]ouvriers[COLOR_REVERT]. L'unit&#233; continue &#224; travailler tant qu'elle reste automatis&#233;e.</French>
+		<German>Automatisiert alle Aktionen Ihres [COLOR_UNIT_TEXT]Bautrupps[COLOR_REVERT]. Die Einheit arbeitet, bis Sie die Automatisierung beenden.</German>
+		<Italian>Automatizza tutte le azioni del [COLOR_UNIT_TEXT]lavoratore[COLOR_REVERT]. L'unit&#224; continuer&#224; a lavorare finch&#233; non annullerai l'automazione.</Italian>
+		<Spanish>Automatizar todas las acciones del [COLOR_UNIT_TEXT]Trabajador[COLOR_REVERT]. La unidad seguir&#225; trabajando hasta que cancel&#233;is la automatizaci&#243;n.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADE</Tag>
+		<English>Upgrade Improvements (Automated)</English>
+		<French>Upgrade Improvements (Automated)</French>
+		<German>Upgrade Improvements (Automated)</German>
+		<Italian>Upgrade Improvements (Automated)</Italian>
+		<Spanish>Upgrade Improvements (Automated)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADE_HELP</Tag>
+		<English>Automate all [COLOR_UNIT_TEXT]Worker[COLOR_REVERT] actions. The unit will continue working until you cancel its automation.</English>
+		<French>Automatise toutes les actions des [COLOR_UNIT_TEXT]ouvriers[COLOR_REVERT]. L'unit&#233; continue &#224; travailler tant qu'elle reste automatis&#233;e.</French>
+		<German>Automatisiert alle Aktionen Ihres [COLOR_UNIT_TEXT]Bautrupps[COLOR_REVERT]. Die Einheit arbeitet, bis Sie die Automatisierung beenden.</German>
+		<Italian>Automatizza tutte le azioni del [COLOR_UNIT_TEXT]lavoratore[COLOR_REVERT]. L'unit&#224; continuer&#224; a lavorare finch&#233; non annullerai l'automazione.</Italian>
+		<Spanish>Automatizar todas las acciones del [COLOR_UNIT_TEXT]Trabajador[COLOR_REVERT]. La unidad seguir&#225; trabajando hasta que cancel&#233;is la automatizaci&#243;n.</Spanish>
+	</TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_CITY_ADD_WATER</Tag>
+        <English>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</English>
+        <French>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</French>
+        <German>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</German>
+        <Italian>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</Italian>
+        <Spanish>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_CITY_ADD_HAMMERS</Tag>
+        <English>The %s1's technicians salvaged %d3[ICON_PRODUCTION] by scrapping the defeated %s2.</English>
+        <French>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</French>
+        <German>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</German>
+        <Italian>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</Italian>
+        <Spanish>%s1's Deathstill has managed to reclaim the water from a dead %s3 %s2.</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_BRIBE</Tag>
+        <English>"Commander, a %s3 %s2 has been spared after combat and may be willing to be bribed into joining your army for %d1[ICON_GOLD]!"</English>
+        <French>"Commander, a %s3 %s2 has been spared and may be willing to be bribed into joining your army for %d1[ICON_GOLD]!"</French>
+        <German>"Commander, a %s3 %s2 has been spared and may be willing to be bribed into joining your army for %d1[ICON_GOLD]!"</German>
+        <Italian>"Commander, a %s3 %s2 has been spared and may be willing to be bribed into joining your army for %d1[ICON_GOLD]!"</Italian>
+        <Spanish>"Commander, a %s3 %s2 has been spared and may be willing to be bribed into joining your army for %d1[ICON_GOLD]!"</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_KILL_UNIT</Tag>
+        <English>"No! We cannot afford the mingling of such troops with ours. Off with their heads!"</English>
+        <French>No! We cannot afford the mingling of such troops with ours. Off with their heads!</French>
+        <German>No! We cannot afford the mingling of such troops with ours. Off with their heads!</German>
+        <Italian>No! We cannot afford the mingling of such troops with ours. Off with their heads!</Italian>
+        <Spanish>No! We cannot afford the mingling of such troops with ours. Off with their heads!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_BRIBE_UNIT</Tag>
+        <English>"Very well. I discerned enough fighting bravery in there: Assign this unit to the proper place."</English>
+        <French>"Very Well. They seem capable men - Assign them to their proper places".</French>
+        <German>"Very Well. They seem capable men - Assign them to their proper places".</German>
+        <Italian>"Very Well. They seem capable men - Assign them to their proper places".</Italian>
+        <Spanish>"Very Well. They seem capable men - Assign them to their proper places".</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_BRIBER_MULTI</Tag>
+        <English>A %s3 %s2 has been spared and successfully bribed into joining your army!(%d1[ICON_GOLD] removed from treasury)</English>
+        <French>A %s3 %s2 has been spared and successfully bribed into joining your army!(%d1[ICON_GOLD] removed from treasury)</French>
+        <German>A %s3 %s2 has been spared and successfully bribed into joining your army!(%d1[ICON_GOLD] removed from treasury)</German>
+        <Italian>A %s3 %s2 has been spared and successfully bribed into joining your army!(%d1[ICON_GOLD] removed from treasury)</Italian>
+        <Spanish>A %s3 %s2 has been spared and successfully bribed into joining your army!(%d1[ICON_GOLD] removed from treasury)</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_BRIBED_MULTI</Tag>
+        <English>While engaging in combat, your %s1 was bribed and joined the Enemy's army!</English>
+        <French>While engaging in combat, your %s1 was bribed and joined the enemy's army!</French>
+        <German>While engaging in combat, your %s1 was bribed and joined the enemy's army!</German>
+        <Italian>While engaging in combat, your %s1 was bribed and joined the enemy's army!</Italian>
+        <Spanish>While engaging in combat, your %s1 was bribed and joined the enemy's army!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_INSPIRATION</Tag>
+        <English>Your %s1 has become Inspired!</English>
+        <French>Your %s1 has become Inspired!</French>
+        <German>Your %s1 has become Inspired!</German>
+        <Italian>Your %s1 has become Inspired!</Italian>
+        <Spanish>Your %s1 has become Inspired!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_TORTURE</Tag>
+        <English>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his Leader before finally perishing!</English>
+        <French>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</French>
+        <German>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</German>
+        <Italian>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</Italian>
+        <Spanish>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_TORTURE2</Tag>
+        <English>A part of the people residing in the %s2 %s3 was tortured, bleeding out %d1[ICON_ESPIONAGE] to the detriment of their Leader!</English>
+        <French>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</French>
+        <German>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</German>
+        <Italian>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</Italian>
+        <Spanish>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_TORTURE3</Tag>
+        <English>A part of the conquered population of %s2 was tortured, bleeding out %d1[ICON_ESPIONAGE] to the detriment of their Leader!</English>
+        <French>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</French>
+        <German>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</German>
+        <Italian>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</Italian>
+        <Spanish>A defeated %s3 %s2 was taken and tortured after combat, bleeding out %d1[ICON_ESPIONAGE] to the detriment of his leader before finally perishing!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_MESSAGE_TECH_GAIN</Tag>
+        <English>Your %s5 have gathered %d1 extra [ICON_RESEARCH] towards '%s2' by analyzing the remains of the defeated %s4 %s3!</English>
+        <French>Your field technicians have managed to gather %d1[ICON_RESEARCH] towards %s2 by analyzing the remaining parts of a defeated %s4 %s3!</French>
+        <German>Your field technicians have managed to gather %d1[ICON_RESEARCH] towards %s2 by analyzing the remaining parts of a defeated %s4 %s3!</German>
+        <Italian>Your field technicians have managed to gather %d1[ICON_RESEARCH] towards %s2 by analyzing the remaining parts of a defeated %s4 %s3!</Italian>
+        <Spanish>Your field technicians have managed to gather %d1[ICON_RESEARCH] towards %s2 by analyzing the remaining parts of a defeated %s4 %s3!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_PROMO_COPY</Tag>
+        <English>Your %s1 has learned the '%s4' Promotion by defeating the %s2 %s3.</English>
+        <French>Your %s1 has successfully managed to copy %s4 from a %s2 %s3!</French>
+        <German>Your %s1 has successfully managed to copy %s4 from a %s2 %s3!</German>
+        <Italian>Your %s1 has successfully managed to copy %s4 from a %s2 %s3!</Italian>
+        <Spanish>Your %s1 has successfully managed to copy %s4 from a %s2 %s3!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_SHAPESHIFT</Tag>
+        <English>Your %s1 has shapeshifted into the vanquished %s3 %s2!</English>
+        <French>Your %s1 has shapeshifted into the defeated %s2!</French>
+        <German>Your %s1 has shapeshifted into the defeated %s2!</German>
+        <Italian>Your %s1 has shapeshifted into the defeated %s2!</Italian>
+        <Spanish>Your %s1 has shapeshifted into the defeated %s2!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_DEVIATOR1</Tag>
+        <English>The Deviator's nerve gas has managed to successfully dominate the %s1 %s2!</English>
+        <French>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</French>
+        <German>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</German>
+        <Italian>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</Italian>
+        <Spanish>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_DEVIATOR2</Tag>
+        <English>The Deviator's nerve gas has managed to dominate our %s1!</English>
+        <French>The Deviator's nerve gas has managed to dominate our %s1!</French>
+        <German>The Deviator's nerve gas has managed to dominate our %s1!</German>
+        <Italian>The Deviator's nerve gas has managed to dominate our %s1!</Italian>
+        <Spanish>The Deviator's nerve gas has managed to dominate our %s1!</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_BOUNTY</Tag>
+        <English>Your %s1 has managed to gather %d2[ICON_GOLD] from the combat spoils</English>
+        <French>Your Mercenary managed to gather %d2[ICON_GOLD] from the spoils</French>
+        <German>Your Mercenary managed to gather %d2[ICON_GOLD] from the spoils</German>
+        <Italian>Your Mercenary managed to gather %d2[ICON_GOLD] from the spoils</Italian>
+        <Spanish>Your Mercenary managed to gather %d2[ICON_GOLD] from the spoils</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_ASSIMILATE</Tag>
+        <English>The perfect discipline of the army occupies %s1 with no further violence and most of the surrendering population is put at ease with the Atreides' good treatment.</English>
+        <French>%s1 is taken with no further bloodshed or loss of buildings!: The perfect discipline of the army and the Atreides' reputation for a policy of honesty and good treatment have won the surrendering population and the city is assimilated into the empire without further effort.</French>
+        <German>%s1 is taken with no further bloodshed or loss of buildings!: The perfect discipline of the army and the Atreides' reputation for a policy of honesty and good treatment have won the surrendering population and the city is assimilated into the empire without further effort.</German>
+        <Italian>%s1 is taken with no further bloodshed or loss of buildings!: The perfect discipline of the army and the Atreides' reputation for a policy of honesty and good treatment have won the surrendering population and the city is assimilated into the empire without further effort.</Italian>
+        <Spanish>%s1 is taken with no further bloodshed or loss of buildings!: The perfect discipline of the army and the Atreides' reputation for a policy of honesty and good treatment have won the surrendering population and the city is assimilated into the empire without further effort.</Spanish>
+    </TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_CONSCRIPT_CONQUEST</Tag>
+        <English>Our Imperial Rule is imposed on the city of %s1 and, as an obligatory condition for proper treatment, one %s2 is immediately conscripted.</English>
+        <French>Our Imperial Rule is imposed on %s1 and part of the population is conscripted into the army as condition for gaining proper justice and equal standing with the all of the Empire's cities.</French>
+        <German>Our Imperial Rule is imposed on %s1 and part of the population is conscripted into the army as condition for gaining proper justice and equal standing with the all of the Empire's cities.</German>
+        <Italian>Our Imperial Rule is imposed on %s1 and part of the population is conscripted into the army as condition for gaining proper justice and equal standing with the all of the Empire's cities.</Italian>
+        <Spanish>Our Imperial Rule is imposed on %s1 and part of the population is conscripted into the army as condition for gaining proper justice and equal standing with the all of the Empire's cities.</Spanish>
+    </TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_CORPORATION_COMMERCE</Tag>
+		<English>[ICON_BULLET]%D1%F2 from Bonuses consumed by Buildings</English>
+		<French>[ICON_BULLET]%D1%F2 gr&#226;ce aux soci&#233;t&#233;s commerciales</French>
+		<German>[ICON_BULLET]%D1%F2 durch Kapitalgesellschaften</German>
+		<Italian>[ICON_BULLET]%D1%F2 dalle corporazioni</Italian>
+		<Spanish>[ICON_BULLET]%D1 %F2 por corporaciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHAIHULUD_SHRINE_HELP</Tag>
+		<English>[ICON_BULLET]+0.5[ICON_FOOD] per City with [ICON_SHAIHULUD]</English>
+		<French>+1 [ICON_FOOD] from every 3 cities with Shaihulud [ICON_RELIGION]</French>
+		<German>+1 [ICON_FOOD] from every 3 cities with Shaihulud [ICON_RELIGION]</German>
+		<Italian>+1 [ICON_FOOD] from every 3 cities with Shaihulud [ICON_RELIGION]</Italian>
+		<Spanish>+1 [ICON_FOOD] from every 3 cities with Shaihulud [ICON_RELIGION]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_CITY_ADD_PRODUCTION</Tag>
+		<English>Your engineers have managed to use material from a defeated %s2 to add an extra %d3[ICON_PRODUCTION] to the production capacity of %s1!</English>
+		<French>Your engineers at %s1 have managed use material from the defeated %s3 %s2 to help the production of %s5 with an extra %d4[ICON_PRODUCTION]!</French>
+		<German>Your engineers at %s1 have managed use material from the defeated %s3 %s2 to help the production of %s5 with an extra %d4[ICON_PRODUCTION]!</German>
+		<Italian>Your engineers at %s1 have managed use material from the defeated %s3 %s2 to help the production of %s5 with an extra %d4[ICON_PRODUCTION]!</Italian>
+		<Spanish>Your engineers at %s1 have managed use material from the defeated %s3 %s2 to help the production of %s5 with an extra %d4[ICON_PRODUCTION]!</Spanish>
+	</TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_SABOTEUR</Tag>
+        <English>Your Face Dancer has shapeshifted into a Saboteur!</English>
+        <French>Your Face Dancer has shapeshifted into a Saboteur!</French>
+        <German>Your Face Dancer has shapeshifted into a Saboteur!</German>
+        <Italian>Your Face Dancer has shapeshifted into a Saboteur!</Italian>
+        <Spanish>Your Face Dancer has shapeshifted into a Saboteur!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_TRAITOR</Tag>
+        <English>Your Face Dancer has shapeshifted into a Harkonnen Traitor!</English>
+        <French>Your Face Dancer has shapeshifted into a Harkonnen Traitor!</French>
+        <German>Your Face Dancer has shapeshifted into a Harkonnen Traitor!</German>
+        <Italian>Your Face Dancer has shapeshifted into a Harkonnen Traitor!</Italian>
+        <Spanish>Your Face Dancer has shapeshifted into a Harkonnen Traitor!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_NARCO</Tag>
+        <English>Your Face Dancer has shapeshifted into a Narcotics Dealer!</English>
+        <French>Your Face Dancer has shapeshifted into a Narcotics Dealer!</French>
+        <German>Your Face Dancer has shapeshifted into a Narcotics Dealer!</German>
+        <Italian>Your Face Dancer has shapeshifted into a Narcotics Dealer!</Italian>
+        <Spanish>Your Face Dancer has shapeshifted into a Narcotics Dealer!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_ACOLYTE</Tag>
+        <English>Your Face Dancer has shapeshifted into a lovely Acolyte!</English>
+        <French>Your Face Dancer has shapeshifted into a lovely Acolyte!</French>
+        <German>Your Face Dancer has shapeshifted into a lovely Acolyte!</German>
+        <Italian>Your Face Dancer has shapeshifted into a lovely Acolyte!</Italian>
+        <Spanish>Your Face Dancer has shapeshifted into a lovely Acolyte!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_SARDAUKAR</Tag>
+        <English>Your Face Dancer has shapeshifted into a Sardaukar Agent!</English>
+        <French>Your Face Dancer has shapeshifted into a Sardaukar Agent!</French>
+        <German>Your Face Dancer has shapeshifted into a Sardaukar Agent!</German>
+        <Italian>Your Face Dancer has shapeshifted into a Sardaukar Agent!</Italian>
+        <Spanish>Your Face Dancer has shapeshifted into a Sardaukar Agent!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_SANDSHADOW</Tag>
+        <English>Your Face Dancer has shapeshifted into a Sandshadow!</English>
+        <French>Your Face Dancer has shapeshifted into a Sandshadow!</French>
+        <German>Your Face Dancer has shapeshifted into a Sandshadow!</German>
+        <Italian>Your Face Dancer has shapeshifted into a Sandshadow!</Italian>
+        <Spanish>Your Face Dancer has shapeshifted into a Sandshadow!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FACE_REVERT</Tag>
+        <English>Your Face Dancer has shapeshifted back to its original form.</English>
+        <French>Your Face Dancer has shapeshifted back to his original form.</French>
+        <German>Your Face Dancer has shapeshifted back to his original form.</German>
+        <Italian>Your Face Dancer has shapeshifted back to his original form.</Italian>
+        <Spanish>Your Face Dancer has shapeshifted back to his original form.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ORDOS_PILLAGE</Tag>
+        <English>Your %s1 has earned 0.%d4 Exp by pillaging a %s2's %s3!</English>
+        <French>Your Vehicle has earned 1 exp by pillaging an enemy plot!</French>
+        <German>Your Vehicle has earned 1 exp by pillaging an enemy plot!</German>
+        <Italian>Your Vehicle has earned 1 exp by pillaging an enemy plot!</Italian>
+        <Spanish>Your Vehicle has earned 1 exp by pillaging an enemy plot!</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TLEILAX_PURGE</Tag>
+        <English>[COLOR_HIGHLIGHT_TEXT]Purge the Powindah[COLOR_REVERT][NEWLINE]Purges Non-State [ICON_RELIGION] while creating temporary [ICON_HAPPY] and granting a small [ICON_CULTURE] boost and re-establishes the State [ICON_RELIGION] in cities where it disappeared. [NEWLINE]It consumes the Great Person.</English>
+        <French>Purges Non-State[ICON_RELIGION] (without destroying their buildings) and creates temporay happiness in all of your cities</French>
+        <German>Purges Non-State[ICON_RELIGION] (without destroying their buildings) and creates temporay happiness in all of your cities</German>
+        <Italian>Purges Non-State[ICON_RELIGION] (without destroying their buildings) and creates temporay happiness in all of your cities</Italian>
+        <Spanish>Purges Non-State[ICON_RELIGION] (without destroying their buildings) and creates temporay happiness in all of your cities</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TLEILAX_PURGE2</Tag>
+        <English>We have cleansed ourselves from the Powindah! The purged cities rejubilate and the Tleilaxu culture is invigorated.</English>
+        <French>All of the Powindah have been expelled from our lands! The purged cities rejubilate and the Tleilaxu culture is invigorated.</French>
+        <German>All of the Powindah have been expelled from our lands! The purged cities rejubilate and the Tleilaxu culture is invigorated.</German>
+        <Italian>All of the Powindah have been expelled from our lands! The purged cities rejubilate and the Tleilaxu culture is invigorated.</Italian>
+        <Spanish>All of the Powindah have been expelled from our lands! The purged cities rejubilate and the Tleilaxu culture is invigorated.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TLEILAX_NOPURGE</Tag>
+        <English>No city to Purge.</English>
+        <French>No city to Purge.</French>
+        <German>No city to Purge.</German>
+        <Italian>No city to Purge.</Italian>
+        <Spanish>No city to Purge.</Spanish>
+    </TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TLEILAX_PURGE3</Tag>
+		<English>%s1 has been purged.</English>
+		<French>%s1 has been Purged</French>
+		<German>%s1 has been Purged</German>
+		<Italian>%s1 has been Purged</Italian>
+		<Spanish>%s1 has been Purged</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENTTRIGGER_TLEILAX_PROPHET</Tag>
+		<English>Stimulate the "Language of God"</English>
+		<French>Stimulate the "Language of God"</French>
+		<German>Stimulate the "Language of God"</German>
+		<Italian>Stimulate the "Language of God"</Italian>
+		<Spanish>Stimulate the "Language of God"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVENT_TLEILAX_PROPHET</Tag>
+		<English>Strengthens [ICON_RESEARCH] in the Tleilaxu unique buildings.</English>
+		<French>Incentivate Research in the Tleilaxu Temples</French>
+		<German>Incentivate Research in the Tleilaxu Temples</German>
+		<Italian>Incentivate Research in the Tleilaxu Temples</Italian>
+		<Spanish>Incentivate Research in the Tleilaxu Temples</Spanish>
+	</TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TLEILAX_PROPHET</Tag>
+        <English>[COLOR_HIGHLIGHT_TEXT]Stimulate the "Language of God"[COLOR_REVERT][NEWLINE]Adds +2 [ICON_RESEARCH] to the Tleilaxu unique buildings. [NEWLINE]It consumes the Great Person.</English>
+        <French>[COLOR_HIGHLIGHT_TEXT]Stimulate the "Language of God"[COLOR_REVERT][NEWLINE]Adds +3 [ICON_RESEARCH] to the Tleilaxu Temples. [NEWLINE]It consumes the Great Person.</French>
+        <German>[COLOR_HIGHLIGHT_TEXT]Stimulate the "Language of God"[COLOR_REVERT][NEWLINE]Adds +3 [ICON_RESEARCH] to the Tleilaxu Temples. [NEWLINE]It consumes the Great Person.</German>
+        <Italian>[COLOR_HIGHLIGHT_TEXT]Stimulate the "Language of God"[COLOR_REVERT][NEWLINE]Adds +3 [ICON_RESEARCH] to the Tleilaxu Temples. [NEWLINE]It consumes the Great Person.</Italian>
+        <Spanish>[COLOR_HIGHLIGHT_TEXT]Stimulate the "Language of God"[COLOR_REVERT][NEWLINE]Adds +3 [ICON_RESEARCH] to the Tleilaxu Temples. [NEWLINE]It consumes the Great Person.</Spanish>
+    </TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TLEI_MASTER_PEDIA</Tag>
+		<English>[ICON_BULLET] Tleilaxu Masters are the real minds of the Bene Tleilax. Masters served the community while exercising considerable latitude of choice. They would assemble in meetings, at holy places known as "Kehls" where they would consider important decisions while "feeling the presence of their God". Masters exercised control of decisions with respect to Genetics. Many were avid researchers who "spoke parts of the language of God", their term for the arrangements of DNA.</English>
+		<French>Masters are the leaders and real minds of the Bene Tleilax.</French>
+		<German>Masters are the leaders and real minds of the Bene Tleilax.</German>
+		<Italian>Masters are the leaders and real minds of the Bene Tleilax.</Italian>
+		<Spanish>Masters are the leaders and real minds of the Bene Tleilax.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TLEI_MASTER_STRATEGY</Tag>
+		<English>Like Great Prophets, a Tleilaxu Master can construct Religious Shrines. In addition, they can also construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God' (See Dune Concepts). Finally, they can settle in a city as a specialist providing an unique combination of yield and commerce values.</English>
+		<French>Like Great Prophets, a Tleilaxu Master can construct Religious Shrines. In addition, they can also construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God' (See Dune Concepts). They can also settle in a city as a specialist providing an unique combination of yield and commerce values.</French>
+		<German>Like Great Prophets, a Tleilaxu Master can construct Religious Shrines. In addition, they can also construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God' (See Dune Concepts). They can also settle in a city as a specialist providing an unique combination of yield and commerce values.</German>
+		<Italian>Like Great Prophets, a Tleilaxu Master can construct Religious Shrines. In addition, they can also construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God' (See Dune Concepts). They can also settle in a city as a specialist providing an unique combination of yield and commerce values.</Italian>
+		<Spanish>Like Great Prophets, a Tleilaxu Master can construct Religious Shrines. In addition, they can also construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God' (See Dune Concepts). They can also settle in a city as a specialist providing an unique combination of yield and commerce values.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TLEI_MASTER_HELP</Tag>
+		<English>[ICON_BULLET]Can use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God'</English>
+		<French>Can construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God'</French>
+		<German>Can construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God'</German>
+		<Italian>Can construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God'</Italian>
+		<Spanish>Can construct the 'Great Kehl' and use the special abilities 'Purge the Powindah' and 'Stimulate the Language of God'</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STORE_GENETIC_DATA</Tag>
+		<English>From the defeated %s1, a cells' sample was taken and stored after combat.</English>
+		<French>A genetic sample from the defeated %s1 was taken after combat.</French>
+		<German>A genetic sample from the defeated %s1 was taken after combat.</German>
+		<Italian>A genetic sample from the defeated %s1 was taken after combat.</Italian>
+		<Spanish>A genetic sample from the defeated %s1 was taken after combat.</Spanish>
+	</TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TLEILAX_GHOLA_SELECT</Tag>
+        <English>[COLOR_HIGHLIGHT_TEXT][ICON_BULLET]Combat Data from the stored cells:[COLOR_REVERT][NEWLINE][COLOR_DUNE_MAGENTA_TEXT] - Name/UnitType:[COLOR_REVERT] %s1[NEWLINE][COLOR_DUNE_MAGENTA_TEXT] - Promotions:[COLOR_REVERT] %s2[NEWLINE][COLOR_DUNE_MAGENTA_TEXT] - Experience:[COLOR_REVERT] %d3[NEWLINE][COLOR_DUNE_MAGENTA_TEXT] - Level:[COLOR_REVERT] %d4[NEWLINE][COLOR_HIGHLIGHT_TEXT][ICON_BULLET]Equipment/Material cost of the new unit:[COLOR_REVERT] %d5 [ICON_GOLD]</English>
+        <French>[COLOR_HIGHLIGHT_TEXT]- Data from the stored genes:[COLOR_REVERT][NEWLINE][COLOR_HIGHLIGHT_TEXT]Name/UnitType:[COLOR_REVERT] %s1[NEWLINE][COLOR_HIGHLIGHT_TEXT]Promotions:[COLOR_REVERT] %s2[NEWLINE][COLOR_HIGHLIGHT_TEXT]Experience:[COLOR_REVERT] %d3[NEWLINE][COLOR_HIGHLIGHT_TEXT]Level:[COLOR_REVERT] %d4[NEWLINE]</French>
+        <German>[COLOR_HIGHLIGHT_TEXT]- Data from the stored genes:[COLOR_REVERT][NEWLINE][COLOR_HIGHLIGHT_TEXT]Name/UnitType:[COLOR_REVERT] %s1[NEWLINE][COLOR_HIGHLIGHT_TEXT]Promotions:[COLOR_REVERT] %s2[NEWLINE][COLOR_HIGHLIGHT_TEXT]Experience:[COLOR_REVERT] %d3[NEWLINE][COLOR_HIGHLIGHT_TEXT]Level:[COLOR_REVERT] %d4[NEWLINE]</German>
+        <Italian>[COLOR_HIGHLIGHT_TEXT]- Data from the stored genes:[COLOR_REVERT][NEWLINE][COLOR_HIGHLIGHT_TEXT]Name/UnitType:[COLOR_REVERT] %s1[NEWLINE][COLOR_HIGHLIGHT_TEXT]Promotions:[COLOR_REVERT] %s2[NEWLINE][COLOR_HIGHLIGHT_TEXT]Experience:[COLOR_REVERT] %d3[NEWLINE][COLOR_HIGHLIGHT_TEXT]Level:[COLOR_REVERT] %d4[NEWLINE]</Italian>
+        <Spanish>[COLOR_HIGHLIGHT_TEXT]- Data from the stored genes:[COLOR_REVERT][NEWLINE][COLOR_HIGHLIGHT_TEXT]Name/UnitType:[COLOR_REVERT] %s1[NEWLINE][COLOR_HIGHLIGHT_TEXT]Promotions:[COLOR_REVERT] %s2[NEWLINE][COLOR_HIGHLIGHT_TEXT]Experience:[COLOR_REVERT] %d3[NEWLINE][COLOR_HIGHLIGHT_TEXT]Level:[COLOR_REVERT] %d4[NEWLINE]</Spanish>
+    </TEXT>
+	<TEXT>
+		<Tag>TXT_GHOLA_COMPLETED</Tag>
+		<English>A new Ghola fighter is now ready!</English>
+		<French>A new Ghola has been completed from the cells of a %s1!</French>
+		<German>A new Ghola has been completed from the cells of a %s1!</German>
+		<Italian>A new Ghola has been completed from the cells of a %s1!</Italian>
+		<Spanish>A new Ghola has been completed from the cells of a %s1!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_GHOLA_PEDIA</Tag>
+		<English>The Axlotl Tank (a combination of the term "Axlotl", a small animal capable of regenerating limbs) was a device used by the Bene Tleilax to create and nurture their products, especially gholas and other complete organisms. "Tank" is a misnomer term. The actual artifact consists of a sessile human female who has been modified to dormantly accept chemical and biological cues necessary to grow the needed biological artifacts. These may be "grown" in another Axlotl tank or may be formed from a sexually mature human female. Normally the personality of the adult female is either suppressed or destroyed during the process of "formation" or "installation".</English>
+		<French>The Axlotl Tank (a combination of the term "Axlotl", a small animal capable of regenerating limbs) was a device used by the Bene Tleilax to create and nurture their products, especially gholas and other complete organisms. "Tank" is a misnomer term. The actual artifact consists of a sessile human female who has been modified to dormantly accept chemical and biological cues necessary to grow the needed biological artifacts. These may be "grown" in another Axlotl tank or may be formed from a sexually mature human female. Normally the personality of the adult female is either suppressed or destroyed during the process of "formation" or "installation".</French>
+		<German>The Axlotl Tank (a combination of the term "Axlotl", a small animal capable of regenerating limbs) was a device used by the Bene Tleilax to create and nurture their products, especially gholas and other complete organisms. "Tank" is a misnomer term. The actual artifact consists of a sessile human female who has been modified to dormantly accept chemical and biological cues necessary to grow the needed biological artifacts. These may be "grown" in another Axlotl tank or may be formed from a sexually mature human female. Normally the personality of the adult female is either suppressed or destroyed during the process of "formation" or "installation".</German>
+		<Italian>The Axlotl Tank (a combination of the term "Axlotl", a small animal capable of regenerating limbs) was a device used by the Bene Tleilax to create and nurture their products, especially gholas and other complete organisms. "Tank" is a misnomer term. The actual artifact consists of a sessile human female who has been modified to dormantly accept chemical and biological cues necessary to grow the needed biological artifacts. These may be "grown" in another Axlotl tank or may be formed from a sexually mature human female. Normally the personality of the adult female is either suppressed or destroyed during the process of "formation" or "installation".</Italian>
+		<Spanish>The Axlotl Tank (a combination of the term "Axlotl", a small animal capable of regenerating limbs) was a device used by the Bene Tleilax to create and nurture their products, especially gholas and other complete organisms. "Tank" is a misnomer term. The actual artifact consists of a sessile human female who has been modified to dormantly accept chemical and biological cues necessary to grow the needed biological artifacts. These may be "grown" in another Axlotl tank or may be formed from a sexually mature human female. Normally the personality of the adult female is either suppressed or destroyed during the process of "formation" or "installation".</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_TANK_READY</Tag>
+		<English>An Axlolt Tank is ready to be hatched! Select the cells to complete the genetic process and gold rush the necessary equipment/machine for the unit.</English>
+		<French>An Axlolt Tank is ready to be hatched. Select the cells to complete the process and gold rush the necessary equipment/machine for the unit.</French>
+		<German>An Axlolt Tank is ready to be hatched. Select the cells to complete the process and gold rush the necessary equipment/machine for the unit.</German>
+		<Italian>An Axlolt Tank is ready to be hatched. Select the cells to complete the process and gold rush the necessary equipment/machine for the unit.</Italian>
+		<Spanish>An Axlolt Tank is ready to be hatched. Select the cells to complete the process and gold rush the necessary equipment/machine for the unit.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_FACE_DANCER_FIGHTER_READY</Tag>
+		<English>A new Face Dancer Fighter is now ready at %s1!</English>
+		<French>The unit that finished training at %s1 is a new Face Dancer Fighter!</French>
+		<German>A new Face Dancer Fighter is now ready at %s1!</German>
+		<Italian>A new Face Dancer Fighter is now ready at %s1!</Italian>
+		<Spanish>A new Face Dancer Fighter is now ready at %s1!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_AXLOTL_BONUS_GP</Tag>
+		<English>After the assassination, a cell sample was taken from the victim to potentially be used by your Axlotl Chambers (Total assassination count: %d1).</English>
+		<French>After assassination, a cell sample was taken from the victim. Your Axlotl Chambers will provide an extra %d1 GP point(s).</French>
+		<German>After assassination, a cell sample was taken from the victim. Your Axlotl Chambers will provide an extra %d1 GP point(s).</German>
+		<Italian>After assassination, a cell sample was taken from the victim. Your Axlotl Chambers will provide an extra %d1 GP point(s).</Italian>
+		<Spanish>After assassination, a cell sample was taken from the victim. Your Axlotl Chambers will provide an extra %d1 GP point(s).</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_AXLOTL_BONUS</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]This Axlotl Chamber can experiment with [COLOR_DUNE_MAGENTA_TEXT]%d3[COLOR_REVERT][COLOR_HIGHLIGHT_TEXT] Great Person Tanks (confirm new Tanks in the following turn):[COLOR_REVERT][NEWLINE][ICON_BULLET][COLOR_DUNE_MAGENTA_TEXT]%d1[COLOR_REVERT] related to Face Dancer Assassinations;[NEWLINE][ICON_BULLET][COLOR_DUNE_MAGENTA_TEXT]%d2[COLOR_REVERT] related to Specialists that joined this city.</English>
+		<French>[COLOR_HIGHLIGHT_TEXT] This city's Axlotl Chamber is conducting %d3 Great Person experiments[COLOR_REVERT]:[NEW_LINE][ICON_BULLET] %d1 extra GP point(s) from Face Dancer's Assassinations[NEW_LINE][ICON_BULLET] %d2 from Free Specialists added to the city.</French>
+		<German>[COLOR_HIGHLIGHT_TEXT] This city's Axlotl Chamber is conducting %d3 Great Person experiments[COLOR_REVERT]:[NEW_LINE][ICON_BULLET] %d1 extra GP point(s) from Face Dancer's Assassinations[NEW_LINE][ICON_BULLET] %d2 from Free Specialists added to the city.</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT] This city's Axlotl Chamber is conducting %d3 Great Person experiments[COLOR_REVERT]:[NEW_LINE][ICON_BULLET] %d1 extra GP point(s) from Face Dancer's Assassinations[NEW_LINE][ICON_BULLET] %d2 from Free Specialists added to the city.</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT] This city's Axlotl Chamber is conducting %d3 Great Person experiments[COLOR_REVERT]:[NEW_LINE][ICON_BULLET] %d1 extra GP point(s) from Face Dancer's Assassinations[NEW_LINE][ICON_BULLET] %d2 from Free Specialists added to the city.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_GHOLA_STRAT</Tag>
+		<English>The Axloltl Tank allows the Bene Tleilax to hatch a Ghola based on an available 'Genetic Model' (See Dune Concepts).</English>
+		<French>The Axloltl Tank is always ready to be hatched and allows one to chose a kind of Ghola according to the available 'Genetic Models' (See Dune Concepts).</French>
+		<German>The Axloltl Tank is always ready to be hatched and allows one to chose a kind of Ghola according to the available 'Genetic Models' (See Dune Concepts).</German>
+		<Italian>The Axloltl Tank is always ready to be hatched and allows one to chose a kind of Ghola according to the available 'Genetic Models' (See Dune Concepts).</Italian>
+		<Spanish>The Axloltl Tank is always ready to be hatched and allows one to chose a kind of Ghola according to the available 'Genetic Models' (See Dune Concepts).</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SP_TANK_PEDIA</Tag>
+		<English>[ICON_BULLET] The mainstay of Tleilaxu technology was the "Axlotl Tank". This device was eventually discovered to be a human female whose womb was modified by changes in her genetics to produce various products. The "Axlotl Tank" did not possess any sapience but was simply a melding of machine and flesh which did the bidding of the Masters, somewhat akin to livestock. The use of the Axlotl Tank dehumanizes females while at the same time explains the absence of "Tleilaxu females". The Bene Tleilax were themselves products of of their own technology, each fulfilling a separate role within the Tleilaxu community. The Axlotl Tank and its secrets were closely held by the Tleilaxu.[NEWLINE][ICON_BULLET] Axlotl Great Person Tanks will appear in a city by themselves as experiments of an Axlotl Chamber (required) and their total number will be directly related to the number of Assassinated Specialists by Face Dancers and the number of Added Free Specialists to the specific city.</English>
+		<French>The mainstay of Tleilaxu technology was the "Axlotl Tank". This device was eventually discovered to be a human female whose womb was modified by changes in her genetics to produce various products. The "Axlotl Tank" did not possess any sapience but was simply a melding of machine and flesh which did the bidding of the Masters, somewhat akin to livestock. The use of the Axlotl Tank dehumanizes females while at the same time explains the absence of "Tleilaxu females". The Bene Tleilax were themselves products of of their own technology, each fulfilling a separate role within the Tleilaxu community. The Axlotl Tank and its secrets were closely held by the Tleilaxu.</French>
+		<German>The mainstay of Tleilaxu technology was the "Axlotl Tank". This device was eventually discovered to be a human female whose womb was modified by changes in her genetics to produce various products. The "Axlotl Tank" did not possess any sapience but was simply a melding of machine and flesh which did the bidding of the Masters, somewhat akin to livestock. The use of the Axlotl Tank dehumanizes females while at the same time explains the absence of "Tleilaxu females". The Bene Tleilax were themselves products of of their own technology, each fulfilling a separate role within the Tleilaxu community. The Axlotl Tank and its secrets were closely held by the Tleilaxu.</German>
+		<Italian>The mainstay of Tleilaxu technology was the "Axlotl Tank". This device was eventually discovered to be a human female whose womb was modified by changes in her genetics to produce various products. The "Axlotl Tank" did not possess any sapience but was simply a melding of machine and flesh which did the bidding of the Masters, somewhat akin to livestock. The use of the Axlotl Tank dehumanizes females while at the same time explains the absence of "Tleilaxu females". The Bene Tleilax were themselves products of of their own technology, each fulfilling a separate role within the Tleilaxu community. The Axlotl Tank and its secrets were closely held by the Tleilaxu.</Italian>
+		<Spanish>The mainstay of Tleilaxu technology was the "Axlotl Tank". This device was eventually discovered to be a human female whose womb was modified by changes in her genetics to produce various products. The "Axlotl Tank" did not possess any sapience but was simply a melding of machine and flesh which did the bidding of the Masters, somewhat akin to livestock. The use of the Axlotl Tank dehumanizes females while at the same time explains the absence of "Tleilaxu females". The Bene Tleilax were themselves products of of their own technology, each fulfilling a separate role within the Tleilaxu community. The Axlotl Tank and its secrets were closely held by the Tleilaxu.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TLEI_SPREAD</Tag>
+		<English>[ICON_TLEILAXU] has spread to a "powindah" city! Your Masheikh Ruling Council has now 2 extra [ICON_ESPIONAGE] and is producing a total of %d1[ICON_ESPIONAGE].</English>
+		<French>[ICON_TLEILAXU] has spread to a foreign city! Your 'Masheikh Ruling Council' is now producing %d1[ICON_ESPIONAGE]</French>
+		<German>[ICON_TLEILAXU] has spread to a foreign city! Your 'Masheikh Ruling Council' is now producing %d1[ICON_ESPIONAGE]</German>
+		<Italian>[ICON_TLEILAXU] has spread to a foreign city! Your 'Masheikh Ruling Council' is now producing %d1[ICON_ESPIONAGE]</Italian>
+		<Spanish>[ICON_TLEILAXU] has spread to a foreign city! Your 'Masheikh Ruling Council' is now producing %d1[ICON_ESPIONAGE]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNTIL</Tag>
+		<English>Until</English>
+		<French>Jusqua</French>
+		<German>Bis</German>
+		<Italian>Fino</Italian>
+		<Spanish>Hasta</Spanish>
+		<Finnish>Asti</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_HEADER_SPECIAL_SPECIALIST</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Unique Specialists[COLOR_REVERT]</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+		<Finnish></Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_HEADER_SPECIALIST</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Specialists[COLOR_REVERT]</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+		<Finnish></Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_HEADER_GREAT_SPECIALIST</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Great Specialists[COLOR_REVERT]</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+		<Finnish></Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HIDE_TEAM</Tag>
+		<English>Hide Team Members</English>
+		<French>Hide Team Members</French>
+		<German>Hide Team Members</German>
+		<Italian>Hide Team Members</Italian>
+		<Spanish>Hide Team Members</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HIDE_VASSALS</Tag>
+		<English>Hide Vassals</English>
+		<French>Hide Vassals</French>
+		<German>Hide Vassals</German>
+		<Italian>Hide Vassals</Italian>
+		<Spanish>Hide Vassals</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_FORTIFY_HELP</Tag>
+		<English>The unit "digs in" to better withstand enemy attack. A unit gets a 5%% defensive bonus for each turn it is fortified, to a maximum bonus of 25%% (unless the unit has Drill Promotions).</English>
+		<French>L'unit&#233; se retranche pour mieux r&#233;sister aux attaques ennemies. Une unit&#233; retranch&#233;e b&#233;n&#233;ficie d'un bonus de d&#233;fense de 5%% pour chaque tour pass&#233; &#224; se r&#233;g&#233;n&#233;rer, avec un maximum de 25%%.</French>
+		<German>Die Einheit "gr&#228;bt sich ein", um dem Feind besser standhalten zu k&#246;nnen. Befestigte Einheiten erhalten pro Runde 5%% Defensivbonus (maximal 25%%).</German>
+		<Italian>L'unit&#224; si "trincera" per poter fronteggiare meglio l'attacco nemico. Un'unit&#224; guadagna il 5%% di bonus difensivo per ogni turno che rimane fortificata, fino a un massimo del 25%%.</Italian>
+		<Spanish>La unidad se "atrinchera" para aguantar mejor los ataques del enemigo. Obtiene una bonificaci&#243;n defensiva del 5%% por cada turno que se fortifique hasta un m&#225;ximo de un 25%%.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_VEHICLE</Tag>
+		<English>[ICON_BULLET]%D1_Change%% %s2_TerrOrFeat Attack (Non City/Outpost)</English>
+		<French>[ICON_BULLET]%D1_Change%% %s2_TerrOrFeat Attaque</French>
+		<German>[ICON_BULLET]%D1_Change%% %s2_TerrOrFeat-Angriff</German>
+		<Italian>[ICON_BULLET]%D1_Change%% all'attacco in %s2_TerrOrFeat</Italian>
+		<Spanish>[ICON_BULLET]%D1_Change%% a ataque a %s2:2_TerrOrFeat</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECHMAN_OVERFLOW</Tag>
+		<English>%s1 gained %d2 extra [ICON_PRODUCTION] from %s3's excess production.</English>
+		<French>%s1 has created %d2[ICON_GOLD] due to production overflow.</French>
+		<German>%s1 has created %d2[ICON_GOLD] due to production overflow.</German>
+		<Italian>%s1 has created %d2[ICON_GOLD] due to production overflow.</Italian>
+		<Spanish>%s1 has created %d2[ICON_GOLD] due to production overflow.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOLD_OVERFLOW</Tag>
+		<English>%s1 has generated %d2 extra [ICON_GOLD] from its excess production.</English>
+		<French>%s1 has created %d2[ICON_GOLD] due to production overflow.</French>
+		<German>%s1 has created %d2[ICON_GOLD] due to production overflow.</German>
+		<Italian>%s1 has created %d2[ICON_GOLD] due to production overflow.</Italian>
+		<Spanish>%s1 has created %d2[ICON_GOLD] due to production overflow.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BEAKERS_TM_OVERFLOW</Tag>
+		<English>%s1 has generated %d2 extra [ICON_RESEARCH] towards %s3 from its excess production.</English>
+		<French>%s1 has created %d2[ICON_GOLD] due to production overflow.</French>
+		<German>%s1 has created %d2[ICON_GOLD] due to production overflow.</German>
+		<Italian>%s1 has created %d2[ICON_GOLD] due to production overflow.</Italian>
+		<Spanish>%s1 has created %d2[ICON_GOLD] due to production overflow.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_IMPERIAL_CULTURE_EXPANSION</Tag>
+		<English>The cultural development in %s1 has inspired it's Imperial citizens and stimulated a local Golden Age!</English>
+		<French>%s1 has created %d2[ICON_GOLD] due to production overflow.</French>
+		<German>%s1 has created %d2[ICON_GOLD] due to production overflow.</German>
+		<Italian>%s1 has created %d2[ICON_GOLD] due to production overflow.</Italian>
+		<Spanish>%s1 has created %d2[ICON_GOLD] due to production overflow.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SLAVECAPTURE_REWARD</Tag>
+		<English>Your %s1 has received the '%s2' promotion as a reward for %d3 captured slaves.</English>
+		<French>The slave has been sold for %d1[ICON_GOLD].</French>
+		<German>The slave has been sold for %d1[ICON_GOLD].</German>
+		<Italian>The slave has been sold for %d1[ICON_GOLD].</Italian>
+		<Spanish>The slave has been sold for %d1[ICON_GOLD].</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SELL_SLAVE</Tag>
+		<English>The slave has been sold for %d1[ICON_GOLD].</English>
+		<French>The slave has been sold for %d1[ICON_GOLD].</French>
+		<German>The slave has been sold for %d1[ICON_GOLD].</German>
+		<Italian>The slave has been sold for %d1[ICON_GOLD].</Italian>
+		<Spanish>The slave has been sold for %d1[ICON_GOLD].</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ARENA_BATTLE</Tag>
+		<English>Your %s1 has gained %d2.%d3 Exp from the Arena battle.</English>
+		<French>Your %s2 has gained %d1 Exp from the gladiatorial battle.</French>
+		<German>Your %s2 has gained %d1 Exp from the gladiatorial battle.</German>
+		<Italian>Your %s2 has gained %d1 Exp from the gladiatorial battle.</Italian>
+		<Spanish>Your %s2 has gained %d1 Exp from the gladiatorial battle.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ARENA_BATTLE_LOST</Tag>
+		<English>Your %s1 has lost his life in the Arena battle! The slave was butchered anyway.</English>
+		<French>Your %s1 lost his life in the gladiatorial battle! The slave has butchered anyway.</French>
+		<German>Your %s1 lost his life in the gladiatorial battle! The slave has butchered anyway.</German>
+		<Italian>Your %s1 lost his life in the gladiatorial battle! The slave has butchered anyway.</Italian>
+		<Spanish>Your %s1 lost his life in the gladiatorial battle! The slave has butchered anyway.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ANGER_ESPIONAGE</Tag>
+		<English>+%d1_Change[ICON_UNHAPPY]: "Past events have not went well! (%d2 turns)"</English>
+		<French>>+%d1_Change[ICON_UNHAPPY]: "Votre infamie est devenue notoire !"</French>
+		<German>+%d1_Change[ICON_UNHAPPY]: "Die Leute erz&#228;hlen von Eurer Grausamkeit!"</German>
+		<Italian>+%d1_Change[ICON_UNHAPPY]: "La gente ci racconta della tua infamia!"</Italian>
+		<Spanish>+%d1_Change [ICON_UNHAPPY]: "&#161;La gente no para de hablarnos de vuestra villan&#237;a!"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SLAVE_DEATH</Tag>
+		<English>A Palace Slave has died from exaustion and abuse.</English>
+		<French>A Palace Slave has died from exaustion.</French>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ORDOS_TECH_CONQUEST</Tag>
+		<English>Your troops have gathered %d1 extra [ICON_RESEARCH] towards '%s2' by scavenging through %s3.</English>
+		<French>Your field team of researchers have gathered %d1 extra [ICON_RESEARCH] towards %s2 by scavenging through %s3.</French>
+		<German>Your field team of researchers have gathered %d1 extra [ICON_RESEARCH] towards %s2 by scavenging through %s3.</German>
+		<Italian>Your field team of researchers have gathered %d1 extra [ICON_RESEARCH] towards %s2 by scavenging through %s3.</Italian>
+		<Spanish>Your field team of researchers have gathered %d1 extra [ICON_RESEARCH] towards %s2 by scavenging through %s3.</Spanish>
+	</TEXT>
+     <TEXT>
+        <Tag>TXT_KEY_CONTAMINATOR_COMBAT</Tag>
+        <English>Your Contamintor has infected the %s1 %s2!</English>
+        <French>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</French>
+        <German>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</German>
+        <Italian>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</Italian>
+        <Spanish>The Deviator's nerve gas has managed to successfully dominate a %s2 %s1!</Spanish>
+    </TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORRINO_EMERGENCY_DRAFT</Tag>
+		<English>The firm %s1's Governor vigorously refuses to surrender and has brought population forth to continue to fight!</English>
+		<French>A Palace Slave has died from exaustion.</French>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORRINO_EMERGENCY_DRAFT2</Tag>
+		<English>The proud %s1's Governor still refuses to surrender and has violently forced part of the population to continue to fight!</English>
+		<French>A Palace Slave has died from exaustion.</French>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WP_DEATH</Tag>
+		<English>A War Prisoner has perished from the Camp hardships at %s1.</English>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WP_FREE</Tag>
+		<English>A War Prisoner, after initially being psychologically broken, has successfully surpassed the Camp hardships at %s1 and has joined your army as an obedient %s2!</English>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WAR_PRISONER</Tag>
+		<English>A defeated %s2 has been captured and incarcerated at the Hardening Camp of %s1 as a War Prisoner.</English>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORRINO_NOBLE_PILLAGE</Tag>
+		<English>Your Noble figher, by pillaging the %s2 %s3, has gathered elements that benefit the noblemen culture of %s4 by %d1[ICON_CULTURE].</English>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORRINO_NOBLE_FIGHT</Tag>
+		<English>The noblemen of %s2 celebrate the mighty victory of your Noble %s3 with epic compositions worth %d1[ICON_CULTURE]!</English>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_SAYER_MEMORIES</Tag>
+		<English>Your caught Truthsayer has managed to pass part of her experiences to another Truthsayer.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_BEAKERS_PILLAGE</Tag>
+		<English>Your %s1 has gathered %d2 extra [ICON_RESEARCH] towards '%s3' by pillaging a %s4 %s5!</English>
+		<German>A Palace Slave has died from exaustion.</German>
+		<Italian>A Palace Slave has died from exaustion.</Italian>
+		<Spanish>A Palace Slave has died from exaustion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_ANARCHY</Tag>
+		<English>Cause %s1_player to enter Anarchy for %d2 [NUM2:turn:turns] (number of turns will increase with the Instigation promotions)</English>
+		<French>Semer l'anarchie chez %s1_player pendant %d2 [NUM2:tour:tours]</French>
+		<German>Bei %s1_player bricht für %d2 [NUM2:Runde:Runden] Anarchie aus</German>
+		<Italian>Spingi %s1_player all'Anarchia per %d2 [NUM2:turno:turni]</Italian>
+		<Spanish>Hacer que %s1_player entre en la anarquía durante %d2 [NUM2:turno:turnos]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GROWTH_VICTORY_PEDIA</Tag>
+		<English>[H1]Water Fat[\H1][PARAGRAPH:1]Wins the game when 3 cities grow to size 30.</English>
+		<French>[H1]Growth Victory[\H1][PARAGRAPH:1]Wins the game when 3 cities grow to size 30.</French>
+		<German>[H1]Growth Victory[\H1][PARAGRAPH:1]Wins the game when 3 cities grow to size 30.</German>
+		<Italian>[H1]Growth Victory[\H1][PARAGRAPH:1]Wins the game when 3 cities grow to size 30.</Italian>
+		<Spanish>[H1]Growth Victory[\H1][PARAGRAPH:1]Wins the game when 3 cities grow to size 30.</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GROWTH</Tag>
+		<English>Water Fat</English>
+		<French>Growth</French>
+		<German>Growth</German>
+		<Italian>Growth</Italian>
+		<Spanish>Growth</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GROWTH_VICTORY</Tag>
+		<English>Water Fat Victory</English>
+		<French>Growth Victory</French>
+		<German>Growth Victory</German>
+		<Italian>Growth Victory</Italian>
+		<Spanish>Growth Victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SCREEN_GROWTH</Tag>
+		<English>3 cities with %d1 Population</English>
+		<French>3 cities with 30 Population</French>
+		<German>3 cities with 30 Population</German>
+		<Italian>3 cities with 30 Population</Italian>
+		<Spanish>3 cities with 30 Population</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INVISIBLE_NO_SHIP</Tag>
+		<English>[ICON_BULLET]Invisible to all but another No-Ship</English>
+		<French>3 cities with 30 Population</French>
+		<German>3 cities with 30 Population</German>
+		<Italian>3 cities with 30 Population</Italian>
+		<Spanish>3 cities with 30 Population</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INVISIBLE_CAVE</Tag>
+		<English>[ICON_BULLET]Invisible in Caves that do not belong to a City Plot</English>
+		<French>3 cities with 30 Population</French>
+		<German>3 cities with 30 Population</German>
+		<Italian>3 cities with 30 Population</Italian>
+		<Spanish>3 cities with 30 Population</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HAPPY_FEATURES</Tag>
+		<English>+%d1_Change[ICON_HAPPY]: "The presence of the nearby Caves strengthens our ways of life!"</English>
+		<French>+%d1_Change[ICON_HAPPY] : "Nous appr&#233;cions la beaut&#233; de nos parcs nationaux !"</French>
+		<German>+%d1_Change[ICON_HAPPY]: "Wir lieben unsere Nationalparks!"</German>
+		<Italian>+%d1_Change[ICON_HAPPY]: "Amiamo il nostro parco nazionale!"</Italian>
+		<Spanish>+%d1_Change [ICON_HAPPY]: "&#161;Adoramos nuestros parques nacionales!"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_DESPOT</Tag>
+		<English>"We Love our Ruler Day"</English>
+		<French>"La f&#234;te du Despote"</French>
+		<German>"Despoten-Feiertag"</German>
+		<Italian>"Viva il giorno del despota"</Italian>
+		<Spanish>"Adoramos al d&#233;spota"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_MONARCH</Tag>
+		<English>"We Love our Ruler Day"</English>
+		<French>"La f&#234;te du Monarque"</French>
+		<German>"Monarchen-Feiertag"</German>
+		<Italian>"Viva il giorno del re"</Italian>
+		<Spanish>"Adoramos al monarca"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_PRIME_MINISTER</Tag>
+		<English>"We Love our Ruler Day"</English>
+		<French>"La f&#234;te du premier ministre"</French>
+		<German>"Premierminister-Feiertag"</German>
+		<Italian>"Viva il giorno del primo ministro"</Italian>
+		<Spanish>"Adoramos al primer ministro"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_DICTATOR</Tag>
+		<English>"We Love our Ruler Day"</English>
+		<French>"La f&#234;te du Dictateur"</French>
+		<German>"Diktatoren-Feiertag"</German>
+		<Italian>"Viva il giorno del dittatore"</Italian>
+		<Spanish>"Adoramos al dictador"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_PRESIDENT</Tag>
+		<English>"We Love our Ruler Day"</English>
+		<French>"La f&#234;te du Pr&#233;sident"</French>
+		<German>"Pr&#228;sidenten-Feiertag"</German>
+		<Italian>"Viva il giorno del presidente"</Italian>
+		<Spanish>"Adoramos al presidente"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_DIFFICULTY</Tag>
+		<English>Difficulty: %s1</English>
+		<French>Difficulty: %s1</French>
+		<German>Schwierigkeitsgrad: %s1</German>
+		<Italian>Difficulty: %s1</Italian>
+		<Spanish>Dificultad: %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_CHALLENGE_INCREASING_DIFFICULTY</Tag>
+		<English>Increasing Difficulty (Challenge)</English>
+		<French>Increasing Difficulty (Challenge)</French>
+		<German>Herausforderung - Steigende Schwierigkeit</German>
+		<Italian>Increasing Difficulty (Challenge)</Italian>
+		<Spanish>Dificultad Creciente (Desafío)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_CHALLENGE_INCREASING_DIFFICULTY_HELP</Tag>
+		<English>Every 75 turns (normal speed) the game difficulty increases by 1 until it gets to Deity</English>
+		<French>Every 50 turns the game difficulty increases by 1 until it gets to Deity</French>
+		<German>Alle 50 Runden erhöht sich der Schwierigkeitsgard um eine Stufe, bis er "Gottheit" erreicht</German>
+		<Italian>Every 50 turns the game difficulty increases by 1 until it gets to Deity</Italian>
+		<Spanish>Cada 50 turnos la dificultad se incrementa en uno hasta llegar a Deidad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_FLEXIBLE_DIFFICULTY</Tag>
+		<English>Flexible Difficulty</English>
+		<French>Flexible Difficulty</French>
+		<German>Wechselnder Schwierigkeitsgrad</German>
+		<Italian>Flexible Difficulty</Italian>
+		<Spanish>Dificultad flexible</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_FLEXIBLE_DIFFICULTY_HELP</Tag>
+		<English>Every 50 turns (normal speed): if the player is in the top third the game difficulty increases by one; if the player is in the bottom third the game difficulty decreases by one (single player only).</English>
+		<French>If the player is in the top third the game difficulty increases by one. If the player is in the bottom third the game difficulty decreases by one. (single player only)</French>
+		<German>Wenn der Spieler unter den besten 3 ist, steigt der Schwierigkeitsgrad um eine Stufe, wenn er unter den schlechtesten 3 ist, fällt er um eine Stufe. (Nur Einzelspielermodus)</German>
+		<Italian>If the player is in the top third the game difficulty increases by one. If the player is in the bottom third the game difficulty decreases by one. (single player only)</Italian>
+		<Spanish>Si el jugador que está dentro del primer tercio de la clasificación, la dificultad se incrementa en uno. Si está en el último tercio, se reduce en uno (Sólo para partidas de un jugador).</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MENTAT_ASSIGN</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Assign Mentat to the City[NEWLINE][ICON_BULLET]</English>
+		<French>Difficulty: %s1</French>
+		<German>Schwierigkeitsgrad: %s1</German>
+		<Italian>Difficulty: %s1</Italian>
+		<Spanish>Dificultad: %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GRAPHICOPTION_NO_MOVIES</Tag>
+		<English>No Movies or Event Images</English>
+		<French>Pas de film</French>
+		<German>Keine Filme</German>
+		<Italian>Nessun filmato</Italian>
+		<Spanish>Sin pel&#237;culas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYER_OPTION_MISSIONARIES_AUTOMATED</Tag>
+		<English>Missionaries Start Automated</English>
+		<French>Les Missionnaires et les Directeurs d&#233;marrent automatis&#233;s</French>
+		<German>Missionare und Vorst&#228;nde automatisch starten</German>
+		<Italian>Missionari e Funzionari cominciano automatizzati</Italian>
+		<Spanish>Misioneros y ejecutivos empiezan automatizados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYER_OPTION_MISSIONARIES_AUTOMATED_HELP</Tag>
+		<English>All Religion Missionaries enter the game automated</English>
+		<French>Tous les missionnaires des religions et les Directeurs de soci&#233;t&#233; commerciale d&#233;marrent la partie automatis&#233;s</French>
+		<German>Alle Religionsmissionare und Vorst&#228;nde von Kapitalgesellschaften beginnen das Spiel automatisch</German>
+		<Italian>Tutti i missionari religiosi e i funzionari corporativi cominciano la partita automatizzati.</Italian>
+		<Spanish>Todos los misioneros y ejecutivos empiezan la partida automatizados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYEROPTION_LEAVE_FORESTS</Tag>
+		<English>Automated Workers Leave Outcrops</English>
+		<French>Ouvriers auto. d&#233;laissent for&#234;ts</French>
+		<German>Automatisierte Bautrupps verlassen W&#228;lder</German>
+		<Italian>I lavoratori automatizzati non toccano le foreste</Italian>
+		<Spanish>Trabajadores automatizados abandonan bosques</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYEROPTION_LEAVE_FORESTS_HELP</Tag>
+		<English>Automated workers will not demolish Outcrops</English>
+		<French>Ouvriers auto. n'abattent pas arbres</French>
+		<German>Automatisierte Bautrupps holzen keine W&#228;lder ab</German>
+		<Italian>I lavoratori automatizzati non abbattono le foreste</Italian>
+		<Spanish>Los trabajadores automatizados no talan los bosques.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GRAPHICOPTION_NO_MOVIES_HELP</Tag>
+		<English>Skips Movies and Event Images</English>
+		<French>Passe les films Merveille, Religion et Victoire.</French>
+		<German>&#220;berspringt Wunder-, Religions- und Siegfilme</German>
+		<Italian>Salta i filmati di meraviglie, religioni e vittoria</Italian>
+		<Spanish>Para omitir las pel&#237;culas de maravillas, religiones y victoria</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GREAT_GENERAL</Tag>
+		<English>Great Burseg: %d1/%d2 Experience</English>
+		<French>Great Burseg: %d1/%d2 Experience</French>
+		<German>Great Burseg: %d1/%d2 Experience</German>
+		<Italian>Great Burseg: %d1/%d2 Experience</Italian>
+		<Spanish>Great Burseg: %d1/%d2 Experience</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_TEG</Tag>
+		<English>Miles Teg Breeding Project</English>
+		<French>Programme de Procréation I</French>
+		<German>Breeding Project I</German>
+		<Italian>Breeding Project I</Italian>
+		<Spanish>Breeding Project I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TEG_PROJECT_PEDIA</Tag>
+		<English>
+[ICON_BULLET]Creates the Miles Teg Unit[NEWLINE][ICON_BULLET]Miles Teg was a highly regarded Bene Gesserit military commander who held the rank of  Supreme Bashar. He was a descendant of Duke Leto Atreides, and a Mentat. Teg's training through the Bene Gesserit involved much of the learning instilled in Reverend Mothers. This was largely attributed to Teg's mother, who was a Bene Gesserit Reverend Mother herself. Therefore Teg was both a Mentat and a Bene Gesserit adept, a combination that made him a formidable military commander for the Sisterhood. [NEWLINE] Teg end up being tortured by the Honored Matres using a T-Probe; under the severe stress and agony produced by the probe's attempts to gain control of his body and knowledge, his Mentat abilities and Atreides genes elevated him to a higher level of being. He became able to move faster than the eye can see by accelerating his metabolism, and he gained mild prescience, which he describes as a doubled vision which gives him intimations of danger. His accelerated speed comes at the cost of incredible energy expenditure; he has to consume huge amounts of carbohydrates to regain his energy.
+		</English>
+		<French>
+Stub pedia for Soldier
+		</French>
+		<German>
+Stub pedia for Soldier
+		</German>
+		<Italian>
+Stub pedia for Soldier
+		</Italian>
+		<Spanish>
+Stub pedia for Soldier
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TEG_BONUS</Tag>
+		<English>Your Miles Teg has gained +1 CombatStr and +1 ExtraMoves!</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_TEST</Tag>
+		<English>%d1</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ICON_CHANGE_NEARBY_CITIES</Tag>
+		<English>[ICON_BULLET]+%d1 %F2 in nearest city</English>
+		<French>[ICON_BULLET]+%d1 %F2 dans les villes voisines</French>
+		<German>[ICON_BULLET]+%d1 %F2 in umliegenden St&#228;dten</German>
+		<Italian>[ICON_BULLET]+%d1 %F2 nelle citt&#224; vicine</Italian>
+		<Spanish>[ICON_BULLET]+%d1 %F2 en las ciudades cercanas</Spanish>
+	</TEXT>
+</Civ4GameText>
