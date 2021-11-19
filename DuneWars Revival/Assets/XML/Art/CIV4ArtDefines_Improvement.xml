@@ -94,7 +94,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Structures/Improvements/sietch/sietch1.nif</NIF>
 			<KFM></KFM>
-			<Button>Art/Structures/buildings/sietch/great_sietch.dds</Button>
+			<Button>Art/Interface/Buttons/Improvements/nascent_sietch.dds</Button>
 		</ImprovementArtInfo>
 		<ImprovementArtInfo>
 			<Type>ART_DEF_IMPROVEMENT_SIETCH2</Type>
@@ -103,7 +103,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Structures/Improvements/sietch/sietch2.nif</NIF>
 			<KFM></KFM>
-			<Button>Art/Interface/Buttons/Buildings/catchbasin.dds</Button>
+			<Button>>Art/Structures/buildings/sietch/great_sietch.dds</Button>
 		</ImprovementArtInfo>
 		<ImprovementArtInfo>
 			<Type>ART_DEF_IMPROVEMENT_SIETCH3</Type>
