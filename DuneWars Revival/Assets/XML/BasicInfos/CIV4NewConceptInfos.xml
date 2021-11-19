@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by Hazem Shams al'Din (Baraka Designs) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Basic Infos -->
+<Civ4NewConceptInfos xmlns="x-schema:CIV4BasicInfoSchema.xml">
+	<NewConceptInfos>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_MOVEMENT</Type>
+			<Description>TXT_KEY_CONCEPT_DW_MOVEMENT</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_MOVEMENT</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_HAZARDS</Type>
+			<Description>TXT_KEY_CONCEPT_DW_HAZARDS</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_HAZARDS</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_WATER</Type>
+			<Description>TXT_KEY_CONCEPT_DW_WATER</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_WATER</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_SPICE</Type>
+			<Description>TXT_KEY_CONCEPT_DW_SPICE</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_SPICE</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_TERRAFORM</Type>
+			<Description>TXT_KEY_CONCEPT_DW_TERRAFORM</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_TERRAFORM</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_ABILITIES</Type>
+			<Description>TXT_KEY_CONCEPT_DW_ABILITIES</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_ABILITIES</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_OFFWORLD</Type>
+			<Description>TXT_KEY_CONCEPT_DW_OFFWORLD</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_OFFWORLD</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_REINFORCE</Type>
+			<Description>TXT_KEY_CONCEPT_DW_REINFORCE</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_REINFORCE</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_RELIGION</Type>
+			<Description>TXT_KEY_CONCEPT_DW_RELIGION</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_RELIGION</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_ATREIDES</Type>
+			<Description>TXT_KEY_CONCEPT_DW_ATREIDES</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_ATREIDES</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_DW_TLEILAX</Type>
+			<Description>TXT_KEY_CONCEPT_DW_TLEILAX</Description>
+			<Civilopedia>TXT_KEY_DW_CONCEPT_TLEILAX</Civilopedia>
+		</NewConceptInfo>
+		<!-- Traits Infos -->
+		<!-- Modders: These must be kept in sync and sorted if you add/remove any traits -->
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_ABOMINATION</Type>
+			<Description>TXT_KEY_TRAIT_ABOMINATION</Description>
+			<Civilopedia>TXT_KEY_TRAIT_ABOMINATION_PEDIA</Civilopedia>
+		</NewConceptInfo>		
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_AGGRESSIVE</Type>
+			<Description>TXT_KEY_TRAIT_AGGRESSIVE</Description>
+			<Civilopedia>TXT_KEY_TRAIT_AGGRESSIVE_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_CHARISMATIC</Type>
+			<Description>TXT_KEY_TRAIT_CHARISMATIC</Description>
+			<Civilopedia>TXT_KEY_TRAIT_CHARISMATIC_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_CREATIVE</Type>
+			<Description>TXT_KEY_TRAIT_CREATIVE</Description>
+			<Civilopedia>TXT_KEY_TRAIT_CREATIVE_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_EXPANSIVE</Type>
+			<Description>TXT_KEY_TRAIT_EXPANSIVE</Description>
+			<Civilopedia>TXT_KEY_TRAIT_EXPANSIVE_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_FINANCIAL</Type>
+			<Description>TXT_KEY_TRAIT_FINANCIAL</Description>
+			<Civilopedia>TXT_KEY_TRAIT_FINANCIAL_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_IMPERIALIST</Type>
+			<Description>TXT_KEY_TRAIT_IMPERIALIST</Description>
+			<Civilopedia>TXT_KEY_TRAIT_IMPERIALIST_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_INDUSTRIOUS</Type>
+			<Description>TXT_KEY_TRAIT_INDUSTRIOUS</Description>
+			<Civilopedia>TXT_KEY_TRAIT_INDUSTRIOUS_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_MECHANIZED</Type>
+			<Description>TXT_KEY_CONCEPT_TRAIT_MECHANIZED</Description>
+			<Civilopedia>TXT_KEY_TRAIT_MECHANIZED_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_ORGANIZED</Type>
+			<Description>TXT_KEY_TRAIT_ORGANIZED</Description>
+			<Civilopedia>TXT_KEY_TRAIT_ORGANIZED_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_PHILOSOPHICAL</Type>
+			<Description>TXT_KEY_TRAIT_PHILOSOPHICAL</Description>
+			<Civilopedia>TXT_KEY_TRAIT_PHILOSOPHICAL_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_PROTECTIVE</Type>
+			<Description>TXT_KEY_TRAIT_PROTECTIVE</Description>
+			<Civilopedia>TXT_KEY_TRAIT_PROTECTIVE_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_SPIRITUAL</Type>
+			<Description>TXT_KEY_TRAIT_SPIRITUAL</Description>
+			<Civilopedia>TXT_KEY_TRAIT_SPIRITUAL_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_POISONED</Type>
+			<Description>TXT_KEY_TRAIT_POISONED</Description>
+			<Civilopedia>TXT_KEY_TRAIT_POISONED_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_TECHMAN</Type>
+			<Description>TXT_KEY_TRAIT_TECHMAN</Description>
+			<Civilopedia>TXT_KEY_TRAIT_TECHMAN_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_TRAIT_FREMEN</Type>
+			<Description>TXT_KEY_TRAIT_FREMEN</Description>
+			<Civilopedia>TXT_KEY_TRAIT_FREMEN_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<!-- Shortcut Infos -->
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_ADVISORS</Type>
+			<Description>TXT_KEY_SHORTCUTS_ADVISORS</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_ADVISORS_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_UNITS</Type>
+			<Description>TXT_KEY_SHORTCUTS_UNITS</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_UNITS_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_CITYSCREEN</Type>
+			<Description>TXT_KEY_SHORTCUTS_CITYSCREEN</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_CITYSCREEN_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_MOUSE</Type>
+			<Description>TXT_KEY_SHORTCUTS_MOUSE</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_MOUSE_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_BUG</Type>
+			<Description>TXT_KEY_SHORTCUTS_BUG</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_BUG_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_MAP</Type>
+			<Description>TXT_KEY_SHORTCUTS_MAP</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_MAP_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_GAME</Type>
+			<Description>TXT_KEY_SHORTCUTS_GAME</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_GAME_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_CAMERA</Type>
+			<Description>TXT_KEY_SHORTCUTS_CAMERA</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_CAMERA_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_SHORTCUTS_MP</Type>
+			<Description>TXT_KEY_SHORTCUTS_MP</Description>
+			<Civilopedia>TXT_KEY_SHORTCUTS_MP_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<!-- Strategy Guides-->
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_INTRO</Type>
+			<Description>TXT_KEY_STRATEGY_INTRO</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_INTRO_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_DUNE_WARS_CHANGES</Type>
+			<Description>TXT_KEY_STRATEGY_DUNE_WARS_CHANGES</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_DUNE_WARS_CHANGES_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_DEFICIT_RESEARCH</Type>
+			<Description>TXT_KEY_STRATEGY_DEFICIT_RESEARCH</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_DEFICIT_RESEARCH_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_TRIANGLE</Type>
+			<Description>TXT_KEY_STRATEGY_TRIANGLE</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_TRIANGLE_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_VASSALAGE_MECHS</Type>
+			<Description>TXT_KEY_STRATEGY_VASSALAGE_MECHS</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_VASSALAGE_MECHS_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_TRADE_ROUTES</Type>
+			<Description>TXT_KEY_STRATEGY_TRADE_ROUTES</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_TRADE_ROUTES_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_DEMOGRAPHICS_MECHS</Type>
+			<Description>TXT_KEY_STRATEGY_DEMOGRAPHICS_MECHS</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_DEMOGRAPHICS_MECHS_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_STRATEGY_HEALING</Type>
+			<Description>TXT_KEY_STRATEGY_HEALING</Description>
+			<Civilopedia>TXT_KEY_STRATEGY_HEALING_PEDIA</Civilopedia>
+		</NewConceptInfo>
+		<!-- Espionage -->
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_SEE_DEMOGRAPHICS</Type>
+			<Description>TXT_KEY_ESPIONAGE_CAN_SEE_DEMOGRAPHICS</Description>
+			<Civilopedia>A passive mission that allows you to see the enemy's information on the Info Screen.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_CITY_VISIBILITY</Type>
+			<Description>TXT_KEY_ESPIONAGE_CITY_VISIBILITY</Description>
+			<Civilopedia>A passive mission that makes the rival cities visible on your map.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_INVESTIGATE_CITY</Type>
+			<Description>TXT_KEY_ESPIONAGE_INVESTIGATE_CITY</Description>
+			<Civilopedia>A passive mission that makes you be able to see the info screen for the rival cities by double clicking on them as if they were yours.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_SEE_RESEARCH</Type>
+			<Description>TXT_KEY_ESPIONAGE_SEE_RESEARCH</Description>
+			<Civilopedia>A passive mission that allows you to see what the enemy is researching currently and the turns needed for completion.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ATREIDES</Type>
+			<Description>Intelligence Visibility</Description>
+			<Civilopedia>An Atreides passive mission that reveals the entire visibility of a rival Team.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_DESTROY_IMPROVEMENT</Type>
+			<Description>TXT_KEY_ESPIONAGE_DESTROY_IMPROVEMENT</Description>
+			<Civilopedia>Allows you to destroy a rival tile improvement.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_COUNTERESPIONAGE</Type>
+			<Description>TXT_KEY_ESPIONAGE_COUNTERESPIONAGE</Description>
+			<Civilopedia>The Enemy Espionage Mission Costs are doubled for 10 turns.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ORDOS1</Type>
+			<Description>TXT_KEY_ESPIONAGE_DESTROY_PRODUCTION</Description>
+			<Civilopedia>An Ordos mission that allows you to destroy the current production of a rival city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ORDOS2</Type>
+			<Description>Sabotage a Building</Description>
+			<Civilopedia>An Ordos mission that allows you to sabotage a building of a rival city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ORDOS3</Type>
+			<Description>Bribe a Mechanized Unit</Description>
+			<Civilopedia>An Ordos mission that allows you to bribe a Thopter, Vehicle, Hornet, Siege or Suspensor Unit.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_HARK1</Type>
+			<Description>Foment Military Misconduct</Description>
+			<Civilopedia>A Harkonnen mission that imposes -50% Military[ICON_PRODUCTION] and -3 Exp inside the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_HARK2</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_SPREAD_LIES</Description>
+			<Civilopedia>A Harkonnen mission that provokes +4[ICON_UNHAPPY] and +25% War[ICON_UNHAPPY] inside the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_HARK3</Type>
+			<Description>Lower Defenses by Treachery</Description>
+			<Civilopedia>A Harkonnen mission that completely lowers the defenses of the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_IX1</Type>
+			<Description>Destroy a Mechanized Unit</Description>
+			<Civilopedia>An Ix mission that allows you to destroy a Thopter, Vehicle, Hornet, Siege, Suspensor or Mech Unit.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_IX2</Type>
+			<Description>Disrupt Machinery</Description>
+			<Civilopedia>An Ix mission that decreases [ICON_PRODUCTION] inside the targeted city by 40% and creates 1[ICON_UNHEALTHY].</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_IX3</Type>
+			<Description>Use Ixian Probe and learn a Technology</Description>
+			<Civilopedia>An Ix mission that allows you to steal a technology that you do not have from your opponent.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_CORRINO1</Type>
+			<Description>Administration Disruption</Description>
+			<Civilopedia>A Corrino mission that provokes +100% Maintenance, -100%[ICON_ESPIONAGE] and -25%[ICON_ESPIONAGE] Defense in the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_CORRINO2</Type>
+			<Description>TXT_KEY_ESPIONAGE_SWITCH_CIVIC</Description>
+			<Civilopedia>A Corrino mission that allows you to change the opponent's civics.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_CORRINO3</Type>
+			<Description>Assassinate a Unit</Description>
+			<Civilopedia>A Corrino mission that allows you to kill a Melee or Guardsman Unit.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_TLEILAX1</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_CAUSE_INCIDENT</Description>
+			<Civilopedia>A Tleilax mission that causes a leader to have a permanent and negative diplomatic reaction against another leader.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_TLEILAX2</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_DESTABILIZE</Description>
+			<Civilopedia>A Tleilax mission that causes Anarchy in the targeted empire.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_TLEILAX3</Type>
+			<Description>Assassinate a Specialist</Description>
+			<Civilopedia>A Tleilax mission that kills a free specialist and stops other potential specialists from being assigned inside the targeted city temporarily.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_GESSERIT1</Type>
+			<Description>Use 'The Voice' on a Vulnerable Unit</Description>
+			<Civilopedia>A Bene Gesserit mission that dominates a Melee, Guardsman or Worker Unit.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_GESSERIT2</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_CONVERT_CITY</Description>
+			<Civilopedia>A Bene Gesserit mission that converts to your empire a targeted city (can't target Capitals).</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_GESSERIT3</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_SEDUCE_LEADERS</Description>
+			<Civilopedia>A Bene Gesserit mission that provokes -25%[ICON_CULTURE], -25%[ICON_PRODUCTION], -25%[ICON_GREATPEOPLE], -25%[ICON_ESPIONAGE] Defense in a targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_GESSERIT4</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_POLITICAL_MARRIAGE</Description>
+			<Civilopedia>A Bene Gesserit mission that causes the targeted leader to have a permanent and positive diplomatic reaction regarding you.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_FREMEN1</Type>
+			<Description>TXT_KEY_ESPIONAGE_SWITCH_RELIGION</Description>
+			<Civilopedia>A Fremen mission that changes the opponent's state religion.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_FREMEN2</Type>
+			<Description>Sabotage all water improvements</Description>
+			<Civilopedia>A Fremen mission that sabotages all 'water type' improvements around the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_FREMEN3</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_STEAL_WATER</Description>
+			<Civilopedia>A Fremen mission that takes 4[ICON_FOOD] from the targeted city while benefiting your closest city with same value.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ECAZ1</Type>
+			<Description>Stimulate Addiction</Description>
+			<Civilopedia>An Ecaz mission that addicts and removes 1 population from the targeted city and adds it as a free merchant or spy specialist in your closest city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ECAZ2</Type>
+			<Description>Develop Illegal Trade</Description>
+			<Civilopedia>An Ecaz mission that provokes -2 Trade routes, -75%[ICON_TRADE] in the targeted city and +1 Trade route, +50%[ICON_TRADE] in your closest city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_ECAZ3</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_ESTABLISH_SEMUTA_DEN</Description>
+			<Civilopedia>An Ecaz mission that creates a Semuta Den in the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_EXERT_INFLUENCE</Type>
+			<Description>TXT_KEY_ESPIONAGEMISSION_EXERT_INFLUENCE</Description>
+			<Civilopedia>-75%[ICON_CULTURE] in the targeted city and +25[ICON_CULTURE] in one of your closest cities.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_MEDICAL</Type>
+			<Description>Instigate Medical Malpractice</Description>
+			<Civilopedia>5[ICON_UNHEALTHY], -20% Heal rate in the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_CRIME</Type>
+			<Description>Foment Crime</Description>
+			<Civilopedia>1[ICON_UNHAPPY] and -50%[ICON_GOLD] in the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_REDUCE_BEAKERS</Type>
+			<Description>Instigate Scientific Malpractice</Description>
+			<Civilopedia>-50%[ICON_RESEARCH] in the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_POISON</Type>
+			<Description>Poison Leader</Description>
+			<Civilopedia>Adds the 'Poisoned' Trait to the unlucky leader: 2[ICON_UNHEALTHY], 2[ICON_UNHAPPY], -50%[ICON_GREATPEOPLE], -50% GG Emergence, -50% World Wonder Production in the entire targeted empire for at least 4 turns (duration may increase with spy promotions). Mission is only allowed in the rival Capital and while following the 'War of Assassins' Civic.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_RICHESE1</Type>
+			<Description>Divert Production</Description>
+			<Civilopedia>A Richese mission that takes 4[ICON_PRODUCTION] from the targeted city while benefiting your closest city with same value.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_RICHESE2</Type>
+			<Description>Sabotage all hammer improvements</Description>
+			<Civilopedia>A Richese mission that sabotages all 'hammer type' improvements around the targeted city.</Civilopedia>
+		</NewConceptInfo>
+		<NewConceptInfo>
+			<Type>CONCEPT_ESPIONAGE_RICHESE3</Type>
+			<Description>Disrupt Worker Force</Description>
+			<Civilopedia>A Richese mission that decreases Worker speed by -25%.</Civilopedia>
+		</NewConceptInfo>
+	</NewConceptInfos>
+</Civ4NewConceptInfos>
