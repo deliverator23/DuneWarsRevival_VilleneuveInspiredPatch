@@ -1454,6 +1454,14 @@ class CvPlotDesc:
 		f.write("BeginPlot\n")
 		f.write("\tx=%d,y=%d\n" %(plot.getX(), plot.getY()))
 
+		self.iBSpice  = gc.getInfoTypeForString("BONUS_SPICE")
+		self.iFBlow   = gc.getInfoTypeForString("FEATURE_SPICEBLOW")
+		self.iFSpice  = gc.getInfoTypeForString("FEATURE_SPICE")
+		self.iTOcean  = gc.getInfoTypeForString("TERRAIN_OCEAN")
+		self.iTCoast  = gc.getInfoTypeForString("TERRAIN_COAST")
+		self.iTSpiceOcean = gc.getInfoTypeForString("TERRAIN_SPICE_OCEAN")
+		self.iTSpiceCoast = gc.getInfoTypeForString("TERRAIN_SPICE_COAST")
+
 		# scriptData
 		if (plot.getScriptData() != ""):
 			f.write("\tScriptData=%s\n" %plot.getScriptData())
@@ -1469,17 +1477,22 @@ class CvPlotDesc:
 		# extras
 		if (plot.isStartingPlot()):
 			f.write("\tStartingPlot\n")
-		if (plot.getBonusType(-1)!=-1):
+		if (plot.getBonusType(-1)!=-1 and plot.getBonusType(-1)!=self.iBSpice):
 			f.write("\tBonusType=%s\n" %(gc.getBonusInfo(plot.getBonusType(-1)).getType()) )
 		if (plot.getImprovementType()!=-1):
 			f.write("\tImprovementType=%s\n" %(gc.getImprovementInfo(plot.getImprovementType()).getType()) )
-		if (plot.getFeatureType()!=-1):
+		if (plot.getFeatureType()!=-1 and plot.getFeatureType()!=self.iFBlow and plot.getFeatureType()!=self.iFSpice):
 			f.write("\tFeatureType=%s, FeatureVariety=%d\n"
 			%(gc.getFeatureInfo(plot.getFeatureType()).getType(), plot.getFeatureVariety(), ) )
 		if (plot.getRouteType()!=-1):
 			f.write("\tRouteType=%s\n" %(gc.getRouteInfo(plot.getRouteType()).getType()) )
 		if (plot.getTerrainType()!=-1):
-			f.write("\tTerrainType=%s\n" %(gc.getTerrainInfo(plot.getTerrainType()).getType()) )
+			terrainTypeToSet = plot.getTerrainType()
+			if plot.getTerrainType() == self.iTSpiceOcean:
+				terrainTypeToSet = self.iTOcean
+			elif plot.getTerrainType() == self.iTSpiceCoast:
+				terrainTypeToSet = self.iTCoast
+			f.write("\tTerrainType=%s\n" %(gc.getTerrainInfo(terrainTypeToSet).getType()) )
 		if (plot.getPlotType()!=PlotTypes.NO_PLOT):
 			f.write("\tPlotType=%d\n" %(int(plot.getPlotType()),) )
 
