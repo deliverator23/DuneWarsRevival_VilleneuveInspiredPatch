@@ -435,6 +435,10 @@
 					<UnitType>UNIT_FEDAYKIN</UnitType>
 				</Unit>
 				<Unit>
+					<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+					<UnitType>UNIT_WORKER_FREMEN</UnitType>
+				</Unit>
+				<Unit>
 					<UnitClassType>UNITCLASS_QUAD</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
