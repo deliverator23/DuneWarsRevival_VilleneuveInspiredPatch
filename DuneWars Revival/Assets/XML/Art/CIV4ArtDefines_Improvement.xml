@@ -103,7 +103,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Structures/Improvements/sietch/sietch2.nif</NIF>
 			<KFM></KFM>
-			<Button>>Art/Structures/buildings/sietch/great_sietch.dds</Button>
+			<Button>Art/Structures/buildings/sietch/great_sietch.dds</Button>
 		</ImprovementArtInfo>
 		<ImprovementArtInfo>
 			<Type>ART_DEF_IMPROVEMENT_SIETCH3</Type>
