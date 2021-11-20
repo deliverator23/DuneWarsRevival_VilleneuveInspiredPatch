@@ -1687,7 +1687,7 @@
 			</TerrainMakesValids>
 			<FeatureMakesValids/>
 			<ImprovementPillage/>
-			<ImprovementUpgrade>IMPROVEMENT_HAMLET2</ImprovementUpgrade>
+			<ImprovementUpgrade>IMPROVEMENT_HAMLET2_FREMEN</ImprovementUpgrade>
 			<TechYieldChanges/>
 			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
@@ -1780,6 +1780,93 @@
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
+			<Type>IMPROVEMENT_HAMLET2_FREMEN</Type>
+			<Description>Settlement (Fremen)</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_HAMLET_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_HAMLET2</ArtDefineTag>
+			<YieldChanges>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>2</iYieldChange>
+			</YieldChanges>
+			<IrrigatedYieldChange>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+				<iYield>1</iYield>
+			</IrrigatedYieldChange>
+			<bActsAsCity>0</bActsAsCity>
+			<bHillsMakesValid>0</bHillsMakesValid>
+			<bPeakMakesInvalid>1</bPeakMakesInvalid>
+			<bFreshWaterMakesValid>0</bFreshWaterMakesValid>
+			<iAddsFreshWaterInRadius>-1</iAddsFreshWaterInRadius>
+			<bRiverSideMakesValid>0</bRiverSideMakesValid>
+			<bNoFreshWater>0</bNoFreshWater>
+			<bRequiresFlatlands>0</bRequiresFlatlands>
+			<bRequiresRiverSide>0</bRequiresRiverSide>
+			<bRequiresIrrigation>0</bRequiresIrrigation>
+			<bCarriesIrrigation>0</bCarriesIrrigation>
+			<bRequiresFeature>0</bRequiresFeature>
+			<bWater>0</bWater>
+			<bGoody>0</bGoody>
+			<bPermanent>0</bPermanent>
+			<bUseLSystem>1</bUseLSystem>
+			<iAdvancedStartCost>-1</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<iTilesPerGoody>0</iTilesPerGoody>
+			<iGoodyRange>0</iGoodyRange>
+			<iFeatureGrowth>0</iFeatureGrowth>
+			<iUpgradeTime>20</iUpgradeTime>
+			<iAirBombDefense>5</iAirBombDefense>
+			<iDefenseModifier>0</iDefenseModifier>
+			<iHappiness>0</iHappiness>
+			<iPillageGold>15</iPillageGold>
+			<bOutsideBorders>0</bOutsideBorders>
+			<!-- JCultureControl Mod Start -->
+			<bSpreadCultureControl>1</bSpreadCultureControl>
+			<iCultureBorderRange>-1</iCultureBorderRange>
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
+			<iMakesInvalidRange>0</iMakesInvalidRange>
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_TERRA_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_GRASS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_SNOW</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_POLAR</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_POLAR_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+			</TerrainMakesValids>
+			<FeatureMakesValids/>
+			<ImprovementPillage>IMPROVEMENT_COTTAGE1_FREMEN</ImprovementPillage>
+			<ImprovementUpgrade>IMPROVEMENT_VILLAGE3_FREMEN</ImprovementUpgrade>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
+			<bGraphicalOnly>0</bGraphicalOnly>
+		</ImprovementInfo>
+		<ImprovementInfo>
 			<Type>IMPROVEMENT_VILLAGE3</Type>
 			<Description>TXT_KEY_IMPROVEMENT_VILLAGE</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_VILLAGE_PEDIA</Civilopedia>
@@ -1867,6 +1954,93 @@
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
+			<Type>IMPROVEMENT_VILLAGE3_FREMEN</Type>
+			<Description>Village (Fremen)</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_VILLAGE_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_VILLAGE3</ArtDefineTag>
+			<YieldChanges>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>3</iYieldChange>
+			</YieldChanges>
+			<IrrigatedYieldChange>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+				<iYield>1</iYield>
+			</IrrigatedYieldChange>
+			<bActsAsCity>0</bActsAsCity>
+			<bHillsMakesValid>0</bHillsMakesValid>
+			<bPeakMakesInvalid>1</bPeakMakesInvalid>
+			<bFreshWaterMakesValid>0</bFreshWaterMakesValid>
+			<iAddsFreshWaterInRadius>-1</iAddsFreshWaterInRadius>
+			<bRiverSideMakesValid>0</bRiverSideMakesValid>
+			<bNoFreshWater>0</bNoFreshWater>
+			<bRequiresFlatlands>0</bRequiresFlatlands>
+			<bRequiresRiverSide>0</bRequiresRiverSide>
+			<bRequiresIrrigation>0</bRequiresIrrigation>
+			<bCarriesIrrigation>0</bCarriesIrrigation>
+			<bRequiresFeature>0</bRequiresFeature>
+			<bWater>0</bWater>
+			<bGoody>0</bGoody>
+			<bPermanent>0</bPermanent>
+			<bUseLSystem>1</bUseLSystem>
+			<iAdvancedStartCost>-1</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<iTilesPerGoody>0</iTilesPerGoody>
+			<iGoodyRange>0</iGoodyRange>
+			<iFeatureGrowth>0</iFeatureGrowth>
+			<iUpgradeTime>40</iUpgradeTime>
+			<iAirBombDefense>5</iAirBombDefense>
+			<iDefenseModifier>0</iDefenseModifier>
+			<iHappiness>0</iHappiness>
+			<iPillageGold>20</iPillageGold>
+			<bOutsideBorders>0</bOutsideBorders>
+			<!-- JCultureControl Mod Start -->
+			<bSpreadCultureControl>1</bSpreadCultureControl>
+			<iCultureBorderRange>-1</iCultureBorderRange>
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
+			<iMakesInvalidRange>0</iMakesInvalidRange>
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_TERRA_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_GRASS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_SNOW</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_POLAR</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_POLAR_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+			</TerrainMakesValids>
+			<FeatureMakesValids/>
+			<ImprovementPillage>IMPROVEMENT_HAMLET2_FREMEN</ImprovementPillage>
+			<ImprovementUpgrade>IMPROVEMENT_TOWN4_FREMEN</ImprovementUpgrade>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
+			<bGraphicalOnly>0</bGraphicalOnly>
+		</ImprovementInfo>
+		<ImprovementInfo>
 			<Type>IMPROVEMENT_TOWN4</Type>
 			<Description>TXT_KEY_IMPROVEMENT_TOWN</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_TOWN_PEDIA</Civilopedia>
@@ -1948,6 +2122,93 @@
 			</TerrainMakesValids>
 			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_VILLAGE3</ImprovementPillage>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
+			<bGraphicalOnly>0</bGraphicalOnly>
+		</ImprovementInfo>
+		<ImprovementInfo>
+			<Type>IMPROVEMENT_TOWN4_FREMEN</Type>
+			<Description>Town (Fremen)</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_TOWN_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_TOWN4</ArtDefineTag>
+			<YieldChanges>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>4</iYieldChange>
+			</YieldChanges>
+			<IrrigatedYieldChange>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+				<iYield>1</iYield>
+			</IrrigatedYieldChange>
+			<bActsAsCity>0</bActsAsCity>
+			<bHillsMakesValid>0</bHillsMakesValid>
+			<bPeakMakesInvalid>1</bPeakMakesInvalid>
+			<bFreshWaterMakesValid>0</bFreshWaterMakesValid>
+			<iAddsFreshWaterInRadius>-1</iAddsFreshWaterInRadius>
+			<bRiverSideMakesValid>0</bRiverSideMakesValid>
+			<bNoFreshWater>0</bNoFreshWater>
+			<bRequiresFlatlands>0</bRequiresFlatlands>
+			<bRequiresRiverSide>0</bRequiresRiverSide>
+			<bRequiresIrrigation>0</bRequiresIrrigation>
+			<bCarriesIrrigation>0</bCarriesIrrigation>
+			<bRequiresFeature>0</bRequiresFeature>
+			<bWater>0</bWater>
+			<bGoody>0</bGoody>
+			<bPermanent>0</bPermanent>
+			<bUseLSystem>1</bUseLSystem>
+			<iAdvancedStartCost>-1</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<iTilesPerGoody>0</iTilesPerGoody>
+			<iGoodyRange>0</iGoodyRange>
+			<iFeatureGrowth>0</iFeatureGrowth>
+			<iUpgradeTime>0</iUpgradeTime>
+			<iAirBombDefense>5</iAirBombDefense>
+			<iDefenseModifier>0</iDefenseModifier>
+			<iHappiness>0</iHappiness>
+			<iPillageGold>25</iPillageGold>
+			<bOutsideBorders>0</bOutsideBorders>
+			<!-- JCultureControl Mod Start -->
+			<bSpreadCultureControl>1</bSpreadCultureControl>
+			<iCultureBorderRange>1</iCultureBorderRange>
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
+			<iMakesInvalidRange>0</iMakesInvalidRange>
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_TERRA_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_GRASS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_SNOW</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_POLAR</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+				<TerrainMakesValid>
+					<TerrainType>TERRAIN_POLAR_PLAINS</TerrainType>
+					<bMakesValid>1</bMakesValid>
+				</TerrainMakesValid>
+			</TerrainMakesValids>
+			<FeatureMakesValids/>
+			<ImprovementPillage>IMPROVEMENT_VILLAGE3_FREMEN</ImprovementPillage>
 			<ImprovementUpgrade/>
 			<TechYieldChanges/>
 			<RouteYieldChanges/>
