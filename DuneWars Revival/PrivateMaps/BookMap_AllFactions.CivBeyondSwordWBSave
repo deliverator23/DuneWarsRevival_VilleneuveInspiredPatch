@@ -243,7 +243,7 @@ BeginPlayer
 	ArtStyle=ARTSTYLE_MIDDLE_EAST
 	PlayableCiv=1
 	MinorNationStatus=0
-	StartingGold=30
+	StartingGold=60
 	StartingX=11, StartingY=64
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
@@ -4711,7 +4711,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=9,y=72
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -5148,13 +5147,11 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=71
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=72
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -5565,6 +5562,7 @@ BeginPlot
 		CityOwner=2, (Stilgar)
 		CityName=Sietch Tabr
 		CityPopulation=2
+		BuildingType=BUILDING_SPICE_REFINERY
 		BuildingType=BUILDING_TRIBUNAL
 		BuildingType=BUILDING_FREMEN_PALACE
 		Player2Culture=2, (Stilgar)
@@ -5602,19 +5600,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=69
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=70
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=71
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -6007,6 +6002,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=63
+	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
 	TeamReveal=2,
@@ -6049,7 +6045,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=69
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -18667,7 +18662,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=73
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -21585,7 +21579,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47,y=22
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=4,
@@ -21598,7 +21591,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47,y=24
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=4,
@@ -22032,6 +22024,7 @@ BeginPlot
 	x=48,y=21
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=48,y=22
@@ -22716,7 +22709,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=49,y=63
-	FeatureType=FEATURE_PEAK2, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=0,
@@ -23692,7 +23684,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=51,y=64
-	FeatureType=FEATURE_PEAK1, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=0,
@@ -23861,7 +23852,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=52,y=12
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -25903,7 +25893,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=56,y=65
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -27091,7 +27080,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=59,y=33
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32660,7 +32648,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=71,y=55
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32940,7 +32927,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=72,y=26
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -34473,7 +34459,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=75,y=71
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -36916,6 +36901,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=45
+	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=2,
@@ -36944,6 +36930,7 @@ BeginPlot
 		CityOwner=2, (Stilgar)
 		CityName=Gara Kulon
 		CityPopulation=2
+		BuildingType=BUILDING_SPICE_REFINERY
 		BuildingType=BUILDING_TRIBUNAL
 	EndCity
 	TeamReveal=2,
