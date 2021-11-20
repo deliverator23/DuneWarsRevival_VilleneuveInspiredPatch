@@ -1434,7 +1434,7 @@
 			<fInterfaceScale>0.01</fInterfaceScale>
 			<NIF>Art/Structures/Buildings/CorporationHQ/CorporationHQ_Jewelry.nif</NIF>
 			<KFM/>
-			<Button>Art/Interface/Buttons/TechTree/kwizatz_haderach.dds</Button>
+			<Button>Art/Interface/Buttons/buildings/kwisatz4.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_KH_INSPIRATION</Type>
