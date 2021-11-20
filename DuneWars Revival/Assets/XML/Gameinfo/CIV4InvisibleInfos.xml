@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Created for the Graded Invisibility Mod component by primem0ver -->
+<!-- VERY IMPORTANT:  These infos replace the old InvisibleInfos in the CIV4BasicInfos.xml file  -->
+<!-- Invisibility Infos -->
+<Civ4InvisibleInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+	<InvisibleInfos>
+		<InvisibleInfo>
+			<Type>INVISIBLE_SUBMARINE</Type>
+			<Description>TXT_KEY_INVISIBLE_SUBMARINE2</Description>
+			<bStatic>1</bStatic>
+			<bInvisibleOnHills>0</bInvisibleOnHills>
+			<InvisibleOnTerrains/>
+			<InvisibleOnFeatures/>
+		</InvisibleInfo>
+		<InvisibleInfo>
+			<Type>INVISIBLE_STEALTH</Type>
+			<Description>No Ship Invisibility</Description>
+			<bStatic>1</bStatic>
+			<bInvisibleOnHills>0</bInvisibleOnHills>
+			<InvisibleOnTerrains/>
+			<InvisibleOnFeatures/>
+		</InvisibleInfo>
+		<InvisibleInfo>
+			<Type>INVISIBLE_UNDERGROUND</Type>
+			<Description>TXT_KEY_INVISIBLE_CAVE</Description>
+			<bStatic>0</bStatic>
+			<bInvisibleOnHills>0</bInvisibleOnHills>
+			<InvisibleOnTerrains/>
+			<InvisibleOnFeatures>
+				<InvisibleOnFeature>
+					<FeatureType>FEATURE_CAVE</FeatureType>
+					<bInvisible>1</bInvisible>
+				</InvisibleOnFeature>
+			</InvisibleOnFeatures>
+		</InvisibleInfo>
+		<InvisibleInfo>
+			<Type>INVISIBLE_DESERT</Type>
+			<Description>Desert Invisibility</Description>
+			<bStatic>0</bStatic>
+			<bInvisibleOnHills>0</bInvisibleOnHills>
+			<InvisibleOnTerrains>
+				<InvisibleOnTerrain>
+					<TerrainType>TERRAIN_OCEAN</TerrainType>
+					<bInvisible>1</bInvisible>
+				</InvisibleOnTerrain>
+				<InvisibleOnTerrain>
+					<TerrainType>TERRAIN_COAST</TerrainType>
+					<bInvisible>1</bInvisible>
+				</InvisibleOnTerrain>
+				<InvisibleOnTerrain>
+					<TerrainType>TERRAIN_DESERT</TerrainType>
+					<bInvisible>1</bInvisible>
+				</InvisibleOnTerrain>
+				<InvisibleOnTerrain>
+					<TerrainType>TERRAIN_SPICE_OCEAN</TerrainType>
+					<bInvisible>1</bInvisible>
+				</InvisibleOnTerrain>
+				<InvisibleOnTerrain>
+					<TerrainType>TERRAIN_SPICE_COAST</TerrainType>
+					<bInvisible>1</bInvisible>
+				</InvisibleOnTerrain>
+			</InvisibleOnTerrains>
+			<InvisibleOnFeatures/>
+		</InvisibleInfo>
+	</InvisibleInfos>
+</Civ4InvisibleInfos>
