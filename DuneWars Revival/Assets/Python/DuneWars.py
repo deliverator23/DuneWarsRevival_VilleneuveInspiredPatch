@@ -846,6 +846,20 @@ class DuneWars:
         self.iFSpice = self.GetCheckInfo("FEATURE_SPICE")
         self.iFForest = self.GetCheckInfo("FEATURE_FOREST")
         self.iIHarv = self.GetCheckInfo("IMPROVEMENT_HARVESTER")
+        self.iITrad = self.GetCheckInfo("IMPROVEMENT_TRADING_POST")
+        self.iICot1 = self.GetCheckInfo("IMPROVEMENT_COTTAGE1")
+        self.iICot2 = self.GetCheckInfo("IMPROVEMENT_HAMLET2")
+        self.iICot3 = self.GetCheckInfo("IMPROVEMENT_VILLAGE3")
+        self.iICot4 = self.GetCheckInfo("IMPROVEMENT_TOWN4")
+        self.iICot1F = self.GetCheckInfo("IMPROVEMENT_COTTAGE1_FREMEN")
+        self.iICot2F = self.GetCheckInfo("IMPROVEMENT_HAMLET2_FREMEN")
+        self.iICot3F = self.GetCheckInfo("IMPROVEMENT_VILLAGE3_FREMEN")
+        self.iICot4F = self.GetCheckInfo("IMPROVEMENT_TOWN4_FREMEN")
+        self.iICot4R = self.GetCheckInfo("IMPROVEMENT_TOWN_RICHESE")
+        self.iISietch1 = self.GetCheckInfo("IMPROVEMENT_SIETCH1")
+        self.iISietch2 = self.GetCheckInfo("IMPROVEMENT_SIETCH2")
+        self.iISietch3 = self.GetCheckInfo("IMPROVEMENT_SIETCH3")
+        self.iISietch4 = self.GetCheckInfo("IMPROVEMENT_SIETCH4")
         self.iRImp = self.GetCheckInfo("RELIGION_IMPERIAL")
         self.iRMahdi = self.GetCheckInfo("RELIGION_MAHDI")
         self.iRQiz = self.GetCheckInfo("RELIGION_QIZARATE")
@@ -880,6 +894,9 @@ class DuneWars:
         self.dContracts = {}
         self.dTerraformCount = {}
         self.dSpiceVictoryCount = {}
+        self.irrigatedImprovements = [self.iITrad, self.iICot1, self.iICot2, self.iICot3, self.iICot4,
+                                        self.iICot1F, self.iICot2F, self.iICot3F, self.iICot4F, self.iICot4R,
+                                        self.iISietch1, self.iISietch2, self.iISietch3, self.iISietch4]
 
     # Print a debug message to file
     def DebugPrint(self, txt):
@@ -1083,6 +1100,13 @@ class DuneWars:
         iUnowned = 0
         for iPlotLoop in xrange(CyMap().numPlots()):
             pPlot = CyMap().plotByIndex(iPlotLoop)
+            if pPlot.isFreshWater():
+                iImpr = pPlot.getImprovementType()
+                if iImpr in self.irrigatedImprovements:
+                    upgradeProgress = pPlot.getUpgradeProgress()
+                    pPlot.setImprovementType(-1)
+                    pPlot.setImprovementType(iImpr)
+                    pPlot.setUpgradeProgress(upgradeProgress)
             if pPlot.isWormFriendly():
                 # !M! -> Count unowned valid for worms
                 if not pPlot.isOwned():
