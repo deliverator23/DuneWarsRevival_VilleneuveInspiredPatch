@@ -63,41 +63,29 @@ BeginTeam
 	RevealMap=0
 EndTeam
 BeginTeam
-	TeamID=5, (Master Scytale)
-	Tech=TECH_WATER_CONSERVATION
-	Tech=TECH_MINING
+	TeamID=5, ()
 	AtWar=18, (Muriz)
 	RevealMap=0
 EndTeam
 BeginTeam
-	TeamID=6, (Erlin Malky)
-	Tech=TECH_WATER_CONSERVATION
-	Tech=TECH_MINING
+	TeamID=6, ()
 	AtWar=18, (Muriz)
 	RevealMap=0
 EndTeam
 BeginTeam
-	TeamID=7, (Archduke Armand Ecaz)
-	Tech=TECH_WATER_CONSERVATION
-	Tech=TECH_EXPLORATION
-	AtWar=18, (Muriz)
-	RevealMap=0
-	WaterWork=1
-EndTeam
-BeginTeam
-	TeamID=8, (The Executrix)
-	Tech=TECH_MINING
-	Tech=TECH_DESERT_SURVIVAL
+	TeamID=7, ()
 	AtWar=18, (Muriz)
 	RevealMap=0
 EndTeam
 BeginTeam
-	TeamID=9, (Count Ilban Richese)
-	Tech=TECH_EXPLORATION
-	Tech=TECH_MINING
+	TeamID=8, ()
 	AtWar=18, (Muriz)
 	RevealMap=0
-	WaterWork=1
+EndTeam
+BeginTeam
+	TeamID=9, ()
+	AtWar=18, (Muriz)
+	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=10, ()
@@ -146,11 +134,11 @@ BeginTeam
 	ContactWithTeam=2, (Stilgar)
 	ContactWithTeam=3, (Shaddam IV)
 	ContactWithTeam=4, (Gaius Helen Mohiam)
-	ContactWithTeam=5, (Master Scytale)
-	ContactWithTeam=6, (Erlin Malky)
-	ContactWithTeam=7, (Archduke Armand Ecaz)
-	ContactWithTeam=8, (The Executrix)
-	ContactWithTeam=9, (Count Ilban Richese)
+	ContactWithTeam=5, ()
+	ContactWithTeam=6, ()
+	ContactWithTeam=7, ()
+	ContactWithTeam=8, ()
+	ContactWithTeam=9, ()
 	ContactWithTeam=10, ()
 	ContactWithTeam=11, ()
 	ContactWithTeam=12, ()
@@ -164,11 +152,11 @@ BeginTeam
 	AtWar=2, (Stilgar)
 	AtWar=3, (Shaddam IV)
 	AtWar=4, (Gaius Helen Mohiam)
-	AtWar=5, (Master Scytale)
-	AtWar=6, (Erlin Malky)
-	AtWar=7, (Archduke Armand Ecaz)
-	AtWar=8, (The Executrix)
-	AtWar=9, (Count Ilban Richese)
+	AtWar=5, ()
+	AtWar=6, ()
+	AtWar=7, ()
+	AtWar=8, ()
+	AtWar=9, ()
 	AtWar=10, ()
 	AtWar=11, ()
 	AtWar=12, ()
@@ -202,7 +190,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SUBSISTENCE
 	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
 	CivicOption=CIVICOPTION_ARRAKIS, Civic=CIVIC_ARRAKIS_NEUTRAL
-	Handicap=HANDICAP_NOBLE
+	Handicap=HANDICAP_PRINCE
 EndPlayer
 BeginPlayer
 	Team=1
@@ -306,127 +294,22 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	Team=5
-	LeaderType=LEADER_SCYTALE
-	LeaderName=TXT_KEY_LEADER_SCYTALE
-	CivDesc=TXT_KEY_CIVILIZATION_TLEILAX
-	CivShortDesc=TXT_KEY_CIVILIZATION_TLEILAX_SHORTDESC
-	CivAdjective=TXT_KEY_CIVILIZATION_TLEILAX_ADJECTIVE
-	FlagDecal=Art/Interface/flags/tleilax.dds
-	WhiteFlag=1
-	CivType=CIVILIZATION_TLEILAX
-	Color=PLAYERCOLOR_DUNE_MAGENTA
-	ArtStyle=ARTSTYLE_EUROPEAN
-	PlayableCiv=1
-	MinorNationStatus=0
-	StartingGold=30
-	StartingX=16, StartingY=27
-	StartingEra=ERA_ANCIENT
-	RandomStartLocation=false
-	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
-	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_TRIAL_BY_COMBAT
-	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SUBSISTENCE
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
-	CivicOption=CIVICOPTION_ARRAKIS, Civic=CIVIC_ARRAKIS_NEUTRAL
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
 	Team=6
-	LeaderType=LEADER_MALKY
-	LeaderName=TXT_KEY_LEADER_MALKY
-	CivDesc=TXT_KEY_CIVILIZATION_IX
-	CivShortDesc=TXT_KEY_CIVILIZATION_IX_SHORTDESC
-	CivAdjective=TXT_KEY_CIVILIZATION_IX_ADJECTIVE
-	FlagDecal=Art/Interface/flags/ixflag.dds
-	WhiteFlag=1
-	CivType=CIVILIZATION_IX
-	Color=PLAYERCOLOR_IX
-	ArtStyle=ARTSTYLE_MIDDLE_EAST
-	PlayableCiv=1
-	MinorNationStatus=0
-	StartingGold=30
-	StartingX=64, StartingY=55
-	StartingEra=ERA_ANCIENT
-	RandomStartLocation=false
-	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
-	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_TRIAL_BY_COMBAT
-	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SUBSISTENCE
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
-	CivicOption=CIVICOPTION_ARRAKIS, Civic=CIVIC_ARRAKIS_NEUTRAL
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
 	Team=7
-	LeaderType=LEADER_ARMAND
-	LeaderName=TXT_KEY_LEADER_ARMAND
-	CivDesc=TXT_KEY_CIVILIZATION_ECAZ
-	CivShortDesc=TXT_KEY_CIVILIZATION_ECAZ_SHORTDESC
-	CivAdjective=TXT_KEY_CIVILIZATION_ECAZ_ADJECTIVE
-	FlagDecal=Art/Interface/flags/ecaz.dds
-	WhiteFlag=1
-	CivType=CIVILIZATION_ECAZ
-	Color=PLAYERCOLOR_DUNE_TURQUOISE
-	ArtStyle=ARTSTYLE_EUROPEAN
-	PlayableCiv=1
-	MinorNationStatus=0
-	StartingGold=30
-	StartingX=59, StartingY=17
-	StartingEra=ERA_ANCIENT
-	RandomStartLocation=false
-	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
-	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_TRIAL_BY_COMBAT
-	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SUBSISTENCE
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
-	CivicOption=CIVICOPTION_ARRAKIS, Civic=CIVIC_ARRAKIS_NEUTRAL
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
 	Team=8
-	LeaderType=LEADER_EXECUTRIX
-	LeaderName=TXT_KEY_LEADER_EXECUTRIX
-	CivDesc=TXT_KEY_CIVILIZATION_ORDOS
-	CivShortDesc=TXT_KEY_CIVILIZATION_ORDOS_SHORTDESC
-	CivAdjective=TXT_KEY_CIVILIZATION_ORDOS_ADJECTIVE
-	FlagDecal=Art/Interface/flags/ordos.dds
-	WhiteFlag=1
-	CivType=CIVILIZATION_ORDOS
-	Color=PLAYERCOLOR_DUNE_ORDOS_GREEN
-	ArtStyle=ARTSTYLE_MIDDLE_EAST
-	PlayableCiv=1
-	MinorNationStatus=0
-	StartingGold=30
-	StartingX=69, StartingY=40
-	StartingEra=ERA_ANCIENT
-	RandomStartLocation=false
-	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
-	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_TRIAL_BY_COMBAT
-	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SUBSISTENCE
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
-	CivicOption=CIVICOPTION_ARRAKIS, Civic=CIVIC_ARRAKIS_NEUTRAL
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
 	Team=9
-	LeaderType=LEADER_ILBAN
-	LeaderName=Count Ilban Richese
-	CivDesc=House Richese
-	CivShortDesc=Richese
-	CivAdjective=Richesian
-	FlagDecal=Art/Interface/flags/richeseflag.dds
-	WhiteFlag=1
-	CivType=CIVILIZATION_RICHESE
-	Color=PLAYERCOLOR_LIGHT_PURPLE
-	ArtStyle=ARTSTYLE_MIDDLE_EAST
-	PlayableCiv=1
-	MinorNationStatus=0
-	StartingGold=30
-	StartingX=28, StartingY=73
-	StartingEra=ERA_ANCIENT
-	RandomStartLocation=false
-	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
-	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_TRIAL_BY_COMBAT
-	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SUBSISTENCE
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
-	CivicOption=CIVICOPTION_ARRAKIS, Civic=CIVIC_ARRAKIS_NEUTRAL
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -3854,7 +3737,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=7,y=74
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -4273,6 +4155,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=8,y=72
+	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -4284,13 +4167,11 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=8,y=74
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=8,y=75
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -4408,7 +4289,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=9,y=14
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -4688,11 +4568,13 @@ BeginPlot
 	x=9,y=67
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=9,y=68
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=9,y=69
@@ -5130,11 +5012,13 @@ BeginPlot
 	x=10,y=67
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=10,y=68
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=10,y=69
@@ -5148,13 +5032,11 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=71
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=72
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -5597,24 +5479,24 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=68
+	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=11,y=69
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
+	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=70
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=71
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -6007,7 +5889,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=63
-	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
 	TeamReveal=2,
@@ -6040,19 +5921,20 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=67
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=12,y=68
 	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=12,y=69
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
+	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -6255,25 +6137,21 @@ BeginPlot
 	x=13,y=25
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=13,y=26
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=13,y=27
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=13,y=28
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=13,y=29
@@ -6478,14 +6356,15 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=67
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=13,y=68
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=13,y=69
@@ -6696,38 +6575,32 @@ BeginPlot
 	x=14,y=25
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=14,y=26
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=14,y=27
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=14,y=28
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=14,y=29
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=14,y=30
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=14,y=31
@@ -7131,50 +7004,43 @@ BeginPlot
 	x=15,y=24
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=15,y=25
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=15,y=26
 	BonusType=BONUS_NITRATES
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=15,y=27
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=15,y=28
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=15,y=29
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=15,y=30
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=15,y=31
@@ -7567,7 +7433,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=23
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -7575,78 +7440,45 @@ BeginPlot
 	x=16,y=24
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=16,y=25
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=16,y=26
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=16,y=27
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=5, (Master Scytale)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=5, (Master Scytale)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=5, (Master Scytale)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=5, (Master Scytale)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
-	EndUnit
 	BeginCity
-		CityOwner=5, (Master Scytale)
+		CityOwner=18, (Muriz)
 		CityName=False Wall West
 		CityPopulation=2
-		BuildingType=BUILDING_TLEILAXU_PALACE
-		Player5Culture=4, (Master Scytale)
 	EndCity
-	TeamReveal=5,
-	Player5Culture=7, (Master Scytale)
+	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=16,y=28
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=16,y=29
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=16,y=30
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=16,y=31
@@ -8047,47 +7879,40 @@ BeginPlot
 	x=17,y=24
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=17,y=25
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=17,y=26
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=17,y=27
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=17,y=28
 	BonusType=BONUS_ETCHING_RESIN
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
-	Player5Culture=6, (Master Scytale)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=17,y=29
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=17,y=30
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=17,y=31
@@ -8445,7 +8270,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=16
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -8488,44 +8312,37 @@ BeginPlot
 	x=18,y=24
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=25
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=26
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=27
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=28
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=29
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=30
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=18,y=31
@@ -8933,25 +8750,21 @@ BeginPlot
 	x=19,y=26
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=19,y=27
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=19,y=28
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=19,y=29
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=19,y=30
@@ -8985,7 +8798,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=36
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -9097,16 +8909,10 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
+		UnitType=UNIT_INFANTRY, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
 		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
+		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginCity
 		CityOwner=18, (Muriz)
@@ -9320,7 +9126,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=20,y=13
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -9756,7 +9561,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=14
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -10298,43 +10102,36 @@ BeginPlot
 	BonusType=BONUS_BURRO_WEED
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=37
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=38
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=39
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=42
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=22,y=43
@@ -10738,43 +10535,36 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=37
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=38
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=39
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=42
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=23,y=43
@@ -11072,7 +10862,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=15
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -11180,19 +10969,16 @@ BeginPlot
 	x=24,y=36
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=24,y=37
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=24,y=38
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -11201,7 +10987,6 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -11210,7 +10995,6 @@ BeginPlot
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -11219,7 +11003,6 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=24,y=42
@@ -11283,19 +11066,16 @@ BeginPlot
 	BonusType=BONUS_NITRATES
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=24,y=54
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=24,y=55
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=24,y=56
@@ -11626,20 +11406,17 @@ BeginPlot
 	x=25,y=36
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=25,y=37
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=25,y=38
 	BonusType=BONUS_BARADYE
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -11648,10 +11425,10 @@ BeginPlot
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=18, (Muriz)
+		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
 		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
+		UnitAIType=UNITAI_ATTACK
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
@@ -11664,7 +11441,6 @@ BeginPlot
 		CityName=Wind Pass
 		CityPopulation=1
 	EndCity
-	TeamReveal=2,
 	Player2Culture=2, (Stilgar)
 	Player18Culture=2, (Muriz)
 EndPlot
@@ -11672,7 +11448,6 @@ BeginPlot
 	x=25,y=40
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -11680,7 +11455,6 @@ BeginPlot
 	x=25,y=41
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=25,y=42
@@ -11743,37 +11517,17 @@ BeginPlot
 	x=25,y=53
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=25,y=54
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=18, (Muriz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginCity
-		CityOwner=18, (Muriz)
-		CityName=Splintered Rock
-		CityPopulation=1
-	EndCity
-	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=25,y=55
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=25,y=56
@@ -11872,13 +11626,11 @@ BeginPlot
 	x=25,y=74
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=25,y=75
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=25,y=76
@@ -12041,6 +11793,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=23
+	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -12108,19 +11861,16 @@ BeginPlot
 	x=26,y=36
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=26,y=37
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=26,y=38
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -12128,7 +11878,6 @@ BeginPlot
 	x=26,y=39
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -12136,7 +11885,6 @@ BeginPlot
 	x=26,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 	Player2Culture=1, (Stilgar)
 	Player18Culture=1, (Muriz)
 EndPlot
@@ -12144,13 +11892,11 @@ BeginPlot
 	x=26,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=26,y=42
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=26,y=43
@@ -12209,20 +11955,17 @@ BeginPlot
 	x=26,y=53
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=26,y=54
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=26,y=55
 	BonusType=BONUS_BURRO_WEED
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=26,y=56
@@ -12307,34 +12050,29 @@ BeginPlot
 	x=26,y=71
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=26,y=72
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=26,y=73
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=26,y=74
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=26,y=75
 	BonusType=BONUS_DATE_PALMS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=26,y=76
@@ -12561,46 +12299,38 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=36
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=37
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=38
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=39
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=42
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=27,y=43
@@ -12756,35 +12486,31 @@ BeginPlot
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=27,y=72
+	BonusType=BONUS_DIAMONDS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=27,y=73
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=27,y=74
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=27,y=75
 	FeatureType=FEATURE_PEAK3, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=27,y=76
@@ -13046,7 +12772,6 @@ BeginPlot
 	x=28,y=42
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=28,y=43
@@ -13198,75 +12923,51 @@ BeginPlot
 	x=28,y=71
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=28,y=72
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=28,y=73
-	BonusType=BONUS_DIAMONDS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=9, (Count Ilban Richese)
+		UnitType=UNIT_INFANTRY, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=9, (Count Ilban Richese)
-		Level=1, Experience=0
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=9, (Count Ilban Richese)
-		Level=1, Experience=0
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=9, (Count Ilban Richese)
+		UnitType=UNIT_INFANTRY, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
 		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
+		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginCity
-		CityOwner=9, (Count Ilban Richese)
+		CityOwner=18, (Muriz)
 		CityName=Plastic Basin Station
-		CityPopulation=2
-		BuildingType=BUILDING_PALACE_RICHESE
+		CityPopulation=1
 	EndCity
-	TeamReveal=9,
-	Player9Culture=2, (Count Ilban Richese)
+	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=28,y=74
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=28,y=75
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=28,y=76
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=28,y=77
@@ -13397,7 +13098,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=18
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -13677,49 +13377,42 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=29,y=71
 	BonusType=BONUS_BURRO_WEED
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=29,y=72
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=29,y=73
 	FeatureType=FEATURE_DARK_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=29,y=74
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=9,
-	Player9Culture=1, (Count Ilban Richese)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=29,y=75
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=29,y=76
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=29,y=77
@@ -14142,37 +13835,31 @@ BeginPlot
 	x=30,y=71
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=30,y=72
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=30,y=73
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=30,y=74
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=30,y=75
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=30,y=76
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=30,y=77
@@ -14515,14 +14202,17 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=3, (Shaddam IV)
+		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
+		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -14612,7 +14302,6 @@ BeginPlot
 	FeatureType=FEATURE_PEAK3, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=31,y=71
@@ -14624,27 +14313,23 @@ BeginPlot
 	BonusType=BONUS_CREOSOTE_BUSH
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=31,y=73
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=31,y=74
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=31,y=75
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=9,
 EndPlot
 BeginPlot
 	x=31,y=76
@@ -16380,23 +16065,17 @@ BeginPlot
 	FeatureType=FEATURE_PEAK3, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=35,y=71
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=35,y=72
 	BonusType=BONUS_CEREAL
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=35,y=73
@@ -16669,6 +16348,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=42
+	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -16824,39 +16504,16 @@ BeginPlot
 	x=36,y=70
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=36,y=71
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=18, (Muriz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginCity
-		CityOwner=18, (Muriz)
-		CityName=Observatory Mountain
-		CityPopulation=1
-	EndCity
-	Player0Culture=3, (Duke Leto Atreides)
-	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=36,y=72
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=36,y=73
@@ -17293,23 +16950,17 @@ BeginPlot
 	BonusType=BONUS_BURRO_WEED
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=37,y=71
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=37,y=72
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	Player0Culture=1, (Duke Leto Atreides)
-	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=37,y=73
@@ -17577,7 +17228,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=38,y=41
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -17698,15 +17348,9 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=1, (Glossu Rabban)
-		Level=1, Experience=0
-		PromotionType=PROMOTION_HARK
-		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
@@ -17716,6 +17360,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
@@ -17735,6 +17380,14 @@ BeginPlot
 	x=38,y=64
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=1, (Glossu Rabban)
+		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_HARK
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE_SEA
+	EndUnit
 	TeamReveal=1,
 	Player1Culture=1, (Glossu Rabban)
 EndPlot
@@ -17868,6 +17521,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=39,y=6
+	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -18608,7 +18262,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=62
-	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
@@ -18672,7 +18325,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=73
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -19043,7 +18695,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=41,y=61
-	FeatureType=FEATURE_PEAK1, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
 	TeamReveal=1,
@@ -19069,6 +18720,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=41,y=65
+	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
@@ -19393,13 +19045,11 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=42,y=43
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=44
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -19495,14 +19145,14 @@ BeginPlot
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=42,y=62
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=42,y=63
@@ -19510,7 +19160,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=42,y=64
@@ -19788,7 +19438,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=43,y=32
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -19945,7 +19594,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=43,y=62
@@ -19954,6 +19603,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
@@ -19963,6 +19613,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
@@ -19975,18 +19626,18 @@ BeginPlot
 		CityPopulation=2
 		BuildingType=BUILDING_PALACE_HARK
 		BuildingType=BUILDING_DUNGEON_OF_THE_MUDIR_NAHYA
-		Player1Culture=2, (Glossu Rabban)
+		Player1Culture=4, (Glossu Rabban)
 		ExtraHealth=1
 	EndCity
 	TeamReveal=1,
-	Player1Culture=5, (Glossu Rabban)
+	Player1Culture=8, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=43,y=63
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=43,y=64
@@ -20424,7 +20075,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=44,y=62
@@ -20432,14 +20083,14 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=44,y=63
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=1,
-	Player1Culture=4, (Glossu Rabban)
+	Player1Culture=7, (Glossu Rabban)
 EndPlot
 BeginPlot
 	x=44,y=64
@@ -20670,6 +20321,13 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=4, (Gaius Helen Mohiam)
+		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=4,
 	Player4Culture=6, (Gaius Helen Mohiam)
 EndPlot
@@ -20681,26 +20339,16 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_SCOUT, UnitOwner=4, (Gaius Helen Mohiam)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_EXPLORE_SEA
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=4, (Gaius Helen Mohiam)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=4, (Gaius Helen Mohiam)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=4, (Gaius Helen Mohiam)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
 	EndUnit
 	BeginCity
 		CityOwner=4, (Gaius Helen Mohiam)
@@ -20718,6 +20366,13 @@ BeginPlot
 	x=45,y=25
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=4, (Gaius Helen Mohiam)
+		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
+		FacingDirection=0
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=4,
 	Player4Culture=6, (Gaius Helen Mohiam)
 EndPlot
@@ -20809,7 +20464,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45,y=42
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -21206,7 +20860,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=46,y=31
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -21593,7 +21246,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47,y=22
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=4,
@@ -21606,7 +21258,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47,y=24
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=4,
@@ -22040,6 +21691,7 @@ BeginPlot
 	x=48,y=21
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=48,y=22
@@ -22252,6 +21904,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=48,y=61
+	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=0,
@@ -22300,7 +21953,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=48,y=69
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -22724,25 +22376,24 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=49,y=63
-	FeatureType=FEATURE_PEAK2, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=49,y=64
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=49,y=65
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=49,y=66
@@ -23187,7 +22838,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=50,y=64
@@ -23196,24 +22847,28 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=0, (Duke Leto Atreides)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=0, (Duke Leto Atreides)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=0, (Duke Leto Atreides)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=0, (Duke Leto Atreides)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -23223,10 +22878,10 @@ BeginPlot
 		CityPopulation=2
 		BuildingType=BUILDING_GREAT_BANQUETING_HALL
 		BuildingType=BUILDING_ATREIDES_PALACE
-		Player0Culture=4, (Duke Leto Atreides)
+		Player0Culture=8, (Duke Leto Atreides)
 	EndCity
 	TeamReveal=0,
-	Player0Culture=7, (Duke Leto Atreides)
+	Player0Culture=12, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=50,y=65
@@ -23235,11 +22890,12 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_SCOUT, UnitOwner=0, (Duke Leto Atreides)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_EXPLORE_SEA
 	EndUnit
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=50,y=66
@@ -23251,7 +22907,6 @@ BeginPlot
 	x=50,y=67
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=50,y=68
@@ -23638,6 +23293,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -23645,6 +23301,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -23696,15 +23353,14 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=51,y=64
-	FeatureType=FEATURE_PEAK1, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=51,y=65
@@ -23712,7 +23368,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=0,
-	Player0Culture=6, (Duke Leto Atreides)
+	Player0Culture=11, (Duke Leto Atreides)
 EndPlot
 BeginPlot
 	x=51,y=66
@@ -24481,7 +24137,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=53,y=42
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -25655,26 +25310,22 @@ BeginPlot
 	x=56,y=16
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=56,y=17
 	BonusType=BONUS_COFFEE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=56,y=18
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=56,y=19
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=56,y=20
@@ -25723,7 +25374,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=56,y=29
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -25901,6 +25551,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=56,y=63
+	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -25911,7 +25562,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=56,y=65
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -26079,46 +25729,39 @@ BeginPlot
 	x=57,y=14
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=15
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=16
 	FeatureType=FEATURE_PEAK1, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=17
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=18
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=19
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=20
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=57,y=21
@@ -26520,48 +26163,41 @@ BeginPlot
 	x=58,y=14
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=58,y=15
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=58,y=16
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=58,y=17
 	BonusType=BONUS_SWORD_GRASS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=58,y=18
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=58,y=19
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=58,y=20
 	BonusType=BONUS_DIAMONDS
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=58,y=21
@@ -26687,7 +26323,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=58,y=45
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -26961,81 +26596,47 @@ BeginPlot
 	x=59,y=14
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=59,y=15
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=59,y=16
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=59,y=17
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=7, (Archduke Armand Ecaz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=7, (Archduke Armand Ecaz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=7, (Archduke Armand Ecaz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=7, (Archduke Armand Ecaz)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
-	EndUnit
 	BeginCity
-		CityOwner=7, (Archduke Armand Ecaz)
+		CityOwner=18, (Muriz)
 		CityName=False Wall South
 		CityPopulation=2
-		BuildingType=BUILDING_ECAZ_PALACE
-		Player7Culture=2, (Archduke Armand Ecaz)
-		FreeBonus=BONUS_FOGWOOD, Amount=3
 	EndCity
-	TeamReveal=7,
-	Player7Culture=5, (Archduke Armand Ecaz)
+	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=59,y=18
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=59,y=19
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=59,y=20
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=59,y=21
@@ -27099,7 +26700,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=59,y=33
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -27150,7 +26750,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=59,y=43
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -27433,47 +27032,40 @@ BeginPlot
 	x=60,y=14
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=60,y=15
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=60,y=16
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=60,y=17
 	BonusType=BONUS_CREOSOTE_BUSH
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=60,y=18
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=7,
-	Player7Culture=4, (Archduke Armand Ecaz)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=60,y=19
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=60,y=20
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=60,y=21
@@ -27871,46 +27463,39 @@ BeginPlot
 	x=61,y=14
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=15
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=16
 	BonusType=BONUS_CREOSOTE_BUSH
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=17
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=18
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=19
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=20
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=61,y=21
@@ -28082,33 +27667,28 @@ BeginPlot
 	x=61,y=54
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=61,y=55
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=61,y=56
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=61,y=57
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=61,y=58
 	FeatureType=FEATURE_PEAK3, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=61,y=59
@@ -28311,45 +27891,38 @@ BeginPlot
 	x=62,y=14
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=15
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=16
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=17
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=18
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=19
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=20
 	FeatureType=FEATURE_PEAK2, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=62,y=21
@@ -28433,7 +28006,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=62,y=37
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -28513,37 +28085,31 @@ BeginPlot
 	x=62,y=52
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=62,y=53
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=62,y=54
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=62,y=55
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=62,y=56
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=62,y=57
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=62,y=58
@@ -28953,43 +28519,37 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=63,y=53
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=63,y=54
 	BonusType=BONUS_SAND_VERBENA
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=63,y=55
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=63,y=56
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=63,y=57
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=63,y=58
@@ -29237,7 +28797,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64,y=22
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -29367,6 +28926,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64,y=43
+	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -29422,14 +28982,12 @@ BeginPlot
 	x=64,y=53
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=64,y=54
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=64,y=55
@@ -29437,63 +28995,36 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=6, (Erlin Malky)
+		UnitType=UNIT_WATERSTEALER, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_IXIAN
+		PromotionType=PROMOTION_WATER_INSECT
+		PromotionType=PROMOTION_STILLSUIT
 		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=6, (Erlin Malky)
-		Level=1, Experience=0
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=6, (Erlin Malky)
-		Level=1, Experience=0
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=6, (Erlin Malky)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
+		UnitAIType=UNITAI_ATTACK_CITY
 	EndUnit
 	BeginCity
-		CityOwner=6, (Erlin Malky)
+		CityOwner=18, (Muriz)
 		CityName=Shield Wall Station
-		CityPopulation=2
-		BuildingType=BUILDING_PALACE_IX
-		Player6Culture=2, (Erlin Malky)
+		CityPopulation=1
 	EndCity
-	TeamReveal=6,
-	Player6Culture=5, (Erlin Malky)
+	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=64,y=56
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=64,y=57
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=64,y=58
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=64,y=59
@@ -29909,42 +29440,36 @@ BeginPlot
 	x=65,y=53
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=65,y=54
 	BonusType=BONUS_CREOSOTE_BUSH
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=65,y=55
 	BonusType=BONUS_CREOSOTE_BUSH
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=65,y=56
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=6,
-	Player6Culture=4, (Erlin Malky)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=65,y=57
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=65,y=58
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=65,y=59
@@ -30299,7 +29824,6 @@ BeginPlot
 	x=66,y=43
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=66,y=44
@@ -30348,44 +29872,37 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=53
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=54
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=55
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=56
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=57
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=58
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=66,y=59
@@ -30720,69 +30237,58 @@ BeginPlot
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=35
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=36
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=37
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=38
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=39
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=40
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=41
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=42
 	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=43
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=44
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=67,y=45
@@ -30837,7 +30343,6 @@ BeginPlot
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=67,y=55
@@ -30854,13 +30359,11 @@ BeginPlot
 	x=67,y=57
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=67,y=58
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=6,
 EndPlot
 BeginPlot
 	x=67,y=59
@@ -31171,73 +30674,59 @@ BeginPlot
 	x=68,y=34
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=35
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=36
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=37
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=38
 	FeatureType=FEATURE_PEAK1, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=39
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=40
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=68,y=41
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=68,y=42
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=68,y=43
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=44
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=68,y=45
@@ -31536,7 +31025,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=69,y=19
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -31617,76 +31105,63 @@ BeginPlot
 	x=69,y=34
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=69,y=35
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=69,y=36
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=69,y=37
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=69,y=38
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=69,y=39
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=69,y=40
 	BonusType=BONUS_CEREAL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=69,y=41
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=2, (The Executrix)
 EndPlot
 BeginPlot
 	x=69,y=42
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=69,y=43
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=69,y=44
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=69,y=45
@@ -32066,107 +31541,84 @@ BeginPlot
 	x=70,y=34
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=70,y=35
 	BonusType=BONUS_CREOSOTE_BUSH
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=70,y=36
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=8, (The Executrix)
+		UnitType=UNIT_WATERSTEALER, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_WATER_INSECT
+		PromotionType=PROMOTION_STILLSUIT
 		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE_SEA
+		UnitAIType=UNITAI_ATTACK_CITY
 	EndUnit
 	BeginUnit
-		UnitType=UNIT_INFANTRY, UnitOwner=8, (The Executrix)
+		UnitType=UNIT_WATERSTEALER, UnitOwner=18, (Muriz)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_WATER_INSECT
+		PromotionType=PROMOTION_STILLSUIT
 		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=8, (The Executrix)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=8, (The Executrix)
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
+		UnitAIType=UNITAI_ATTACK_CITY
 	EndUnit
 	BeginCity
-		CityOwner=8, (The Executrix)
+		CityOwner=18, (Muriz)
 		CityName=Pasty Mesa
 		CityPopulation=2
-		BuildingType=BUILDING_ORDOS_PALACE
 	EndCity
-	TeamReveal=8,
-	Player8Culture=2, (The Executrix)
+	Player18Culture=2, (Muriz)
 EndPlot
 BeginPlot
 	x=70,y=37
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=70,y=38
 	BonusType=BONUS_GROUNDWATER
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=70,y=39
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=70,y=40
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=70,y=41
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=70,y=42
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
 EndPlot
 BeginPlot
 	x=70,y=43
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=70,y=44
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=70,y=45
@@ -32445,7 +31897,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=71,y=15
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32543,79 +31994,67 @@ BeginPlot
 	x=71,y=33
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=34
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=35
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=71,y=36
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=71,y=37
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=8,
-	Player8Culture=1, (The Executrix)
+	Player18Culture=1, (Muriz)
 EndPlot
 BeginPlot
 	x=71,y=38
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=39
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=41
 	FeatureType=FEATURE_CAVE, FeatureVariety=0
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=42
 	BonusType=BONUS_CEREAL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=43
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=44
 	BonusType=BONUS_BARREL_CACTUS
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=71,y=45
@@ -32669,7 +32108,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=71,y=55
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32886,7 +32324,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=72,y=14
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32918,7 +32355,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=72,y=20
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32949,7 +32385,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=72,y=26
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -32993,70 +32428,60 @@ BeginPlot
 	x=72,y=34
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=35
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=36
 	TerrainType=TERRAIN_SNOW
 	PlotType=0
-	TeamReveal=8,
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=72,y=37
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=38
 	BonusType=BONUS_SWORD_GRASS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=39
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=41
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=42
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=43
 	FeatureType=FEATURE_DARK_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=44
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=72,y=45
@@ -34002,7 +33427,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=74,y=62
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	Player18Culture=1, (Muriz)
@@ -35356,7 +34780,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=77,y=74
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -35781,7 +35204,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=78,y=73
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -36928,7 +36350,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=45
-	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=2,
@@ -37120,6 +36541,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=77
+	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -37520,7 +36942,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82,y=71
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
