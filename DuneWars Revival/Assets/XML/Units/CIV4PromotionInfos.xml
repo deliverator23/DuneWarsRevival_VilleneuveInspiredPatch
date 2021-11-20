@@ -8102,13 +8102,12 @@
 			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,8,7</Button>
 		</PromotionInfo>
 		<PromotionInfo>
-			<Type>PROMOTION_CONCEALMENT</Type>
-			<Description>Desert Concealment</Description>
+			<Type>PROMOTION_EVASIVE_ACTION</Type>
+			<Description>Evasive Action</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<TechPrereq>TECH_COMBAT_ORNITHOPTERS</TechPrereq>
 			<BonusPrereq>BONUS_WATER_DEBT</BonusPrereq>
-			<Invisible>INVISIBLE_DESERT</Invisible>
 			<PromotionPrereq>NONE</PromotionPrereq>
 			<PromotionPrereqOr1>NONE</PromotionPrereqOr1>
 			<PromotionPrereqOr2>NONE</PromotionPrereqOr2>
@@ -8128,7 +8127,7 @@
 			<iAirRangeChange>0</iAirRangeChange>
 			<iInterceptChange>0</iInterceptChange>
 			<iEvasionChange>0</iEvasionChange>
-			<iWithdrawalChange>20</iWithdrawalChange>
+			<iWithdrawalChange>25</iWithdrawalChange>
 			<iCargoChange>0</iCargoChange>
 			<iCollateralDamageChange>0</iCollateralDamageChange>
 			<iBombardRateChange>0</iBombardRateChange>
@@ -8173,33 +8172,11 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>,Art/Interface/Buttons/Promotions/Woodsman1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,5,7</Button>
+			<Button>,Art/Interface/Buttons/Promotions/Combat5.dds,Art/Interface/Buttons/dunepromoatlas1.dds,8,8</Button>
 		</PromotionInfo>
 	</PromotionInfos>
 </Civ4PromotionInfos>
 <!-- TestPromotion
-			<PromotionInfo>
-		<Type>PROMOTION_SPOTTER</Type>
-		<Description>Spotter</Description>
-		<Help></Help>
-		<Sound>AS2D_IF_LEVELUP</Sound>
-		<LayerAnimationPath>NONE</LayerAnimationPath>
-		<PromotionPrereqOr1>PROMOTION_DESERT2</PromotionPrereqOr1>
-		<TechPrereq>TECH_SANDWORMS</TechPrereq>
-		<UnitClassMods>
-			<UnitClassMod>
-				<UnitClassType>UNITCLASS_WORM</UnitClassType>
-				<iUnitClassMod>900</iUnitClassMod>
-			</UnitClassMod>
-		</UnitClassMods>
-		<UnitCombats>
-			<UnitCombat>
-				<UnitCombatType>UNITCOMBAT_THOPTER</UnitCombatType>
-				<bUnitCombat>1</bUnitCombat>
-			</UnitCombat>
-		</UnitCombats>
-		<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,8,7</Button>
-	</PromotionInfo>
 <PromotionInfos>
   <PromotionInfo>
     <Type>PROMOTION_TEST_PROMOTION</Type>
