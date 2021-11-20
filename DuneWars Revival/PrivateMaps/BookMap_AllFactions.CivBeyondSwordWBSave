@@ -6007,7 +6007,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=63
-	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
 	TeamReveal=2,
@@ -6040,13 +6039,11 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=67
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=12,y=68
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -6478,7 +6475,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=67
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -8985,7 +8981,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=36
-	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -19393,7 +19388,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=42,y=43
-	FeatureType=FEATURE_ROCK_ARCH, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -20351,7 +20345,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=44,y=48
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -21206,7 +21199,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=46,y=31
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -28433,7 +28425,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=62,y=37
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -33630,7 +33621,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=73,y=73
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -34002,7 +33992,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=74,y=62
-	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	Player18Culture=1, (Muriz)
@@ -34454,7 +34443,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=75,y=65
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -36928,7 +36916,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=45
-	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=2,

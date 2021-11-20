@@ -4588,7 +4588,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=9,y=71
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -5890,7 +5889,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=63
-	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_SNOW
 	PlotType=2
 	TeamReveal=2,
@@ -9563,7 +9561,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=14
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -12665,7 +12662,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=21
-	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -14208,16 +14204,16 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_LEVIED_TROOP
 		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_LEVIED_TROOP
 		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -17354,20 +17350,20 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -17387,8 +17383,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_SCOUT, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_HARK
 		FacingDirection=4
 		UnitAIType=UNITAI_EXPLORE_SEA
 	EndUnit
@@ -19607,20 +19603,20 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=1, (Glossu Rabban)
 		Level=1, Experience=0
+		PromotionType=PROMOTION_HOMEGROUND
 		PromotionType=PROMOTION_HARK
 		PromotionType=PROMOTION_CITY_GARRISON1
 		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_HOMEGROUND
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -23297,16 +23293,16 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_LEVIED_TROOP
 		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_INFANTRY, UnitOwner=3, (Shaddam IV)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_LEVIED_TROOP
 		PromotionType=PROMOTION_HOMEGROUND
+		PromotionType=PROMOTION_LEVIED_TROOP
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -32359,7 +32355,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=72,y=20
-	FeatureType=FEATURE_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -36355,7 +36350,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=45
-	ImprovementType=IMPROVEMENT_TRADING_POST
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=2,
@@ -36810,7 +36804,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82,y=45
-	FeatureType=FEATURE_PEAK3, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
 	TeamReveal=2,
