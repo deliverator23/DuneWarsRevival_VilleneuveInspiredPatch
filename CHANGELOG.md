@@ -13,7 +13,7 @@
 
 ## Version 5.0
 
-The Villeneuve Inspired Patch for Dune Wars: Revival has now evolved into modmodmod with a number of gameplay changes in addition to artwork training.
+The Villeneuve Inspired Patch for Dune Wars: Revival has now evolved into modmodmod with a number of gameplay changes in addition to artwork changes.
 
 ### Gameplay Changes
 
