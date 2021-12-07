@@ -9,7 +9,7 @@
 ### Scenario Changes
 
 * Add Expansion Palace wonder to the Fremen city of Gara Kulon in the Book Map scenarios to help their economy.
-
+* Remove Refineries from Fremen cities.
 
 ##Version 5.0
 
