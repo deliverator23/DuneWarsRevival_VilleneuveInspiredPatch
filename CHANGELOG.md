@@ -1,6 +1,6 @@
-#Dune Wars: Revival - Villeneuve Inspired Patch Changelog
+# Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
-##Version 5.1
+## Version 5.1
 
 ### Gameplay Changes
 
@@ -11,7 +11,7 @@
 * Add Expansion Palace wonder to the Fremen city of Gara Kulon in the Book Map scenarios to help their economy.
 * Remove Refineries from Fremen cities.
 
-##Version 5.0
+## Version 5.0
 
 The Villeneuve Inspired Patch for Dune Wars: Revival has now evolved into modmodmod with a number of gameplay changes in addition to artwork training.
 
@@ -23,19 +23,19 @@ Predominantly these are changes to the Fremen to present them with more interest
 
 There are four grades of Sietch improvement that can only be built on tiles with the Caves Feature:
 
-####Nascent Sietch
+#### Nascent Sietch
 +1 Commerce
 +1 Commerce with Fresh Water
 Becomes a Minor Sietch in 20 turns.
 
-####Minor Sietch
+#### Minor Sietch
 +1 Water
 +2 Commerce
 +1 Commerce with Fresh Water
 +5% Tile Defense
 Becomes a Major Sietch in 40 turns.
 
-####Major Sietch
+#### Major Sietch
 +2 Water
 +3 Commerce
 +1 Production
@@ -44,7 +44,7 @@ Becomes a Major Sietch in 40 turns.
 +1 Happiness in nearest city
 Becomes a Sietch Fortress in 80 turns.
 
-####Sietch Fortress
+#### Sietch Fortress
 +3 Water
 +4 Commerce
 +2 Production
@@ -53,7 +53,7 @@ Becomes a Sietch Fortress in 80 turns.
 +2 Happiness in nearest city
 Acts a city for combat purposes
 
-####Trading Post
+#### Trading Post
 +1 Commerce
 +1 Water with Fresh Water
 +1 Commerce with each of Water Economy, Offworld Trade and Protected Trade
@@ -72,7 +72,7 @@ Cannot be built within 2 tiles of another Trading Post
 
 * Fremen Evasive Action Promotion added at Combat Ornithopters (+25% Withdrawal Chance; requires Fremen Water Debt).
 
-###World Builder and Scenario Changes
+### World Builder and Scenario Changes
 
 * World Builder saves can now be played as Scenarios.
 
@@ -91,11 +91,11 @@ Any *.CivBeyondSwordWBSave with a suffix of "Generate" followed by the letters F
 
 Spice is completed removed from the World Builder map on saving and then randomly re-added on load.
 
-###Artwork Changes
+### Artwork Changes
 
 * Homeworld screen now includes artwork of the Heighliner and Spacing Guild from the Dune 2021 movie.
 
-##Version 4.0
+## Version 4.0
 
 * New Leader graphics for Duncan, Gurney, Jessica, Stilgar, Kynes, Paul, Chani, Mohiam and Roma Atani.
 * New faction flag graphics based on the banners used in the film.
@@ -105,14 +105,14 @@ Spice is completed removed from the World Builder map on saving and then randoml
 * New rankings in end game screen.
 * Other small graphical improvements.
 
-##Version 3.0
+## Version 3.0
 
 * Much improved art for the Baron Harkonnen.
 * New Era start images for the start of each Era.
 * New intro video.
 * New cosmetic design for Tech Advisor Screen.
 
-##Version 2.0
+## Version 2.0
 
 * New Leaders
 ```
@@ -123,7 +123,7 @@ Spice is completed removed from the World Builder map on saving and then randoml
 * New art for Baron Harkonnen (emerging from goo... best you can get from the first trailer!)
 * Pedia updated for the female Liet-Kynes of the Villeneuve Duniverse.
 
-##Version 1.0
+## Version 1.0
 
 * New Leaderheads for:
 ```
