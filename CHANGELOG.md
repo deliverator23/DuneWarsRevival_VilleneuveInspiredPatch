@@ -59,6 +59,7 @@ Acts a city for combat purposes
 +1 Commerce with each of Water Economy, Offworld Trade and Protected Trade
 Cannot be built within 2 tiles of another Trading Post
 
+
 * Fremen Worker cannot build the Dwelling (Cottage) Improvement until Applied Agriculture is researched.
 
 * Fremen now have a -1 Happiness penalty in all cities representing their difficulty in accepting authority, but 10% less XP is required for unit promotions (via the Fremen Leader trait).
@@ -113,10 +114,31 @@ Spice is completed removed from the World Builder map on saving and then randoml
 
 ##Version 2.0
 
-* New Leaders:
+* New Leaders
+```
 * Lady Jessica (Bene Gesserit) [Charismatic/Religious]
 * Chani (Fremen) [Charismatic/Protective]
 * Gurney Halleck (Atreides) [Mercantile/Protective]
-
+```
 * New art for Baron Harkonnen (emerging from goo... best you can get from the first trailer!)
 * Pedia updated for the female Liet-Kynes of the Villeneuve Duniverse.
+
+##Version 1.0
+
+* New Leaderheads for:
+```
+* Paul Muad'Dib (Fremen)
+* Liet-Kynes (Fremen)
+* Stilgar (Fremen)
+* Duke Leto Atreides (House Atreides)
+* Duncan Idaho (House Atreides)
+* Glossu Rabban (House Harkonnen)
+* Gaius Helen Mohaim (Bene Gesserit)
+* Baron Harkonnen (House Harkonnen)
+```
+Artwork for the remaining 19 Leaders is currently unchanged.
+
+* New Title Imagery
+
+### Other Changes
+* Harkonnen Unit Order and Select Sounds changed from previous "comedy villian" voices.
