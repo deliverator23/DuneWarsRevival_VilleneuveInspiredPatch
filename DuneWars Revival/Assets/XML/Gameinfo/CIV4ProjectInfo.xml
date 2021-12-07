@@ -1,17 +1,10 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Project Infos -->
-<!-- You must have atleast one project in order for the game to load properly. -->
 <Civ4ProjectInfo xmlns="x-schema:CIV4GameInfoSchema.xml">
 	<ProjectInfos>
 		<ProjectInfo>
 			<Type>PROJECT_BREEDING1</Type>
 			<Description>TXT_KEY_PROJECT_BREEDING1</Description>
 			<Civilopedia>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA1</Civilopedia>
-			<Strategy></Strategy>
+			<Strategy />
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<TechPrereq>TECH_EDUCATION</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
@@ -25,21 +18,21 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/buildings/kwisatz1.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
 			<CivilizationType>CIVILIZATION_GESSERIT</CivilizationType>
-			<BonusProductionModifiers/>
-			<CreateSound/>
-			<MovieDefineTag/>
+			<BonusProductionModifiers />
+			<CreateSound />
+			<MovieDefineTag />
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_BREEDING2</Type>
 			<Description>TXT_KEY_PROJECT_BREEDING2</Description>
 			<Civilopedia>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA2</Civilopedia>
-			<Strategy></Strategy>
+			<Strategy />
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<TechPrereq>TECH_MENTAL_DISCIPLINE</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
@@ -59,20 +52,20 @@
 					<iNeeded>1</iNeeded>
 				</PrereqProject>
 			</PrereqProjects>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
 			<CivilizationType>CIVILIZATION_GESSERIT</CivilizationType>
-			<BonusProductionModifiers/>
-			<CreateSound/>
-			<MovieDefineTag/>
+			<BonusProductionModifiers />
+			<CreateSound />
+			<MovieDefineTag />
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_BREEDING3</Type>
 			<Description>TXT_KEY_PROJECT_BREEDING3</Description>
 			<Civilopedia>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA3</Civilopedia>
-			<Strategy></Strategy>
+			<Strategy />
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<TechPrereq>TECH_WATER_OF_LIFE</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
@@ -92,20 +85,20 @@
 					<iNeeded>1</iNeeded>
 				</PrereqProject>
 			</PrereqProjects>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
 			<CivilizationType>CIVILIZATION_GESSERIT</CivilizationType>
-			<BonusProductionModifiers/>
-			<CreateSound/>
-			<MovieDefineTag/>
+			<BonusProductionModifiers />
+			<CreateSound />
+			<MovieDefineTag />
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_BREEDING4</Type>
 			<Description>TXT_KEY_PROJECT_BREEDING4</Description>
 			<Civilopedia>TXT_KEY_PROJECT_BREEDING_PROJECT_PEDIA4</Civilopedia>
-			<Strategy></Strategy>
+			<Strategy />
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<TechPrereq>TECH_PRESCIENCE</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
@@ -125,14 +118,14 @@
 					<iNeeded>1</iNeeded>
 				</PrereqProject>
 			</PrereqProjects>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
 			<CivilizationType>CIVILIZATION_GESSERIT</CivilizationType>
-			<BonusProductionModifiers/>
-			<CreateSound/>
-			<MovieDefineTag/>
+			<BonusProductionModifiers />
+			<CreateSound />
+			<MovieDefineTag />
 		</ProjectInfo>	
 		<ProjectInfo>
 			<Type>PROJECT_MONITOR_ELECTRICAL_SYSTEM</Type>
@@ -152,13 +145,13 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/Units/monitor_electrical.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
-			<BonusProductionModifiers/>
-			<CreateSound/>
+			<BonusProductionModifiers />
+			<CreateSound />
 			<MovieDefineTag>NONE</MovieDefineTag>
 		</ProjectInfo>		
 		<ProjectInfo>
@@ -179,13 +172,13 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/Units/monitor_weapon.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
-			<BonusProductionModifiers/>
-			<CreateSound/>
+			<BonusProductionModifiers />
+			<CreateSound />
 			<MovieDefineTag>NONE</MovieDefineTag>
 		</ProjectInfo>			
 		<ProjectInfo>
@@ -206,13 +199,13 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/Units/monitor_hull.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
-			<BonusProductionModifiers/>
-			<CreateSound/>
+			<BonusProductionModifiers />
+			<CreateSound />
 			<MovieDefineTag>NONE</MovieDefineTag>
 		</ProjectInfo>	
 		<ProjectInfo>
@@ -233,13 +226,13 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/Units/monitor_propulsion.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
-			<BonusProductionModifiers/>
-			<CreateSound/>
+			<BonusProductionModifiers />
+			<CreateSound />
 			<MovieDefineTag>NONE</MovieDefineTag>
 		</ProjectInfo>
 		<ProjectInfo>
@@ -260,20 +253,20 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/Units/monitor_power.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
-			<BonusProductionModifiers/>
-			<CreateSound/>
+			<BonusProductionModifiers />
+			<CreateSound />
 			<MovieDefineTag>NONE</MovieDefineTag>
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_IX</Type>
-			<Description>'No-Cloak' Tech Experiment</Description>
+			<Description>TXT_KEY_DW_PROJECT_IX</Description>
 			<Civilopedia>TXT_KEY_BUILDING_NO_CLOAK</Civilopedia>
-			<Strategy></Strategy>
+			<Strategy />
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<TechPrereq>TECH_NO_FIELDS</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
@@ -287,21 +280,21 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/Interface/Buttons/Buildings/adularia_chamber.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
 			<CivilizationType>CIVILIZATION_IX</CivilizationType>
-			<BonusProductionModifiers/>
-			<CreateSound/>
+			<BonusProductionModifiers />
+			<CreateSound />
 			<MovieDefineTag>NONE</MovieDefineTag>
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_TEG</Type>
 			<Description>TXT_KEY_PROJECT_TEG</Description>
 			<Civilopedia>TXT_KEY_UNIT_TEG_PROJECT_PEDIA</Civilopedia>
-			<Strategy></Strategy>
+			<Strategy />
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<TechPrereq>TECH_PRANA_BINDU_TRAINING</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
@@ -315,15 +308,15 @@
 			<bSpaceship>0</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
 			<Button>Art/units/miles_teg/teg.dds</Button>
-			<PrereqProjects/>
-			<VictoryThresholds/>
-			<VictoryMinThresholds/>
+			<PrereqProjects />
+			<VictoryThresholds />
+			<VictoryMinThresholds />
 			<iVictoryDelayPercent>0</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
 			<CivilizationType>CIVILIZATION_GESSERIT</CivilizationType>
-			<BonusProductionModifiers/>
-			<CreateSound/>
-			<MovieDefineTag/>
+			<BonusProductionModifiers />
+			<CreateSound />
+			<MovieDefineTag />
 		</ProjectInfo>
 	</ProjectInfos>
 </Civ4ProjectInfo>

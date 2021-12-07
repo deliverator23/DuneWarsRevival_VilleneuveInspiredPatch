@@ -1,17 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- The order cannot be changed and no entry in the list can be removed. -->
-<!-- But values can be tweaked and new entries can be added at the end of the list. -->
-<!-- -->
-<!-- Promotion Infos -->
 <Civ4PromotionInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<PromotionInfos>
 		<PromotionInfo>
 			<Type>PROMOTION_FACE_DANCER_FIGHTER</Type>
-			<Description>Face Dancer Combatant</Description>	
+			<Description>TXT_KEY_DW_PROMOTION_FACE_DANCER_FIGHTER</Description>	
 			<Help>TXT_KEY_FACE_DANCER_FIGHTER_HELP</Help>
 			<Sound>AS2D_PING</Sound>
 			<PrereqCivilizations> 
@@ -22,8 +13,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_GHOLA</Type>
-			<Description>Ghola</Description>	
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_GHOLA</Description>	
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_TLEILAX</PrereqCivilization>
@@ -78,16 +69,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -166,16 +157,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -184,7 +175,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_HOMEGROUND2</Type>
-			<Description>Home Ground Support</Description>
+			<Description>TXT_KEY_DW_PROMOTION_HOMEGROUND2</Description>
 			<Help>TXT_KEY_PROMOTION_HOMEGROUND_HELP2</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
@@ -230,16 +221,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -298,16 +289,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -366,16 +357,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -434,16 +425,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -502,16 +493,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -590,7 +581,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -643,16 +634,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -669,7 +660,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_HARK</Type>
-			<Description>Ruthless</Description>
+			<Description>TXT_KEY_DW_PROMOTION_HARK</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<Help>TXT_KEY_PROMOTION_HARK_HELP</Help>
 			<PrereqCivilizations> 
@@ -704,7 +695,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_PB_TRAINED</Type>
-			<Description>Prana Bindu Trained</Description>
+			<Description>TXT_KEY_DW_PROMOTION_PB_TRAINED</Description>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_GESSERIT</PrereqCivilization>				
 			</PrereqCivilizations>	
@@ -759,10 +750,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -773,16 +764,16 @@
 					<iUnitCombatMod>10</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -835,10 +826,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -849,16 +840,16 @@
 					<iUnitCombatMod>10</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -926,8 +917,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_BUILDING_BOMBING</Type>
-			<Description>Splash Bombing</Description>
-			<Help>[ICON_BULLET]Unit may destroy a vulnerable building while bombarding city defenses</Help>
+			<Description>TXT_KEY_DW_PROMOTION_BUILDING_BOMBING</Description>
+			<Help>TXT_KEY_DW_PROMOTION_BUILDING_BOMBING_HELP</Help>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_ATREIDES</PrereqCivilization>
 			</PrereqCivilizations>
@@ -980,8 +971,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_ORDOS_VEHICLE</Type>
-			<Description>Mercenary Vulture</Description>
-			<Help>[ICON_BULLET]Can gather [ICON_GOLD] from combat spoils</Help>
+			<Description>TXT_KEY_DW_PROMOTION_ORDOS_VEHICLE</Description>
+			<Help>TXT_KEY_DW_PROMOTION_ORDOS_VEHICLE_HELP</Help>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_ORDOS</PrereqCivilization>
 			</PrereqCivilizations>	
@@ -1002,7 +993,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_LEVIED_TROOP</Type>
-			<Description>Levied Troop</Description>
+			<Description>TXT_KEY_DW_PROMOTION_LEVIED_TROOP</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_CORRINO</PrereqCivilization>				
@@ -1019,7 +1010,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_RAIDER</Type>
-			<Description>Raider</Description>
+			<Description>TXT_KEY_DW_PROMOTION_RAIDER</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_ORDOS</PrereqCivilization>				
@@ -1122,14 +1113,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1164,7 +1155,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1217,14 +1208,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1259,7 +1250,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1312,14 +1303,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1354,7 +1345,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1407,14 +1398,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1449,7 +1440,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1502,14 +1493,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1524,7 +1515,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1577,14 +1568,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1595,7 +1586,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1648,14 +1639,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1666,7 +1657,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1785,14 +1776,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1803,7 +1794,7 @@
 					<bUnitCombat>0</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1856,14 +1847,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1874,7 +1865,7 @@
 					<bUnitCombat>0</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1927,15 +1918,15 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -1946,7 +1937,7 @@
 					<bUnitCombat>0</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -1956,7 +1947,7 @@
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL1</Type>
 			<Description>TXT_KEY_PROMOTION_DRILL1</Description>
-			<Help></Help>
+			<Help />
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2000,14 +1991,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -2022,7 +2013,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2075,14 +2066,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -2097,7 +2088,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2107,7 +2098,7 @@
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL3</Type>
 			<Description>TXT_KEY_PROMOTION_DRILL3</Description>
-			<Help>[ICON_BULLET]+1% Fortify Bonus per Turn (stackable)</Help>
+			<Help>TXT_KEY_DW_PROMOTION_DRILL3_HELP</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2152,14 +2143,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>10</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -2174,7 +2165,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2184,7 +2175,7 @@
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL4</Type>
 			<Description>TXT_KEY_PROMOTION_DRILL4</Description>
-			<Help>[ICON_BULLET]+1% Fortify Bonus per Turn (stackable)</Help>
+			<Help>TXT_KEY_DW_PROMOTION_DRILL4_HELP</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2229,15 +2220,15 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>10</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -2252,7 +2243,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2319,8 +2310,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CAVE_TRAINING</Type>
-			<Description>Cave Stealth</Description>
-			<Help>[ICON_BULLET]Invisible in Caves that do not belong to a City Plot</Help>
+			<Description>TXT_KEY_DW_PROMOTION_CAVE_TRAINING</Description>
+			<Help>TXT_KEY_DW_PROMOTION_CAVE_TRAINING_HELP</Help>
 			<PromotionPrereq>PROMOTION_CAVE_FIGHTER2</PromotionPrereq>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_FREMEN</PrereqCivilization>
@@ -2366,7 +2357,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL1_SIEGE</Type>
-			<Description>Long Range Bombardment 1</Description>
+			<Description>TXT_KEY_DW_PROMOTION_DRILL1_SIEGE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2410,21 +2401,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2433,7 +2424,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL2_SIEGE</Type>
-			<Description>Long Range Bombardment 2</Description>
+			<Description>TXT_KEY_DW_PROMOTION_DRILL2_SIEGE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2477,21 +2468,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2500,7 +2491,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL3_SIEGE</Type>
-			<Description>Long Range Bombardment 3</Description>
+			<Description>TXT_KEY_DW_PROMOTION_DRILL3_SIEGE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2544,21 +2535,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2567,7 +2558,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_DRILL4_SIEGE</Type>
-			<Description>Long Range Bombardment 4</Description>
+			<Description>TXT_KEY_DW_PROMOTION_DRILL4_SIEGE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2611,21 +2602,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2801,14 +2792,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -2831,7 +2822,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2884,14 +2875,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -2910,7 +2901,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -2919,7 +2910,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_FLANKING3</Type>
-			<Description>Flanking III</Description>
+			<Description>TXT_KEY_DW_PROMOTION_FLANKING3</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -2966,21 +2957,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3033,14 +3024,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SUSPENSOR</UnitCombatType>
@@ -3051,7 +3042,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3060,7 +3051,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_LEADER</Type>
-			<Description>Lead by Bashar</Description>
+			<Description>TXT_KEY_DW_PROMOTION_LEADER</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -3104,14 +3095,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>50</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -3142,7 +3133,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3195,14 +3186,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>100</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -3237,7 +3228,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3290,14 +3281,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -3332,7 +3323,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3385,14 +3376,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -3423,7 +3414,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3476,14 +3467,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
@@ -3514,7 +3505,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3567,14 +3558,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -3585,7 +3576,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3638,21 +3629,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3705,21 +3696,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3772,14 +3763,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
@@ -3794,7 +3785,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3847,14 +3838,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
@@ -3869,7 +3860,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -3922,19 +3913,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_SUSPENSOR</UnitCombatType>
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -3953,7 +3944,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4006,19 +3997,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_SUSPENSOR</UnitCombatType>
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4033,7 +4024,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4086,19 +4077,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4133,7 +4124,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4186,19 +4177,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4229,7 +4220,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4282,19 +4273,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4309,7 +4300,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4362,19 +4353,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4384,12 +4375,9 @@
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
-				<!-- <UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MECH</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat> -->
+				
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4442,10 +4430,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -4456,9 +4444,9 @@
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4481,7 +4469,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4534,10 +4522,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -4548,9 +4536,9 @@
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4573,7 +4561,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4626,10 +4614,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_THOPTER</UnitCombatType>
@@ -4644,9 +4632,9 @@
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4677,7 +4665,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4730,10 +4718,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_THOPTER</UnitCombatType>
@@ -4748,9 +4736,9 @@
 					<iUnitCombatMod>20</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -4777,7 +4765,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4832,20 +4820,20 @@
 			<iExperiencePercent>0</iExperiencePercent>
 			<iDesertAttack>20</iDesertAttack>
 			<iDesertDefense>20</iDesertDefense>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
 			<UnitClassMods>
 				<UnitClassMod>
 					<UnitClassType>UNITCLASS_WORM</UnitClassType>
 					<iUnitClassMod>40</iUnitClassMod>
 				</UnitClassMod>
 			</UnitClassMods>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -4864,7 +4852,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -4919,20 +4907,20 @@
 			<iExperiencePercent>0</iExperiencePercent>
 			<iDesertAttack>20</iDesertAttack>
 			<iDesertDefense>20</iDesertDefense>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
 			<UnitClassMods>
 				<UnitClassMod>
 					<UnitClassType>UNITCLASS_WORM</UnitClassType>
 					<iUnitClassMod>40</iUnitClassMod>
 				</UnitClassMod>
 			</UnitClassMods>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -4951,7 +4939,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5016,7 +5004,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SECURITY_ATREIDES</Type>
-			<Description>Atreides Security</Description>
+			<Description>TXT_KEY_DW_PROMOTION_SECURITY_ATREIDES</Description>
 			<Sound>AS2D_PING</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_ATREIDES</PrereqCivilization>
@@ -5145,7 +5133,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_PRESCIENCE</Type>
-			<Description>Farsighted</Description>
+			<Description>TXT_KEY_DW_PROMOTION_PRESCIENCE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>PROMOTION_PB_TRAINED</PromotionPrereq>
@@ -5192,14 +5180,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_SUSPENSOR</UnitCombatType>
@@ -5210,7 +5198,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5264,16 +5252,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5327,16 +5315,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5390,16 +5378,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5453,16 +5441,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5516,16 +5504,16 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
-			<UnitCombats/>
-			<HotKey/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
+			<UnitCombats />
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -5534,7 +5522,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SABOTAGE</Type>
-			<Description>Sabotage I</Description>
+			<Description>TXT_KEY_DW_PROMOTION_SABOTAGE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_ORDOS</PrereqCivilization>
@@ -5550,8 +5538,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SABOTAGE4</Type>
-			<Description>Sabotage IV</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_SABOTAGE4</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_SABOTAGE3</PromotionPrereq>
 			<PrereqCivics> 
@@ -5579,7 +5567,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_REMOTE_OPERATIONS</Type>
-			<Description>Remote Operations I</Description>			
+			<Description>TXT_KEY_DW_PROMOTION_REMOTE_OPERATIONS</Description>			
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_IX</PrereqCivilization>
@@ -5595,7 +5583,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_REMOTE_OPERATIONS4</Type>
-			<Description>Remotion Operations IV</Description>			
+			<Description>TXT_KEY_DW_PROMOTION_REMOTE_OPERATIONS4</Description>			
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_REMOTE_OPERATIONS3</PromotionPrereq>
 			<PrereqCivics> 
@@ -5623,7 +5611,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NARCOTICS_DEALING</Type>
-			<Description>Narcotics Dealing I</Description>
+			<Description>TXT_KEY_DW_PROMOTION_NARCOTICS_DEALING</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_ECAZ</PrereqCivilization>
@@ -5639,7 +5627,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NARCOTICS_DEALING4</Type>
-			<Description>Narcotics Dealing IV</Description>
+			<Description>TXT_KEY_DW_PROMOTION_NARCOTICS_DEALING4</Description>
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_NARCOTICS_DEALING3</PromotionPrereq>
 			<PrereqCivics> 
@@ -5726,8 +5714,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_INSTIGATION4</Type>
-			<Description>Instigation IV</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_INSTIGATION4</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_INSTIGATION3</PromotionPrereq>
 			<PrereqCivics> 
@@ -5815,8 +5803,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CONSPIRACY4</Type>
-			<Description>Conspiracy IV</Description>
-			<Help></Help>						
+			<Description>TXT_KEY_DW_PROMOTION_CONSPIRACY4</Description>
+			<Help />						
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_CONSPIRACY3</PromotionPrereq>
 			<PrereqCivics> 
@@ -5903,8 +5891,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SEDUCTION4</Type>
-			<Description>Seduction IV</Description>
-			<Help></Help>									
+			<Description>TXT_KEY_DW_PROMOTION_SEDUCTION4</Description>
+			<Help />									
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_SEDUCTION3</PromotionPrereq>
 			<PrereqCivics> 
@@ -5990,8 +5978,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_INTRIGUE4</Type>
-			<Description>Intrigue IV</Description>
-			<Help></Help>			
+			<Description>TXT_KEY_DW_PROMOTION_INTRIGUE4</Description>
+			<Help />			
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_INTRIGUE3</PromotionPrereq>
 			<PrereqCivics> 
@@ -6078,8 +6066,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TREACHERY4</Type>
-			<Description>Treachery IV</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_TREACHERY4</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_TREACHERY3</PromotionPrereq>
 			<PrereqCivics> 
@@ -6156,8 +6144,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_WATER_THEFT4</Type>
-			<Description>Water Theft IV</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_WATER_THEFT4</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereqOr1>PROMOTION_WATER_THEFT3</PromotionPrereqOr1>
 			<PrereqCivics> 
@@ -6228,14 +6216,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>50</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6254,7 +6242,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6307,14 +6295,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6333,7 +6321,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6386,14 +6374,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6412,7 +6400,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6465,14 +6453,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6491,7 +6479,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6545,21 +6533,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>20</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6613,21 +6601,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>20</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6680,21 +6668,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6747,14 +6735,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6769,7 +6757,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>				
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6822,19 +6810,19 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
 					<iUnitCombatMod>10</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6845,7 +6833,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>				
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6898,10 +6886,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
@@ -6912,16 +6900,16 @@
 					<iUnitCombatMod>10</iUnitCombatMod>
 				</UnitCombatMod>				
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>			
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -6974,10 +6962,10 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
@@ -6992,9 +6980,9 @@
 					<iUnitCombatMod>10</iUnitCombatMod>
 				</UnitCombatMod>				
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -7005,7 +6993,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>						
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -7058,21 +7046,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_THOPTER</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -7125,26 +7113,26 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<iUnitCombatMod>10</iUnitCombatMod>
 				</UnitCombatMod>						
 			</UnitCombatMods>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_THOPTER</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>						
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -7197,21 +7185,21 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_HORNET</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>						
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -7283,8 +7271,8 @@
 		</PromotionInfo>	
 		<PromotionInfo>
 			<Type>PROMOTION_THUMPER</Type>
-			<Description>Thumper</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_THUMPER</Description>
+			<Help />
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereqOr1>PROMOTION_SANDRIDER</PromotionPrereqOr1>
@@ -7317,7 +7305,7 @@
 			<TechPrereq>TECH_STILLSUITS</TechPrereq>
 			<FreePromotionTech>TECH_STILLSUITS</FreePromotionTech>
 			<PromotionExcludes>
-				<!-- <Promotion>PROMOTION_SANDRIDER</Promotion> -->
+				
 			</PromotionExcludes>
 		    <bAutoAcquire>1</bAutoAcquire>
 			<bNoXP>1</bNoXP>
@@ -7359,7 +7347,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NO_CLOAK</Type>
-			<Description>No-Cloaked</Description>
+			<Description>TXT_KEY_DW_PROMOTION_NO_CLOAK</Description>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_IX</PrereqCivilization>
 			</PrereqCivilizations>	
@@ -7375,7 +7363,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_ADVANCED_CIRCUITRY</Type>
-			<Description>Advanced Circuitry</Description>
+			<Description>TXT_KEY_DW_PROMOTION_ADVANCED_CIRCUITRY</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<TechPrereq>TECH_ADVANCED_ELECTRONICS</TechPrereq>
 			<PrereqCivilizations> 
@@ -7426,7 +7414,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_ELACCA_DRUGGED</Type>
-			<Description>Elacca Drugged</Description>
+			<Description>TXT_KEY_DW_PROMOTION_ELACCA_DRUGGED</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<TechPrereq>TECH_OFFWORLD_TRADE</TechPrereq>
 			<PrereqCivilizations> 
@@ -7482,7 +7470,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_WEAPONS_MASTER</Type>
-			<Description>Weapons Master</Description>
+			<Description>TXT_KEY_DW_PROMOTION_WEAPONS_MASTER</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_ORDER_OF_AGAMEMNON</PromotionPrereq>
 			<TechPrereq>TECH_MILITARY_ELITE</TechPrereq>			
@@ -7578,9 +7566,9 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_KHASADAR</Type>
-			<Description>Elite Khasadar</Description>
+			<Description>TXT_KEY_DW_PROMOTION_KHASADAR</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
-			<Help>[ICON_BULLET]+1% Fortify Bonus per Turn</Help>
+			<Help>TXT_KEY_DW_PROMOTION_KHASADAR_HELP</Help>
 			<iRequiredBattleCount>2</iRequiredBattleCount>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_TLEILAX</PrereqCivilization>				
@@ -7606,8 +7594,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CORRINO_NOBLE</Type>
-			<Description>Noble</Description>
-			<Help>[ICON_BULLET]Provided by the Corrino Palace</Help>
+			<Description>TXT_KEY_DW_PROMOTION_CORRINO_NOBLE</Description>
+			<Help>TXT_KEY_DW_PROMOTION_CORRINO_NOBLE_HELP</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_CORRINO</PrereqCivilization>				
@@ -7625,7 +7613,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_GUARDSMAN_CORRINO</Type>
-			<Description>Assault Guardsman</Description>
+			<Description>TXT_KEY_DW_PROMOTION_GUARDSMAN_CORRINO</Description>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_CORRINO</PrereqCivilization>
 			</PrereqCivilizations>
@@ -7642,8 +7630,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NANOTECH</Type>
-			<Description>NanoSlots</Description>
-			<Help>[ICON_BULLET]Provided by any City With Access to the 'Richesian Nanotech' Resource[NEWLINE][ICON_BULLET]Allows the 'Components' Type Promotions</Help>
+			<Description>TXT_KEY_DW_PROMOTION_NANOTECH</Description>
+			<Help>TXT_KEY_DW_PROMOTION_NANOTECH_HELP</Help>
 			<bCannotAcquire>1</bCannotAcquire>
 			<BonusPrereq>BONUS_RICHESE</BonusPrereq>
 			<UnitCombats>
@@ -7676,7 +7664,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_ORE</Type>
-			<Description>Ore Components</Description>
+			<Description>TXT_KEY_DW_PROMOTION_ORE</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_NANOTECH</PromotionPrereq>
 			<BonusPrereq>BONUS_ORE</BonusPrereq>
@@ -7692,7 +7680,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NITRATES</Type>
-			<Description>Nitrates Components</Description>
+			<Description>TXT_KEY_DW_PROMOTION_NITRATES</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_NANOTECH</PromotionPrereq>
 			<BonusPrereq>BONUS_NITRATES</BonusPrereq>
@@ -7721,7 +7709,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CRYSTAL</Type>
-			<Description>Crystal Components</Description>
+			<Description>TXT_KEY_DW_PROMOTION_CRYSTAL</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_NANOTECH</PromotionPrereq>
 			<BonusPrereq>BONUS_CRYSTAL</BonusPrereq>
@@ -7752,7 +7740,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_DIAMONDS</Type>
-			<Description>Diamonds Components</Description>
+			<Description>TXT_KEY_DW_PROMOTION_DIAMONDS</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_NANOTECH</PromotionPrereq>
 			<iMinLevel>3</iMinLevel>
@@ -7781,7 +7769,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_STRAVIDIUM</Type>
-			<Description>Stravidium Components</Description>
+			<Description>TXT_KEY_DW_PROMOTION_STRAVIDIUM</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_NANOTECH</PromotionPrereq>
 			<BonusPrereq>BONUS_STRAVIDIUM</BonusPrereq>
@@ -7815,7 +7803,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_URANIUM</Type>
-			<Description>Uranium Components</Description>
+			<Description>TXT_KEY_DW_PROMOTION_URANIUM</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PromotionPrereq>PROMOTION_NANOTECH</PromotionPrereq>
 			<BonusPrereq>BONUS_URANIUM</BonusPrereq>
@@ -7849,7 +7837,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_PROTECTION_CLOAK</Type>
-			<Description>Protection Cloak</Description>
+			<Description>TXT_KEY_DW_PROMOTION_PROTECTION_CLOAK</Description>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_RICHESE</PrereqCivilization>
 			</PrereqCivilizations>	
@@ -7866,7 +7854,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CONVERTCOMP1</Type>
-			<Description>Covert Computations I</Description>
+			<Description>TXT_KEY_DW_PROMOTION_CONVERTCOMP1</Description>
 			<Sound>AS2D_PING</Sound>
 			<PrereqCivilizations> 
 				<PrereqCivilization>CIVILIZATION_RICHESE</PrereqCivilization>
@@ -7882,8 +7870,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CONVERTCOMP2</Type>
-			<Description>Covert Computations II</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_CONVERTCOMP2</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>NONE</PromotionPrereq>
 			<PromotionPrereqOr1>PROMOTION_CONVERTCOMP1</PromotionPrereqOr1>
@@ -7901,8 +7889,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CONVERTCOMP3</Type>
-			<Description>Covert Computations III</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_CONVERTCOMP3</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>NONE</PromotionPrereq>
 			<PromotionPrereqOr1>PROMOTION_CONVERTCOMP2</PromotionPrereqOr1>
@@ -7920,8 +7908,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_CONVERTCOMP4</Type>
-			<Description>Covert Computations IV</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_CONVERTCOMP4</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_CONVERTCOMP3</PromotionPrereq>
 			<PrereqCivics> 
@@ -7948,8 +7936,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SABOTAGE2</Type>
-			<Description>Sabotage II</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_SABOTAGE2</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_SABOTAGE</PromotionPrereq>
 			<iEnemyHealChange>0</iEnemyHealChange>
@@ -7965,8 +7953,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SABOTAGE3</Type>
-			<Description>Sabotage III</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_SABOTAGE3</Description>
+			<Help />
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_SABOTAGE2</PromotionPrereq>
 			<iEnemyHealChange>0</iEnemyHealChange>
@@ -7982,7 +7970,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_REMOTE_OPERATIONS2</Type>
-			<Description>Remote Operations II</Description>			
+			<Description>TXT_KEY_DW_PROMOTION_REMOTE_OPERATIONS2</Description>			
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_REMOTE_OPERATIONS</PromotionPrereq>
 			<iEnemyHealChange>0</iEnemyHealChange>
@@ -7998,7 +7986,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_REMOTE_OPERATIONS3</Type>
-			<Description>Remote Operations III</Description>			
+			<Description>TXT_KEY_DW_PROMOTION_REMOTE_OPERATIONS3</Description>			
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_REMOTE_OPERATIONS2</PromotionPrereq>
 			<iEnemyHealChange>0</iEnemyHealChange>
@@ -8014,7 +8002,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NARCOTICS_DEALING2</Type>
-			<Description>Narcotics Dealing II</Description>		
+			<Description>TXT_KEY_DW_PROMOTION_NARCOTICS_DEALING2</Description>		
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_NARCOTICS_DEALING</PromotionPrereq>
 			<iEnemyHealChange>0</iEnemyHealChange>
@@ -8030,7 +8018,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_NARCOTICS_DEALING3</Type>
-			<Description>Narcotics Dealing III</Description>		
+			<Description>TXT_KEY_DW_PROMOTION_NARCOTICS_DEALING3</Description>		
 			<Sound>AS2D_PING</Sound>
 			<PromotionPrereq>PROMOTION_NARCOTICS_DEALING2</PromotionPrereq>
 			<iEnemyHealChange>0</iEnemyHealChange>
@@ -8046,7 +8034,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SUPREME_BASHAR</Type>
-			<Description>Supreme Bashar</Description>	
+			<Description>TXT_KEY_DW_PROMOTION_SUPREME_BASHAR</Description>	
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<bCannotAcquire>1</bCannotAcquire>
 			<bLeader>1</bLeader>
@@ -8069,7 +8057,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_BLIND</Type>
-			<Description>Partially Blind</Description>	
+			<Description>TXT_KEY_DW_PROMOTION_BLIND</Description>	
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<bCannotAcquire>1</bCannotAcquire>
 			<iVisibilityChange>-2</iVisibilityChange>
@@ -8081,8 +8069,8 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_SPOTTER</Type>
-			<Description>Spotter</Description>
-			<Help></Help>
+			<Description>TXT_KEY_DW_PROMOTION_SPOTTER</Description>
+			<Help />
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereqOr1>PROMOTION_DESERT2</PromotionPrereqOr1>
@@ -8103,7 +8091,7 @@
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_EVASIVE_ACTION</Type>
-			<Description>Evasive Action</Description>
+			<Description>TXT_KEY_DW_PROMOTION_EVASIVE_ACTION</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<TechPrereq>TECH_COMBAT_ORNITHOPTERS</TechPrereq>
@@ -8149,14 +8137,14 @@
 			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>0</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
-			<TerrainAttacks/>
-			<TerrainDefenses/>
-			<FeatureAttacks/>
-			<FeatureDefenses/>
-			<UnitCombatMods/>
-			<DomainMods/>
-			<TerrainDoubleMoves/>
-			<FeatureDoubleMoves/>
+			<TerrainAttacks />
+			<TerrainDefenses />
+			<FeatureAttacks />
+			<FeatureDefenses />
+			<UnitCombatMods />
+			<DomainMods />
+			<TerrainDoubleMoves />
+			<FeatureDoubleMoves />
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
@@ -8167,7 +8155,7 @@
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
-			<HotKey/>
+			<HotKey />
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
@@ -8176,477 +8164,3 @@
 		</PromotionInfo>
 	</PromotionInfos>
 </Civ4PromotionInfos>
-<!-- TestPromotion
-<PromotionInfos>
-  <PromotionInfo>
-    <Type>PROMOTION_TEST_PROMOTION</Type>
-    <Description>TXT_KEY_PROMOTION_TEST_PROMOTION</Description>
-    <Sound>AS2D_IF_LEVELUP</Sound>
-    <LayerAnimationPath>NONE</LayerAnimationPath>
-    <PromotionPrereq>NONE</PromotionPrereq>
-    <PromotionPrereqOr1>NONE</PromotionPrereqOr1>
-    <PromotionPrereqOr2>NONE</PromotionPrereqOr2>
-    <PrereqCivic>
-      <CivicType>NONE</CivicType>
-      <CivicType>NONE</CivicType>
-    </PrereqCivic>
-    <TechPrereq>NONE</TechPrereq>
-    <StateReligionPrereq>NONE</StateReligionPrereq>
-    <bLeader>0</bLeader>
-    <bBlitz>0</bBlitz>
-    <bAmphib>0</bAmphib>
-    <bRiver>0</bRiver>
-    <bEnemyRoute>0</bEnemyRoute>
-    <bAlwaysHeal>0</bAlwaysHeal>
-    <bHillsDoubleMove>0</bHillsDoubleMove>
-    <bImmuneToFirstStrikes>0</bImmuneToFirstStrikes>
-    <bAutoAcquire>0</bAutoAcquire>
-    <bDefensiveVictoryMove>0</bDefensiveVictoryMove>
-    <bMechOnly>0</bMechOnly>
-    <bMustMaintain>0</bMustMaintain>
-    <bNoMechs>0</bNoMechs>
-    <bNoXP>0</bNoXP>
-    <bOffensiveVictoryMove>0</bOffensiveVictoryMove>
-    <bOneUp>0</bOneUp>
-    <bPillageCulture>0</bPillageCulture>
-    <bPillageEspionage>0</bPillageEspionage>
-    <bPillageMarauder>0</bPillageMarauder>
-    <bPillageOnMove>0</bPillageOnMove>
-    <bPillageOnVictory>0</bPillageOnVictory>
-    <bPillageResearch>0</bPillageResearch>
-    <bStackEffect>0</bStackEffect>
-    <iVisibilityChange>0</iVisibilityChange>
-    <iMovesChange>0</iMovesChange>
-    <iMoveDiscountChange>0</iMoveDiscountChange>
-    <iAirRangeChange>0</iAirRangeChange>
-    <iInterceptChange>0</iInterceptChange>
-    <iEvasionChange>0</iEvasionChange>
-    <iWithdrawalChange>0</iWithdrawalChange>
-    <iCargoChange>0</iCargoChange>
-    <iCollateralDamageChange>0</iCollateralDamageChange>
-    <iBombardRateChange>0</iBombardRateChange>
-    <iFirstStrikesChange>0</iFirstStrikesChange>
-    <iChanceFirstStrikesChange>0</iChanceFirstStrikesChange>
-    <iEnemyHealChange>0</iEnemyHealChange>
-    <iNeutralHealChange>0</iNeutralHealChange>
-    <iFriendlyHealChange>0</iFriendlyHealChange>
-    <iSameTileHealChange>0</iSameTileHealChange>
-    <iAdjacentTileHealChange>0</iAdjacentTileHealChange>
-    <iCombatPercent>0</iCombatPercent>
-    <iCityAttack>0</iCityAttack>
-    <iCityDefense>0</iCityDefense>
-    <iHillsAttack>0</iHillsAttack>
-    <iHillsDefense>0</iHillsDefense>
-    <iKamikazePercent>0</iKamikazePercent>
-    <iRevoltProtection>0</iRevoltProtection>
-    <iCollateralDamageProtection>0</iCollateralDamageProtection>
-    <iPillageChange>0</iPillageChange>
-    <iUpgradeDiscount>0</iUpgradeDiscount>
-    <iExperiencePercent>0</iExperiencePercent>
-    <iAirCombatLimitChange>0</iAirCombatLimitChange>
-    <iCollateralDamageLimitChange>0</iCollateralDamageLimitChange>
-    <iCollateralDamageMaxUnitsChange>0</iCollateralDamageMaxUnitsChange>
-    <iCombatLimitChange>0</iCombatLimitChange>
-    <iExtraDropRange>0</iExtraDropRange>
-    <iExtraStrength>0</iExtraStrength>
-    <iSurvivorChance>0</iSurvivorChance>
-    <iVictoryAdjacentHeal>0</iVictoryAdjacentHeal>
-    <iVictoryHeal>0</iVictoryHeal>
-    <iVictoryStackHeal>0</iVictoryStackHeal>
-    <TerrainAttacks/>
-    <TerrainDefenses/>
-    <FeatureAttacks/>
-    <FeatureDefenses/>
-    <UnitCombatMods/>
-    <DomainMods/>
-    <TerrainDoubleMoves/>
-    <FeatureDoubleMoves/>
-    <UnitCombats>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-      <UnitCombat>
-        <UnitCombatType>UNITCOMBAT_AIR</UnitCombatType>
-        <bUnitCombat>1</bUnitCombat>
-      </UnitCombat>
-    </UnitCombats>
-    <HotKey/>
-    <bAltDown>0</bAltDown>
-    <bShiftDown>0</bShiftDown>
-    <bCtrlDown>0</bCtrlDown>
-    <iHotKeyPriority>0</iHotKeyPriority>
-    <Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/Promotions_Atlas.dds,8,2</Button>
-  </PromotionInfo>
-
-  EXAMPLE PROMOS:
-		<PromotionInfo>
-			<Type>PROMOTION_THUFIR2</Type>
-			<Description>TXT_KEY_PROMOTION_THUFIR2</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<bCannotAcquire>1</bCannotAcquire>
-			<CityBonuses>
-				<CityBonus>
-					<bApplySelf>1</bApplySelf>
-					<fCulture>3</fCulture>
-					<fDefense>3</fDefense>
-					<fDiplo>0</fDiplo>
-					<fFreeXP>4</fFreeXP>
-					<fEspionage>7</fEspionage>
-					<fGPP>3</fGPP>
-					<fHealth>3</fHealth>
-					<fProduction>3</fProduction>
-					<fTradeRoutes>3</fTradeRoutes>
-					<iBonusRange>2</iBonusRange>
-					<fDecayRate>0</fDecayRate>
-				</CityBonus>
-			</CityBonuses>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>  
-		<PromotionInfo>
-			<Type>PROMOTION_WATERSTEALER</Type>
-			<Description>TXT_KEY_PROMOTION_WATERSTEALER</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<bCannotAcquire>1</bCannotAcquire>
-			<CityBonuses>
-				<CityBonus>
-					<bApplyEnemy>1</bApplyEnemy>
-					<bApplyRival>1</bApplyRival>
-					<fDiplo>-0.1</fDiplo>
-					<fFood>-2</fFood>
-					<iBonusRange>4</iBonusRange>
-				</CityBonus>
-			</CityBonuses>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>
-		<PromotionInfo>
-			<Type>PROMOTION_THUFIR2</Type>
-			<Description>TXT_KEY_PROMOTION_THUFIR2</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<bCannotAcquire>1</bCannotAcquire>
-			<CityBonuses>
-				<CityBonus>
-					<bApplySelf>1</bApplySelf>
-					<fDiplo>0</fDiplo>
-					<fFreeXP>4</fFreeXP>
-					<fCulture>3</fCulture>
-					<fDefense>3</fDefense>
-					<fHealth>3</fHealth>
-					<fGPP>3</fGPP>
-					<fProduction>3</fProduction>
-					<fTradeRoutes>3</fTradeRoutes>
-					<iBonusRange>6</iBonusRange>
-					<fDecayRate>-0.5</fDecayRate>
-				</CityBonus>
-			</CityBonuses>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>		
-		<PromotionInfo>
-			<Type>PROMOTION_THUFIR</Type>
-			<Description>TXT_KEY_PROMOTION_THUFIR</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<bCannotAcquire>1</bCannotAcquire>
-			<CityBonuses>
-				<CityBonus>
-					<bApplyEnemy>1</bApplyEnemy>
-					<bApplyRival>1</bApplyRival>
-					<fDiplo>0</fDiplo>
-					<fCulture>3</fCulture>
-					<fDefense>3</fDefense>
-					<fHealth>3</fHealth>
-					<fGPP>3</fGPP>
-					<fProduction>3</fProduction>
-					<fTradeRoutes>3</fTradeRoutes>
-					<iBonusRange>5</iBonusRange>
-				</CityBonus>
-			</CityBonuses>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>
-		<PromotionInfo>
-			<Type>PROMOTION_MISERATOR</Type>
-			<Description>TXT_KEY_PROMOTION_MISERATOR</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<bCannotAcquire>1</bCannotAcquire>
-			<CityBonuses>
-				<CityBonus>
-					<bApplyEnemy>1</bApplyEnemy>
-					<bApplyRival>1</bApplyRival>
-					<fDiplo>-0.1</fDiplo>
-					<fHappy>-3</fHappy>
-					<iBonusRange>2</iBonusRange>
-				</CityBonus>
-			</CityBonuses>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>		
-		<PromotionInfo>
-			<Type>PROMOTION_SCHEMER</Type>
-			<Description>TXT_KEY_PROMOTION_SCHEMER</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<bCannotAcquire>1</bCannotAcquire>
-			<CityBonuses>
-				<CityBonus>
-					<bApplyEnemy>1</bApplyEnemy>
-					<bApplyRival>1</bApplyRival>
-					<fDiplo>-0.1</fDiplo>
-					<fGold>-2</fGold>
-					<iBonusRange>2</iBonusRange>
-				</CityBonus>
-			</CityBonuses>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>  
-<PromotionInfo>
-	<Type>PROMOTION_SUPER_PROMO</Type>
-	<Description>TXT_KEY_PROMOTION_SUPER_PROMO</Description>
-	<Sound>AS2D_IF_LEVELUP</Sound>
-	<PromotionPrereq>PROMOTION_LEADER</PromotionPrereq>
-	<iCombatChange>1</iCombatChange>
-	<iAttackPercent>10</iAttackPercent>
-	<PromotionCombatType>PROMOTION_COMBAT1</PromotionCombatType>
-	<iPromotionCombatMod>25</iPromotionCombatMod>
-	<UnitCombatMods>
-		<UnitCombatMod>
-			<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-			<iUnitCombatMod>10</iUnitCombatMod>
-		</UnitCombatMod>						
-	</UnitCombatMods>
-	<UnitCombatFirstStrikeChanges>
-		<UnitCombatFirstStrikeChange>
-			<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
-			<iFirstStrikesChange>1</iFirstStrikesChange>
-		</UnitCombatFirstStrikeChange>
-	</UnitCombatFirstStrikeChanges>
-	<UnitCombatWithdrawalChanges>
-		<UnitCombatWithdrawalChange>
-			<UnitCombatType>UNITCOMBAT_VEHICLE</UnitCombatType>
-			<iWithdrawalChange>25</iWithdrawalChange>
-		</UnitCombatWithdrawalChange>
-	</UnitCombatWithdrawalChanges>
-	<FeatureFirstStrikesChanges>
-		<FeatureFirstStrikesChange>
-			<FeatureType>FEATURE_FOREST</FeatureType>
-			<iFirstStrikesChange>1</iFirstStrikesChange>
-		</FeatureFirstStrikesChange>
-	</FeatureFirstStrikesChanges>			
-	<UnitClassMods>
-		<UnitClassMod>
-			<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
-			<iUnitClassMod>15</iUnitClassMod>
-		</UnitClassMod>
-	</UnitClassMods>			
-	<UnitCombats>
-		<UnitCombat>
-			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-			<bUnitCombat>1</bUnitCombat>
-		</UnitCombat>
-	</UnitCombats>
-	<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas1.dds,3,4</Button>
-</PromotionInfo>	
-<PromotionInfo>
-	<Type>PROMOTION_MESA_PROMO</Type>
-	<Description>TXT_KEY_PROMOTION_MESA_PROMO</Description>
-	<Sound>AS2D_IF_LEVELUP</Sound>
-	<PromotionPrereq>PROMOTION_LEADER</PromotionPrereq>
-	<Invisible>INVISIBLE_UNDERGROUND</Invisible>
-	<SeeInvisible>INVISIBLE_UNDERGROUND</SeeInvisible>			
-	<bHillsDoubleMove>1</bHillsDoubleMove>
-	<iHillsFirstStrikesChange>1</iHillsFirstStrikesChange>
-	<iHillsWithdrawalChange>20</iHillsWithdrawalChange>
-	<iHillsHealChange>10</iHillsHealChange>
-	<iHillsAttack>15</iHillsAttack>
-	<iHillsDefense>15</iHillsDefense>
-	<UnitCombats>
-		<UnitCombat>
-			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-			<bUnitCombat>1</bUnitCombat>
-		</UnitCombat>
-	</UnitCombats>
-	<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas1.dds,3,4</Button>
-</PromotionInfo>	
-<PromotionInfo>
-	<Type>PROMOTION_CIVIC_PROMO</Type>
-	<Description>TXT_KEY_PROMOTION_CIVIC_PROMO</Description>
-	<Sound>AS2D_IF_LEVELUP</Sound>
-	<PrereqCivics> 
-		<PrereqCivic>CIVIC_IMPERIAL_FEALTY</PrereqCivic>
-	</PrereqCivics>
-	<iCombatChange>1</iCombatChange>
-	<iAttackPercent>20</iAttackPercent>	
-	<UnitCombats>
-		<UnitCombat>
-			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-			<bUnitCombat>1</bUnitCombat>
-		</UnitCombat>
-	</UnitCombats>			
-	<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas1.dds,3,4</Button>
-</PromotionInfo>
-<PromotionInfo>
-	<Type>PROMOTION_HARK_PROMO</Type>
-	<Description>TXT_KEY_PROMOTION_HARK_PROMO</Description>
-	<Sound>AS2D_IF_LEVELUP</Sound>
-	<PrereqCivilizations> 
-		<PrereqCivilization>CIVILIZATION_HARKONNEN</PrereqCivilization>
-	</PrereqCivilizations>
-	<iCombatChange>2</iCombatChange>
-	<iAttackPercent>15</iAttackPercent>	
-	<UnitCombats>
-		<UnitCombat>
-			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-			<bUnitCombat>1</bUnitCombat>
-		</UnitCombat>
-	</UnitCombats>			
-	<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas1.dds,3,4</Button>
-</PromotionInfo>
-	<PromotionInfo>
-			<Type>PROMOTION_MENTAT_1</Type>
-			<Description>TXT_KEY_PROMOTION_MENTAT_1</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<iExtraCityBonusRange>0</iExtraCityBonusRange>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>
-		<PromotionInfo>
-			<Type>PROMOTION_MENTAT_2</Type>
-			<Description>TXT_KEY_PROMOTION_MENTAT_2</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<PromotionPrereq>PROMOTION_MENTAT_1</PromotionPrereq>			
-			<PromotionExcludes>
-				<Promotion>PROMOTION_MENTAT_1</Promotion>
-			</PromotionExcludes>
-			<PromotionOverwrites>
-				<Promotion>PROMOTION_MENTAT_1</Promotion>
-			</PromotionOverwrites>					
-			<iExtraCityBonusRange>2</iExtraCityBonusRange>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo>
-		<PromotionInfo>
-			<Type>PROMOTION_MENTAT_3</Type>
-			<Description>TXT_KEY_PROMOTION_MENTAT_3</Description>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<PromotionPrereq>PROMOTION_MENTAT_2</PromotionPrereq>			
-			<PromotionExcludes>
-				<Promotion>PROMOTION_MENTAT_1</Promotion>			
-				<Promotion>PROMOTION_MENTAT_2</Promotion>
-			</PromotionExcludes>
-			<PromotionOverwrites>
-				<Promotion>PROMOTION_MENTAT_2</Promotion>
-			</PromotionOverwrites>					
-			<iExtraCityBonusRange>5</iExtraCityBonusRange>
-			<UnitCombats>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_GUARDSMAN</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-			</UnitCombats>
-			<Button>,Art/Interface/Buttons/Promotions/Combat1.dds,Art/Interface/Buttons/dunepromoatlas2.dds,3,3</Button>
-		</PromotionInfo> -->

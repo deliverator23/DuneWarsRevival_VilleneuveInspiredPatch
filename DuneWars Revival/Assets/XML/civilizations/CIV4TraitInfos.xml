@@ -1,12 +1,3 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- The order cannot be changed and no entry in the list can be removed. -->
-<!-- But values can be tweaked and new entries can be added at the end of the list. -->
-<!-- -->
-<!-- Leader Trait Infos -->
 <Civ4TraitInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
 	<TraitInfos>
 		<TraitInfo>
@@ -24,9 +15,9 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
 			<CommerceModifiers>
 			</CommerceModifiers>
 			<FreePromotions>
@@ -61,12 +52,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_AGGRESSIVE</Type>
@@ -83,10 +74,10 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
 			<FreePromotions>
 				<FreePromotion>
 					<PromotionType>PROMOTION_COMBAT1</PromotionType>
@@ -111,7 +102,7 @@
 		<TraitInfo>
 			<Type>TRAIT_SPIRITUAL</Type>
 			<Description>TXT_KEY_TRAIT_SPIRITUAL</Description>
-			<ShortDescription>Rel</ShortDescription>
+			<ShortDescription>TXT_KEY_DW_TRAIT_SPIRITUAL_SHORT</ShortDescription>
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iMaxAnarchy>0</iMaxAnarchy>
@@ -123,12 +114,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_EXPANSIVE</Type>
@@ -145,12 +136,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_INDUSTRIOUS</Type>
@@ -167,17 +158,17 @@
 			<iMaxGlobalBuildingProductionModifier>50</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>50</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>50</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_CREATIVE</Type>
 			<Description>TXT_KEY_TRAIT_CREATIVE</Description>
-			<ShortDescription>Pol</ShortDescription>
+			<ShortDescription>TXT_KEY_DW_TRAIT_CREATIVE_SHORT</ShortDescription>
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iMaxAnarchy>-1</iMaxAnarchy>
@@ -189,16 +180,16 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
 			<CommerceChanges>
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
 				<iCommerce>2</iCommerce>
 			</CommerceChanges>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_FINANCIAL</Type>
@@ -216,12 +207,12 @@
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
 			<iForeignTradeRouteModifier>50</iForeignTradeRouteModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_ORGANIZED</Type>
@@ -238,12 +229,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_CHARISMATIC</Type>
@@ -260,12 +251,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_IMPERIALIST</Type>
@@ -282,10 +273,10 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
 			<FreePromotions>
 				<FreePromotion>
 					<PromotionType>PROMOTION_LEVIED_TROOP</PromotionType>
@@ -302,7 +293,7 @@
 		<TraitInfo>
 			<Type>TRAIT_ABOMINATION</Type>
 			<Description>TXT_KEY_TRAIT_ABOMINATION</Description>
-			<ShortDescription>Abom</ShortDescription>
+			<ShortDescription>TXT_KEY_DW_TRAIT_ABOMINATION_SHORT</ShortDescription>
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iMaxAnarchy>-1</iMaxAnarchy>
@@ -314,17 +305,17 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>		
 		<TraitInfo>
 			<Type>TRAIT_MECHANIZED</Type>
 			<Description>TXT_KEY_TRAIT_MECHANIZED</Description>
-			<ShortDescription>Mech</ShortDescription>
+			<ShortDescription>TXT_KEY_DW_TRAIT_MECHANIZED_SHORT</ShortDescription>
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iMaxAnarchy>-1</iMaxAnarchy>
@@ -336,10 +327,10 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
 			<FreePromotions>
 				<FreePromotion>
 					<PromotionType>PROMOTION_IXIAN</PromotionType>
@@ -380,12 +371,12 @@
 			<iMaxGlobalBuildingProductionModifier>-50</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_TECHMAN</Type>
@@ -402,12 +393,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 		<TraitInfo>
 			<Type>TRAIT_FREMEN</Type>
@@ -424,12 +415,12 @@
 			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
 			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds/>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
+			<ExtraYieldThresholds />
+			<TradeYieldModifiers />
+			<CommerceChanges />
+			<CommerceModifiers />
+			<FreePromotions />
+			<FreePromotionUnitCombats />
 		</TraitInfo>
 	</TraitInfos>
 </Civ4TraitInfos>

@@ -1,15 +1,9 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Build Infos -->
 <Civ4BuildInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<BuildInfos>
 		<BuildInfo>
 			<Type>BUILD_INSFARM</Type>
 			<Description>TXT_KEY_BUILD_INSFARM</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_DESERT_SURVIVAL</PrereqTech>
 			<iTime>500</iTime>
 			<iCost>0</iCost>
@@ -155,7 +149,7 @@
 		<BuildInfo>
 			<Type>BUILD_MINE</Type>
 			<Description>TXT_KEY_BUILD_MINE</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_MINING</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -301,7 +295,7 @@
 		<BuildInfo>
 			<Type>BUILD_MINE2</Type>
 			<Description>TXT_KEY_BUILD_MINE2</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ARRAKIS_TAMED</PrereqTech>
 			<iTime>800</iTime>
 			<iCost>0</iCost>
@@ -447,7 +441,7 @@
 		<BuildInfo>
 			<Type>BUILD_MINE3</Type>
 			<Description>TXT_KEY_BUILD_MINE3</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ADVANCED_MATERIALS</PrereqTech>
 			<iTime>800</iTime>
 			<iCost>0</iCost>
@@ -593,7 +587,7 @@
 		<BuildInfo>
 			<Type>BUILD_SOLARFARM</Type>
 			<Description>TXT_KEY_BUILD_SOLARFARM</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ENERGY_SOURCES</PrereqTech>
 			<iTime>600</iTime>
 			<iCost>0</iCost>
@@ -739,7 +733,7 @@
 		<BuildInfo>
 			<Type>BUILD_WINDMILL</Type>
 			<Description>TXT_KEY_BUILD_WINDMILL</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ENERGY_SOURCES</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -885,7 +879,7 @@
 		<BuildInfo>
 			<Type>BUILD_PLANTATION</Type>
 			<Description>TXT_KEY_BUILD_PLANTATION</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_DESERT_PLANTATION</PrereqTech>
 			<iTime>500</iTime>
 			<iCost>0</iCost>
@@ -1031,7 +1025,7 @@
 		<BuildInfo>
 			<Type>BUILD_DEWCOLL</Type>
 			<Description>TXT_KEY_BUILD_DEWCOLL</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_DESERT_SURVIVAL</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -1176,8 +1170,8 @@
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_COTTAGE1</Type>
-			<Description>Build a Dwelling</Description>
-			<Help/>
+			<Description>TXT_KEY_DW_BUILD_COTTAGE1</Description>
+			<Help />
 			<PrereqTech>TECH_ARRAKIS_HABITATION</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -1322,8 +1316,8 @@
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_TRADING_POST</Type>
-			<Description>Build a Trading Post</Description>
-			<Help/>
+			<Description>TXT_KEY_DW_BUILD_TRADING_POST</Description>
+			<Help />
 			<PrereqTech>TECH_DESERT_TRADE</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -1468,8 +1462,8 @@
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_SIETCH1</Type>
-			<Description>Build a Sietch</Description>
-			<Help/>
+			<Description>TXT_KEY_DW_BUILD_SIETCH1</Description>
+			<Help />
 			<PrereqTech>TECH_ARRAKIS_HABITATION</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -1477,7 +1471,7 @@
 			<ImprovementType>IMPROVEMENT_SIETCH1</ImprovementType>
 			<RouteType>NONE</RouteType>
 			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
-			<FeatureStructs/>
+			<FeatureStructs />
 			<HotKey>KB_S</HotKey>
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
@@ -1487,8 +1481,8 @@
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_COTTAGE1_FREMEN</Type>
-			<Description>Build a Dwelling (Fremen)</Description>
-			<Help/>
+			<Description>TXT_KEY_DW_BUILD_COTTAGE1_FREMEN</Description>
+			<Help />
 			<PrereqTech>TECH_ADAPTED_AGRICULTURE</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -1634,7 +1628,7 @@
 		<BuildInfo>
 			<Type>BUILD_OUTPOST</Type>
 			<Description>TXT_KEY_BUILD_OUTPOST</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_DESERT_ENGINEERING</PrereqTech>
 			<iTime>1000</iTime>
 			<iCost>0</iCost>
@@ -1780,7 +1774,7 @@
 		<BuildInfo>
 			<Type>BUILD_SCRUB_FALLOUT</Type>
 			<Description>TXT_KEY_BUILD_SCRUB_FALLOUT</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_SUBATOMIC_FISSION</PrereqTech>
 			<iTime>0</iTime>
 			<iCost>0</iCost>
@@ -1807,7 +1801,7 @@
 		<BuildInfo>
 			<Type>BUILD_WINDTRAP</Type>
 			<Description>TXT_KEY_BUILD_WINDTRAP</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_WATER_CONSERVATION</PrereqTech>
 			<iTime>300</iTime>
 			<iCost>0</iCost>
@@ -1953,7 +1947,7 @@
 		<BuildInfo>
 			<Type>BUILD_HARVESTER</Type>
 			<Description>TXT_KEY_BUILD_HARVESTER</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_SPICE_EXTRACTION</PrereqTech>
 			<iTime>300</iTime>
 			<iCost>0</iCost>
@@ -2099,7 +2093,7 @@
 		<BuildInfo>
 			<Type>BUILD_SHALLOW_WELL</Type>
 			<Description>TXT_KEY_BUILD_SHALLOW_WELL</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_WATER_TRANSPORTATION</PrereqTech>
 			<iTime>400</iTime>
 			<iCost>0</iCost>
@@ -2245,7 +2239,7 @@
 		<BuildInfo>
 			<Type>BUILD_DEEP_WELL</Type>
 			<Description>TXT_KEY_BUILD_DEEP_WELL</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_PLANETARY_ECOLOGY</PrereqTech>
 			<iTime>800</iTime>
 			<iCost>0</iCost>
@@ -2391,7 +2385,7 @@
 		<BuildInfo>
 			<Type>BUILD_AQUABORE</Type>
 			<Description>TXT_KEY_BUILD_AQUABORE</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ARRAKIS_TRANSFORMATION</PrereqTech>
 			<iTime>1000</iTime>
 			<iCost>0</iCost>
@@ -2537,7 +2531,7 @@
 		<BuildInfo>
 			<Type>BUILD_MELTING_LENS</Type>
 			<Description>TXT_KEY_BUILD_MELTING_LENS</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ARRAKIS_TAMED</PrereqTech>
 			<iTime>800</iTime>
 			<iCost>0</iCost>
@@ -2683,7 +2677,7 @@
 		<BuildInfo>
 			<Type>BUILD_REMOVE_OUTCROP</Type>
 			<Description>TXT_KEY_BUILD_REMOVE_OUTCROP</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>NONE</PrereqTech>
 			<iTime>0</iTime>
 			<iCost>0</iCost>
@@ -2829,7 +2823,7 @@
 		<BuildInfo>
 			<Type>BUILD_ICE_EXTRACTOR</Type>
 			<Description>TXT_KEY_BUILD_ICE_EXTRACTOR</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_WATER_TRANSPORTATION</PrereqTech>
 			<iTime>200</iTime>
 			<iCost>0</iCost>
@@ -2975,7 +2969,7 @@
 		<BuildInfo>
 			<Type>BUILD_DESALINATOR</Type>
 			<Description>TXT_KEY_BUILD_DESALINATOR</Description>
-			<Help/>
+			<Help />
 			<PrereqTech>TECH_ARRAKIS_TAMED</PrereqTech>
 			<iTime>600</iTime>
 			<iCost>0</iCost>
@@ -2983,7 +2977,7 @@
 			<ImprovementType>IMPROVEMENT_DESALINATOR</ImprovementType>
 			<RouteType>NONE</RouteType>
 			<EntityEvent>ENTITY_EVENT_IRRIGATE</EntityEvent>
-			<FeatureStructs/>
+			<FeatureStructs />
 			<HotKey>KB_R</HotKey>
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
@@ -2993,8 +2987,8 @@
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_RICHESE_MIRROR</Type>
-			<Description>Build a Richesian Mirror</Description>
-			<Help/>
+			<Description>TXT_KEY_DW_BUILD_RICHESE_MIRROR</Description>
+			<Help />
 			<PrereqTech>TECH_ENERGY_SOURCES</PrereqTech>
 			<iTime>800</iTime>
 			<iCost>0</iCost>

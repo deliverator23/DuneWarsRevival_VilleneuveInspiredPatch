@@ -1,0 +1,32 @@
+<Civ4RouteInfos xmlns="x-schema:CIV4MiscSchema.xml">
+	<RouteInfos>
+		<RouteInfo>
+			<Type>ROUTE_ROAD</Type>
+			<Description>TXT_KEY_DW_ROUTE_ROAD</Description>
+			<iValue>1</iValue>
+			<iAdvancedStartCost>12</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<iMovement>30</iMovement>
+			<iFlatMovement>30</iFlatMovement>
+			<BonusType>NONE</BonusType>
+			<PrereqOrBonuses />
+			<Yields />
+                        <TechMovementChanges />
+			<Button>Art/Interface/Buttons/Builds/BuildRoad.dds</Button>
+		</RouteInfo>
+		<RouteInfo>
+			<Type>ROUTE_RAILROAD</Type>
+			<Description>TXT_KEY_ROUTE_RAILROAD</Description>
+			<iValue>2</iValue>
+			<iAdvancedStartCost>18</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<iMovement>20</iMovement>
+			<iFlatMovement>6</iFlatMovement>
+			<BonusType>NONE</BonusType>
+                        <PrereqOrBonuses />
+			<Yields />
+			<TechMovementChanges />
+			<Button>Art/Interface/Buttons/Builds/BuildRailroad.dds</Button>
+		</RouteInfo>
+	</RouteInfos>
+</Civ4RouteInfos>

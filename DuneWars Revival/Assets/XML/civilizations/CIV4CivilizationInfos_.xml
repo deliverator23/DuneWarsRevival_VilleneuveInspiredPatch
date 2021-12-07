@@ -1103,7 +1103,7 @@
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_BARBARIAN</Type>
-			<Description>TXT_KEY_DW_CIVILIZATION_BARBARIAN</Description>
+			<Description>TXT_KEY_CIVILIZATION_BARBARIAN</Description>
 			<ShortDescription>TXT_KEY_DW_CIVILIZATION_BARBARIAN_SHORT</ShortDescription>
 			<Adjective />
 			<Civilopedia />
@@ -1740,7 +1740,7 @@
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_RICHESE</Type>
-			<Description>TXT_KEY_DW_CIVILIZATION_RICHESE</Description>
+			<Description>TXT_KEY_CIVILIZATION_RICHESE</Description>
 			<ShortDescription>TXT_KEY_DW_CIVILIZATION_RICHESE_SHORT</ShortDescription>
 			<Help>TXT_KEY_CIVILIZATION_RICHESE_HELP</Help>
 			<Adjective>Richesian</Adjective>

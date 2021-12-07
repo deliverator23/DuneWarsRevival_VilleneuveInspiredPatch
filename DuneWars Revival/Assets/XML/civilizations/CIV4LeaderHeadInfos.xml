@@ -1,14 +1,8 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Leader Infos and AI Settings -->
 <Civ4LeaderHeadInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
 	<LeaderHeadInfos>
 		<LeaderHeadInfo>
 			<Type>LEADER_BARBARIAN</Type>
-			<Description>Muriz</Description>
+			<Description>TXT_KEY_DW_LEADER_BARBARIAN</Description>
 			<Civilopedia>TXT_KEY_LEADER_BARBARIAN_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_BARBARIAN</ArtDefineTag>
 			<iWonderConstructRand>0</iWonderConstructRand>
@@ -88,14 +82,14 @@
 			<iFreedomAppreciation>0</iFreedomAppreciation>
 			<FavoriteCivic>NONE</FavoriteCivic>
 			<FavoriteReligion>NONE</FavoriteReligion>
-			<Traits/>
-			<Flavors/>
-			<ContactRands/>
-			<ContactDelays/>
-			<MemoryDecays/>
-			<MemoryAttitudePercents/>
-			<NoWarAttitudeProbs/>
-			<UnitAIWeightModifiers/>
+			<Traits />
+			<Flavors />
+			<ContactRands />
+			<ContactDelays />
+			<MemoryDecays />
+			<MemoryAttitudePercents />
+			<NoWarAttitudeProbs />
+			<UnitAIWeightModifiers />
 			<ImprovementWeightModifiers>
 				<ImprovementWeightModifier>
 					<ImprovementType>IMPROVEMENT_COTTAGE1</ImprovementType>
@@ -13612,11 +13606,11 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic></FavoriteCivic>
-			<HatedCivic></HatedCivic>
+			<FavoriteCivic />
+			<HatedCivic />
 			<iStrictSpiceChance>80</iStrictSpiceChance>
 			<iLooseSpiceChance>75</iLooseSpiceChance>
-			<FavoriteCivilization></FavoriteCivilization>
+			<FavoriteCivilization />
 			<HatedCivilization>CIVILIZATION_IX</HatedCivilization>				
 			<FavoriteReligion>RELIGION_TECHNOCRAT</FavoriteReligion>
 			<Traits>
@@ -14214,13 +14208,13 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic></FavoriteCivic>
-			<HatedCivic></HatedCivic>
+			<FavoriteCivic />
+			<HatedCivic />
 			<iStrictSpiceChance>70</iStrictSpiceChance>
 			<iLooseSpiceChance>60</iLooseSpiceChance>
-			<FavoriteCivilization></FavoriteCivilization>
+			<FavoriteCivilization />
 			<HatedCivilization>CIVILIZATION_IX</HatedCivilization>				
-			<FavoriteReligion></FavoriteReligion>
+			<FavoriteReligion />
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_TECHMAN</TraitType>
