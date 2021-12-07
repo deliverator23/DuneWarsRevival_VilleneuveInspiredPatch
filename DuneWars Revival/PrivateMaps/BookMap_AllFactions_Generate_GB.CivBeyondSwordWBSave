@@ -5562,7 +5562,6 @@ BeginPlot
 		CityOwner=2, (Stilgar)
 		CityName=Sietch Tabr
 		CityPopulation=2
-		BuildingType=BUILDING_SPICE_REFINERY
 		BuildingType=BUILDING_TRIBUNAL
 		BuildingType=BUILDING_FREMEN_PALACE
 		Player2Culture=2, (Stilgar)
@@ -36930,8 +36929,8 @@ BeginPlot
 		CityOwner=2, (Stilgar)
 		CityName=Gara Kulon
 		CityPopulation=2
-		BuildingType=BUILDING_SPICE_REFINERY
 		BuildingType=BUILDING_TRIBUNAL
+		BuildingType=BUILDING_GREAT_PALACE
 	EndCity
 	TeamReveal=2,
 	Player2Culture=2, (Stilgar)
