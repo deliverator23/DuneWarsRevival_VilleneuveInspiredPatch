@@ -1,8 +1,8 @@
-#Dune Wars: Revival - Villeneuve Inspired Patch
+# Dune Wars: Revival - Villeneuve Inspired Patch
 
 The Villeneuve Inspired Patch for Dune Wars: Revival has now evolved into modmodmod with a number of gameplay changes in addition to artwork from Denis Villeneuve's Dune movie.
 
-##Installation
+## Installation
 
 1. Install Dune Wars: Revival 1.10 via the [installer](https://www.moddb.com/mods/dune-wars/downloads/dunewars-revival-v110-window-installer) or [zip file](https://www.moddb.com/mods/dune-wars/downloads/dunewars-revival-v110).
 2. Copy the DuneWars Revival folder from this zip file over the DuneWars Revival mod folder saying yes to overwriting of files.
