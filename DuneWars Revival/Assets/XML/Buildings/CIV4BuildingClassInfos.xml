@@ -1279,9 +1279,9 @@
 		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_WEATHER_CONTROL_SATELLITE</Type>
 			<Description>TXT_KEY_BUILDINGCLASS_WEATHER_CONTROL_SATELLITE</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
 			<iExtraPlayerInstances>0</iExtraPlayerInstances>
 			<bNoLimit>0</bNoLimit>
 			<bMonument>0</bMonument>
