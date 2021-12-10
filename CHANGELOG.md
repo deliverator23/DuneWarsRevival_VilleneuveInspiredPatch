@@ -7,6 +7,7 @@
 * Move Fremen Sietch improvement to Mining Technology.
 * Fremen Trait now gives double production speed of Mushtamal and Nursery as well as +1 Happiness from Mushtamal.
 * Weather Control Satellite is now a National Wonder so can be built by all players; moved to Planetary Ecology tech; Cost 500; +4 Culture and +1 Great Scientist point; +1 Gold from Desert tiles in this city and prevents Sandstorms entering your cultural borders globally.
+* Spotter Control Building grants free Spotter Promotion to Thopter Units built in this city.
 
 ### Scenario Changes
 
