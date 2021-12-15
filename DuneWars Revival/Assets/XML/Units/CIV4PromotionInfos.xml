@@ -8078,7 +8078,7 @@
 			<UnitClassMods>
 				<UnitClassMod>
 					<UnitClassType>UNITCLASS_WORM</UnitClassType>
-					<iUnitClassMod>4000</iUnitClassMod>
+					<iUnitClassMod>1900</iUnitClassMod>
 				</UnitClassMod>
 			</UnitClassMods>
 			<UnitCombats>
