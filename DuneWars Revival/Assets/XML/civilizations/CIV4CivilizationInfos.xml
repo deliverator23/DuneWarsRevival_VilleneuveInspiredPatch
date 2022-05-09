@@ -1,3 +1,11 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- The order cannot be changed and no entry in the list can be removed. -->
+<!-- -->
+<!-- Civilization Infos -->
 <Civ4CivilizationInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
 	<CivilizationInfos>
 		<CivilizationInfo>
@@ -80,7 +88,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_TLEILAXU</ReligionName>
@@ -200,7 +208,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_TLEILAXU</ReligionName>
@@ -300,7 +308,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_IMPERIAL</ReligionName>
@@ -517,7 +525,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_IMPERIAL</ReligionName>
@@ -633,7 +641,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_MAHDI</ReligionName>
@@ -749,7 +757,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>		
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_TLEILAXU</ReligionName>
@@ -857,7 +865,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_CHOAM</ReligionName>
@@ -961,7 +969,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_TLEILAXU</ReligionName>
@@ -1073,7 +1081,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_TLEILAXU</ReligionName>
@@ -1103,10 +1111,10 @@
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_BARBARIAN</Type>
-			<Description>TXT_KEY_DW_CIVILIZATION_BARBARIAN</Description>
-			<ShortDescription>TXT_KEY_DW_CIVILIZATION_BARBARIAN_SHORT</ShortDescription>
-			<Adjective />
-			<Civilopedia />
+			<Description>Iduali</Description>
+			<ShortDescription>Iduali</ShortDescription>
+			<Adjective></Adjective>
+			<Civilopedia></Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_BLACK</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BARBARIAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
@@ -1671,7 +1679,10 @@
 					<UnitClassType>UNITCLASS_LOCUST</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
-				
+				<!-- <Unit>
+					<UnitClassType>UNITCLASS_GODS_UNIT_INQUISITOR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit> -->
 				<Unit>
 					<UnitClassType>UNITCLASS_SLAVE</UnitClassType>
 					<UnitType>NONE</UnitType>
@@ -1717,10 +1728,10 @@
 					<UnitType>NONE</UnitType>
 				</Unit>
 			</Units>
-			<FreeUnitClasses />
-			<FreeBuildingClasses />
-			<FreeTechs />
-			<DisableTechs />
+			<FreeUnitClasses/>
+			<FreeBuildingClasses/>
+			<FreeTechs/>
+			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_DESPOTISM</CivicType>
 				<CivicType>CIVIC_TRIAL_BY_COMBAT</CivicType>
@@ -1735,13 +1746,13 @@
 				</Leader>
 			</Leaders>
 			<DerivativeCiv>NONE</DerivativeCiv>
-			<CivilizationSelectionSound />
-			<CivilizationActionSound />
+			<CivilizationSelectionSound/>
+			<CivilizationActionSound/>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_RICHESE</Type>
-			<Description>TXT_KEY_DW_CIVILIZATION_RICHESE</Description>
-			<ShortDescription>TXT_KEY_DW_CIVILIZATION_RICHESE_SHORT</ShortDescription>
+			<Description>House Richese</Description>
+			<ShortDescription>Richese</ShortDescription>
 			<Help>TXT_KEY_CIVILIZATION_RICHESE_HELP</Help>
 			<Adjective>Richesian</Adjective>
 			<Civilopedia>TXT_KEY_CIVILIZATION_RICHESE_PEDIA</Civilopedia>
@@ -1822,7 +1833,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
-			<DisableTechs />
+			<DisableTechs/>
 			<ForbiddenReligions>
 				<ForbiddenReligion>
 					<ReligionName>RELIGION_TLEILAXU</ReligionName>

@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by Soren Johnson (Firaxis Games) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Improvement -->
 <Civ4ImprovementInfos xmlns="x-schema:CIV4TerrainSchema.xml">
 	<ImprovementInfos>
 		<ImprovementInfo>
@@ -30,17 +37,17 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>0</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
-			<WorldSoundscapeAudioScript />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
+			<WorldSoundscapeAudioScript/>
 			<bGraphicalOnly>1</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -73,17 +80,17 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>0</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
-			<WorldSoundscapeAudioScript />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
+			<WorldSoundscapeAudioScript/>
 			<bGraphicalOnly>1</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -116,21 +123,21 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>0</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
-			<WorldSoundscapeAudioScript />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
+			<WorldSoundscapeAudioScript/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -164,10 +171,10 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>0</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -190,11 +197,11 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<WorldSoundscapeAudioScript>ASSS_FOREST_SELECT_AMB</WorldSoundscapeAudioScript>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
@@ -203,7 +210,7 @@
 			<Description>TXT_KEY_IMPROVEMENT_INSFARM</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_INSFARM_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_INSFARM</ArtDefineTag>
-			<IrrigatedYieldChange />
+			<IrrigatedYieldChange/>
 			<bActsAsCity>0</bActsAsCity>
 			<bHillsMakesValid>0</bHillsMakesValid>
 			<bFreshWaterMakesValid>0</bFreshWaterMakesValid>
@@ -230,17 +237,17 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<bNotInsideBorders>0</bNotInsideBorders>
 			<iMakesInvalidRange>0</iMakesInvalidRange>
 			<ImprovementRequired>NONE</ImprovementRequired>
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_SPICE_HONEY</BonusType>
@@ -276,8 +283,8 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_ADAPTED_AGRICULTURE</PrereqTech>
@@ -288,7 +295,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -327,16 +334,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_CRYSTAL</BonusType>
@@ -405,10 +412,10 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-			<ImprovementPillage />
-            <ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementPillage/>
+            <ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<NextImprovement>IMPROVEMENT_MINE2</NextImprovement>
 		</ImprovementInfo>		
@@ -448,16 +455,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_CRYSTAL</BonusType>
@@ -526,10 +533,10 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-                        <ImprovementPillage />
-                        <ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+                        <ImprovementPillage/>
+                        <ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<PreviousImprovement>IMPROVEMENT_MINE</PreviousImprovement>
 			<NextImprovement>IMPROVEMENT_MINE3</NextImprovement>
@@ -570,16 +577,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_CRYSTAL</BonusType>
@@ -648,10 +655,10 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-                        <ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+                        <ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<PreviousImprovement>IMPROVEMENT_MINE2</PreviousImprovement>
 		</ImprovementInfo>
@@ -691,14 +698,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -733,9 +740,9 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_DESERT_INDUSTRY</PrereqTech>
@@ -754,7 +761,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -793,19 +800,19 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_DESERT_INDUSTRY</PrereqTech>
@@ -824,7 +831,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -858,16 +865,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_DATE_PALMS</BonusType>
@@ -914,8 +921,8 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_ADAPTED_AGRICULTURE</PrereqTech>
@@ -926,7 +933,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -959,16 +966,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_SPIKED_PAINTBUSH</BonusType>
@@ -1037,8 +1044,8 @@
 					</YieldChanges>
 				</BonusTypeStruct>						
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_DESERT_PLANTATION</PrereqTech>
@@ -1049,7 +1056,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -1082,16 +1089,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>25</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_SPICE</BonusType>
@@ -1105,16 +1112,16 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_SIETCH1</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_SIETCH1</Description>
+			<Description>Nascent Sietch</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_SIETCH_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_SIETCH1</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1159,30 +1166,30 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
 			<FeatureMakesValids>
 				<FeatureMakesValid>
 					<FeatureType>FEATURE_CAVE</FeatureType>
 					<bMakesValid>1</bMakesValid>
 				</FeatureMakesValid>
 			</FeatureMakesValids>
-			<ImprovementPillage />
+			<ImprovementPillage/>
 			<ImprovementUpgrade>IMPROVEMENT_SIETCH2</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_SIETCH2</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_SIETCH2</Description>
+			<Description>Minor Sietch</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_SIETCH_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_SIETCH2</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1227,15 +1234,15 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>15</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
 			<FeatureMakesValids>
 				<FeatureMakesValid>
 					<FeatureType>FEATURE_CAVE</FeatureType>
@@ -1244,13 +1251,13 @@
 			</FeatureMakesValids>
 			<ImprovementPillage>IMPROVEMENT_SIETCH1</ImprovementPillage>
 			<ImprovementUpgrade>IMPROVEMENT_SIETCH3</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_SIETCH3</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_SIETCH3</Description>
+			<Description>Major Sietch</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_SIETCH_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_SIETCH3</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1295,15 +1302,15 @@
 			<iHappiness>1</iHappiness>
 			<iPillageGold>20</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
 			<FeatureMakesValids>
 				<FeatureMakesValid>
 					<FeatureType>FEATURE_CAVE</FeatureType>
@@ -1312,13 +1319,13 @@
 			</FeatureMakesValids>
 			<ImprovementPillage>IMPROVEMENT_SIETCH2</ImprovementPillage>
 			<ImprovementUpgrade>IMPROVEMENT_SIETCH4</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_SIETCH4</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_SIETCH4</Description>
+			<Description>Sietch Fortress</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_SIETCH_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_SIETCH4</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1363,15 +1370,15 @@
 			<iHappiness>2</iHappiness>
 			<iPillageGold>25</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
 			<FeatureMakesValids>
 				<FeatureMakesValid>
 					<FeatureType>FEATURE_CAVE</FeatureType>
@@ -1379,14 +1386,14 @@
 				</FeatureMakesValid>
 			</FeatureMakesValids>
 			<ImprovementPillage>IMPROVEMENT_SIETCH3</ImprovementPillage>
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_TRADING_POST</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_TRADING_POST</Description>
+			<Description>Trading Post</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_TRADING_POST_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_TRADING_POST</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1431,14 +1438,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>2</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -1469,9 +1476,9 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_PROTECTED_TRADE</PrereqTech>
@@ -1498,12 +1505,12 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_COTTAGE1</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_COTTAGE1</Description>
+			<Description>Dwelling</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_COTTAGE_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_COTTAGE1</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1548,14 +1555,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -1586,16 +1593,16 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
 			<ImprovementUpgrade>IMPROVEMENT_HAMLET2</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_COTTAGE1_FREMEN</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_COTTAGE1_FREMEN</Description>
+			<Description>Dwelling (Fremen)</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_COTTAGE_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_COTTAGE1</ArtDefineTag>
 			<PrereqNatureYields>
@@ -1640,14 +1647,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -1678,16 +1685,16 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
 			<ImprovementUpgrade>IMPROVEMENT_HAMLET2_FREMEN</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_HAMLET2</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_HAMLET2</Description>
+			<Description>Settlement</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_HAMLET_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_HAMLET2</ArtDefineTag>
 			<YieldChanges>
@@ -1727,14 +1734,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>15</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -1765,16 +1772,16 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_COTTAGE1</ImprovementPillage>
 			<ImprovementUpgrade>IMPROVEMENT_VILLAGE3</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_HAMLET2_FREMEN</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_HAMLET2_FREMEN</Description>
+			<Description>Settlement (Fremen)</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_HAMLET_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_HAMLET2</ArtDefineTag>
 			<YieldChanges>
@@ -1814,14 +1821,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>15</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -1852,11 +1859,11 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_COTTAGE1_FREMEN</ImprovementPillage>
 			<ImprovementUpgrade>IMPROVEMENT_VILLAGE3_FREMEN</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -1901,14 +1908,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>20</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -1939,16 +1946,16 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_HAMLET2</ImprovementPillage>
 			<ImprovementUpgrade>IMPROVEMENT_TOWN4</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_VILLAGE3_FREMEN</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_VILLAGE3_FREMEN</Description>
+			<Description>Village (Fremen)</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_VILLAGE_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_VILLAGE3</ArtDefineTag>
 			<YieldChanges>
@@ -1988,14 +1995,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>20</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -2026,11 +2033,11 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_HAMLET2_FREMEN</ImprovementPillage>
 			<ImprovementUpgrade>IMPROVEMENT_TOWN4_FREMEN</ImprovementUpgrade>
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -2075,14 +2082,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>25</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -2113,16 +2120,16 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_VILLAGE3</ImprovementPillage>
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_TOWN4_FREMEN</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_TOWN4_FREMEN</Description>
+			<Description>Town (Fremen)</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_TOWN_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_TOWN4</ArtDefineTag>
 			<YieldChanges>
@@ -2162,14 +2169,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>25</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -2200,11 +2207,11 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_VILLAGE3_FREMEN</ImprovementPillage>
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -2243,18 +2250,18 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>1</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_ADAPTED_AGRICULTURE</PrereqTech>
@@ -2281,7 +2288,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -2319,16 +2326,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_GROUNDWATER</BonusType>
@@ -2342,8 +2349,8 @@
 					</YieldChanges>
 				</BonusTypeStruct>	
 			</BonusTypeStructs>			
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_DESERT_ENGINEERING</PrereqTech>
@@ -2354,7 +2361,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<NextImprovement>IMPROVEMENT_DEEP_WELL</NextImprovement>
 		</ImprovementInfo>		
@@ -2393,16 +2400,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>5</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_GROUNDWATER</BonusType>
@@ -2416,10 +2423,10 @@
 					</YieldChanges>
 				</BonusTypeStruct>	
 			</BonusTypeStructs>				
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<PreviousImprovement>IMPROVEMENT_SHALLOW_WELL</PreviousImprovement>
 			<NextImprovement>IMPROVEMENT_AQUABORE</NextImprovement>
@@ -2459,16 +2466,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_GROUNDWATER</BonusType>
@@ -2482,10 +2489,10 @@
 					</YieldChanges>
 				</BonusTypeStruct>	
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<PreviousImprovement>IMPROVEMENT_DEEP_WELL</PreviousImprovement>
 		</ImprovementInfo>			
@@ -2494,7 +2501,7 @@
 			<Description>TXT_KEY_IMPROVEMENT_ICE_EXTRACTOR</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_ICE_EXTRACTOR_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_ICE_EXTRACTOR</ArtDefineTag>
-			<YieldChanges />
+			<YieldChanges/>
 			<bActsAsCity>0</bActsAsCity>
 			<bHillsMakesValid>0</bHillsMakesValid>
 			<bFreshWaterMakesValid>0</bFreshWaterMakesValid>
@@ -2520,16 +2527,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_POLAR_ICE</BonusType>
@@ -2543,8 +2550,8 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_WATER_ECONOMY</PrereqTech>
@@ -2555,7 +2562,7 @@
 					</TechYields>
 				</TechYieldChange>				
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<NextImprovement>IMPROVEMENT_MELTING_LENS</NextImprovement>
 		</ImprovementInfo>
@@ -2564,7 +2571,7 @@
 			<Description>TXT_KEY_IMPROVEMENT_MELTING_LENS</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_MELTING_LENS_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_MELTING_LENS</ArtDefineTag>
-			<YieldChanges />
+			<YieldChanges/>
 			<bActsAsCity>0</bActsAsCity>
 			<bHillsMakesValid>0</bHillsMakesValid>
 			<bFreshWaterMakesValid>0</bFreshWaterMakesValid>
@@ -2590,16 +2597,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>15</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
-			<TerrainMakesValids />
-			<FeatureMakesValids />
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
+			<TerrainMakesValids/>
+			<FeatureMakesValids/>
 			<BonusTypeStructs>
 				<BonusTypeStruct>
 					<BonusType>BONUS_POLAR_ICE</BonusType>
@@ -2613,10 +2620,10 @@
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 			<PreviousImprovement>IMPROVEMENT_ICE_EXTRACTOR</PreviousImprovement>
 		</ImprovementInfo>		
@@ -2655,31 +2662,31 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_SALT</TerrainType>
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_MIRROR</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_MIRROR</Description>
-			<Civilopedia />
+			<Description>Richesian Mirror</Description>
+			<Civilopedia></Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_RICHESE_MIRROR</ArtDefineTag>
 			<YieldChanges>
 				<iYieldChange>0</iYieldChange>
@@ -2712,14 +2719,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>10</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>0</bSpreadCultureControl>
 			<iCultureBorderRange>-1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -2754,9 +2761,9 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
 			<TechYieldChanges>
 				<TechYieldChange>
 					<PrereqTech>TECH_MILITARY_INDUSTRIAL_COMPLEX</PrereqTech>
@@ -2775,7 +2782,7 @@
 					</TechYields>
 				</TechYieldChange>
 			</TechYieldChanges>
-			<RouteYieldChanges />
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
@@ -2783,7 +2790,7 @@
 			<Description>TXT_KEY_IMPROVEMENT_FORT</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_FORT_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_OUTPOST</ArtDefineTag>
-			<YieldChanges />
+			<YieldChanges/>
 			<bActsAsCity>1</bActsAsCity>
 			<bHillsMakesValid>1</bHillsMakesValid>
 			<bPeakMakesValid>1</bPeakMakesValid>
@@ -2811,16 +2818,16 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>3</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>1</iCultureBorderRange>
 			<iCultureControlStrength>1</iCultureControlStrength>
 			<iCultureControlCenterTileBonus>2</iCultureControlCenterTileBonus>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -2843,16 +2850,16 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
-			<ImprovementPillage />
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<FeatureMakesValids/>
+			<ImprovementPillage/>
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 		<ImprovementInfo>
 			<Type>IMPROVEMENT_TOWN_RICHESE</Type>
-			<Description>TXT_KEY_DW_IMPROVEMENT_TOWN_RICHESE</Description>
+			<Description>Industrial Town</Description>
 			<Civilopedia>TXT_KEY_IMPROVEMENT_TOWN_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_INDUSTRIAL_TOWN</ArtDefineTag>
 			<YieldChanges>
@@ -2892,14 +2899,14 @@
 			<iHappiness>0</iHappiness>
 			<iPillageGold>25</iPillageGold>
 			<bOutsideBorders>0</bOutsideBorders>
-			
+			<!-- JCultureControl Mod Start -->
 			<bSpreadCultureControl>1</bSpreadCultureControl>
 			<iCultureBorderRange>1</iCultureBorderRange>
-			
-			
+			<!-- JCultureControl Mod End -->
+			<!-- JImprovementLimit Mod Start -->
 			<iMakesInvalidRange>0</iMakesInvalidRange>
-			<ImprovementRequired />
-			
+			<ImprovementRequired/>
+			<!-- JImprovementLimit Mod End -->
 			<TerrainMakesValids>
 				<TerrainMakesValid>
 					<TerrainType>TERRAIN_TERRA_GRASS</TerrainType>
@@ -2930,11 +2937,11 @@
 					<bMakesValid>1</bMakesValid>
 				</TerrainMakesValid>
 			</TerrainMakesValids>
-			<FeatureMakesValids />
+			<FeatureMakesValids/>
 			<ImprovementPillage>IMPROVEMENT_VILLAGE3</ImprovementPillage>
-			<ImprovementUpgrade />
-			<TechYieldChanges />
-			<RouteYieldChanges />
+			<ImprovementUpgrade/>
+			<TechYieldChanges/>
+			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>
 		</ImprovementInfo>
 	</ImprovementInfos>

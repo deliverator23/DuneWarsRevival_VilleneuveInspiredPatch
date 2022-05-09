@@ -1,3 +1,10 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by Hazem Shams al'Din (Baraka Designs) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Basic Infos -->
 <Civ4NewConceptInfos xmlns="x-schema:CIV4BasicInfoSchema.xml">
 	<NewConceptInfos>
 		<NewConceptInfo>
@@ -55,8 +62,8 @@
 			<Description>TXT_KEY_CONCEPT_DW_TLEILAX</Description>
 			<Civilopedia>TXT_KEY_DW_CONCEPT_TLEILAX</Civilopedia>
 		</NewConceptInfo>
-		
-		
+		<!-- Traits Infos -->
+		<!-- Modders: These must be kept in sync and sorted if you add/remove any traits -->
 		<NewConceptInfo>
 			<Type>CONCEPT_TRAIT_ABOMINATION</Type>
 			<Description>TXT_KEY_TRAIT_ABOMINATION</Description>
@@ -137,7 +144,7 @@
 			<Description>TXT_KEY_TRAIT_FREMEN</Description>
 			<Civilopedia>TXT_KEY_TRAIT_FREMEN_PEDIA</Civilopedia>
 		</NewConceptInfo>
-		
+		<!-- Shortcut Infos -->
 		<NewConceptInfo>
 			<Type>CONCEPT_SHORTCUTS_ADVISORS</Type>
 			<Description>TXT_KEY_SHORTCUTS_ADVISORS</Description>
@@ -183,7 +190,7 @@
 			<Description>TXT_KEY_SHORTCUTS_MP</Description>
 			<Civilopedia>TXT_KEY_SHORTCUTS_MP_PEDIA</Civilopedia>
 		</NewConceptInfo>
-		
+		<!-- Strategy Guides-->
 		<NewConceptInfo>
 			<Type>CONCEPT_STRATEGY_INTRO</Type>
 			<Description>TXT_KEY_STRATEGY_INTRO</Description>
@@ -224,7 +231,7 @@
 			<Description>TXT_KEY_STRATEGY_HEALING</Description>
 			<Civilopedia>TXT_KEY_STRATEGY_HEALING_PEDIA</Civilopedia>
 		</NewConceptInfo>
-		
+		<!-- Espionage -->
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_SEE_DEMOGRAPHICS</Type>
 			<Description>TXT_KEY_ESPIONAGE_CAN_SEE_DEMOGRAPHICS</Description>
@@ -247,7 +254,7 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_ATREIDES</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_ATREIDES</Description>
+			<Description>Intelligence Visibility</Description>
 			<Civilopedia>An Atreides passive mission that reveals the entire visibility of a rival Team.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -267,17 +274,17 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_ORDOS2</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_ORDOS2</Description>
+			<Description>Sabotage a Building</Description>
 			<Civilopedia>An Ordos mission that allows you to sabotage a building of a rival city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_ORDOS3</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_ORDOS3</Description>
+			<Description>Bribe a Mechanized Unit</Description>
 			<Civilopedia>An Ordos mission that allows you to bribe a Thopter, Vehicle, Hornet, Siege or Suspensor Unit.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_HARK1</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_HARK1</Description>
+			<Description>Foment Military Misconduct</Description>
 			<Civilopedia>A Harkonnen mission that imposes -50% Military[ICON_PRODUCTION] and -3 Exp inside the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -287,27 +294,27 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_HARK3</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_HARK3</Description>
+			<Description>Lower Defenses by Treachery</Description>
 			<Civilopedia>A Harkonnen mission that completely lowers the defenses of the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_IX1</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_IX1</Description>
+			<Description>Destroy a Mechanized Unit</Description>
 			<Civilopedia>An Ix mission that allows you to destroy a Thopter, Vehicle, Hornet, Siege, Suspensor or Mech Unit.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_IX2</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_IX2</Description>
+			<Description>Disrupt Machinery</Description>
 			<Civilopedia>An Ix mission that decreases [ICON_PRODUCTION] inside the targeted city by 40% and creates 1[ICON_UNHEALTHY].</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_IX3</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_IX3</Description>
+			<Description>Use Ixian Probe and learn a Technology</Description>
 			<Civilopedia>An Ix mission that allows you to steal a technology that you do not have from your opponent.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_CORRINO1</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_CORRINO1</Description>
+			<Description>Administration Disruption</Description>
 			<Civilopedia>A Corrino mission that provokes +100% Maintenance, -100%[ICON_ESPIONAGE] and -25%[ICON_ESPIONAGE] Defense in the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -317,7 +324,7 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_CORRINO3</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_CORRINO3</Description>
+			<Description>Assassinate a Unit</Description>
 			<Civilopedia>A Corrino mission that allows you to kill a Melee or Guardsman Unit.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -332,12 +339,12 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_TLEILAX3</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_TLEILAX3</Description>
+			<Description>Assassinate a Specialist</Description>
 			<Civilopedia>A Tleilax mission that kills a free specialist and stops other potential specialists from being assigned inside the targeted city temporarily.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_GESSERIT1</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_GESSERIT1</Description>
+			<Description>Use 'The Voice' on a Vulnerable Unit</Description>
 			<Civilopedia>A Bene Gesserit mission that dominates a Melee, Guardsman or Worker Unit.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -362,7 +369,7 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_FREMEN2</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_FREMEN2</Description>
+			<Description>Sabotage all water improvements</Description>
 			<Civilopedia>A Fremen mission that sabotages all 'water type' improvements around the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -372,12 +379,12 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_ECAZ1</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_ECAZ1</Description>
+			<Description>Stimulate Addiction</Description>
 			<Civilopedia>An Ecaz mission that addicts and removes 1 population from the targeted city and adds it as a free merchant or spy specialist in your closest city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_ECAZ2</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_ECAZ2</Description>
+			<Description>Develop Illegal Trade</Description>
 			<Civilopedia>An Ecaz mission that provokes -2 Trade routes, -75%[ICON_TRADE] in the targeted city and +1 Trade route, +50%[ICON_TRADE] in your closest city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
@@ -392,37 +399,37 @@
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_MEDICAL</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_MEDICAL</Description>
+			<Description>Instigate Medical Malpractice</Description>
 			<Civilopedia>5[ICON_UNHEALTHY], -20% Heal rate in the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_CRIME</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_CRIME</Description>
+			<Description>Foment Crime</Description>
 			<Civilopedia>1[ICON_UNHAPPY] and -50%[ICON_GOLD] in the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_REDUCE_BEAKERS</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_REDUCE_BEAKERS</Description>
+			<Description>Instigate Scientific Malpractice</Description>
 			<Civilopedia>-50%[ICON_RESEARCH] in the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_POISON</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_POISON</Description>
+			<Description>Poison Leader</Description>
 			<Civilopedia>Adds the 'Poisoned' Trait to the unlucky leader: 2[ICON_UNHEALTHY], 2[ICON_UNHAPPY], -50%[ICON_GREATPEOPLE], -50% GG Emergence, -50% World Wonder Production in the entire targeted empire for at least 4 turns (duration may increase with spy promotions). Mission is only allowed in the rival Capital and while following the 'War of Assassins' Civic.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_RICHESE1</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_RICHESE1</Description>
+			<Description>Divert Production</Description>
 			<Civilopedia>A Richese mission that takes 4[ICON_PRODUCTION] from the targeted city while benefiting your closest city with same value.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_RICHESE2</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_RICHESE2</Description>
+			<Description>Sabotage all hammer improvements</Description>
 			<Civilopedia>A Richese mission that sabotages all 'hammer type' improvements around the targeted city.</Civilopedia>
 		</NewConceptInfo>
 		<NewConceptInfo>
 			<Type>CONCEPT_ESPIONAGE_RICHESE3</Type>
-			<Description>TXT_KEY_DW_CONCEPT_ESPIONAGE_RICHESE3</Description>
+			<Description>Disrupt Worker Force</Description>
 			<Civilopedia>A Richese mission that decreases Worker speed by -25%.</Civilopedia>
 		</NewConceptInfo>
 	</NewConceptInfos>
