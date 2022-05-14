@@ -1,5 +1,11 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.2
+
+### Gameplay Changes
+
+* Fix faction specific unit bonuses (e.g Fremen Sandrider, Harkonnen Ruthless and Ordos Raider) that were inadvertently broken in version 5.1.
+
 ## Version 5.1
 
 ### Gameplay Changes
