@@ -1,5 +1,11 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.3
+
+### Gameplay Changes
+
+* Give free Sandworker promotion to Fremen Worker and allow them to enter desert without any prereq tech; block Sandworker from being overwritten by Sandrider.
+
 ## Version 5.2
 
 ### Gameplay Changes
