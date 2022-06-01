@@ -874,11 +874,9 @@
 			<TechPrereq>TECH_SANDWORMS</TechPrereq>
 			<BonusPrereq>BONUS_WATER_DEBT</BonusPrereq>
 			<PromotionExcludes>
-				<Promotion>PROMOTION_SANDWORKER</Promotion>
 				<Promotion>PROMOTION_STILLSUIT</Promotion>
 			</PromotionExcludes>
 			<PromotionOverwrites>
-				<Promotion>PROMOTION_SANDWORKER</Promotion>
 				<Promotion>PROMOTION_STILLSUIT</Promotion>
 			</PromotionOverwrites>
 			<bCanMoveAllTerrain>1</bCanMoveAllTerrain>
@@ -7317,7 +7315,7 @@
 			<TechPrereq>TECH_STILLSUITS</TechPrereq>
 			<FreePromotionTech>TECH_STILLSUITS</FreePromotionTech>
 			<PromotionExcludes>
-				<!-- <Promotion>PROMOTION_SANDRIDER</Promotion> -->
+				<Promotion>PROMOTION_SANDRIDER</Promotion>
 			</PromotionExcludes>
 		    <bAutoAcquire>1</bAutoAcquire>
 			<bNoXP>1</bNoXP>

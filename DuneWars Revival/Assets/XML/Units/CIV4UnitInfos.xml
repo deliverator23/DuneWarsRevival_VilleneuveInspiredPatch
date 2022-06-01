@@ -22101,54 +22101,10 @@
 			<iTradeMultiplier>0</iTradeMultiplier>
 			<iGreatWorkCulture>0</iGreatWorkCulture>
 			<iEspionagePoints>0</iEspionagePoints>
-			<TerrainImpassables>
-				<TerrainImpassable>
-					<TerrainType>TERRAIN_COAST</TerrainType>
-					<bTerrainImpassable>1</bTerrainImpassable>
-				</TerrainImpassable>
-				<TerrainImpassable>
-					<TerrainType>TERRAIN_OCEAN</TerrainType>
-					<bTerrainImpassable>1</bTerrainImpassable>
-				</TerrainImpassable>
-				<TerrainImpassable>
-					<TerrainType>TERRAIN_SPICE_COAST</TerrainType>
-					<bTerrainImpassable>1</bTerrainImpassable>
-				</TerrainImpassable>
-				<TerrainImpassable>
-					<TerrainType>TERRAIN_SPICE_OCEAN</TerrainType>
-					<bTerrainImpassable>1</bTerrainImpassable>
-				</TerrainImpassable>
-			</TerrainImpassables>
-			<FeatureImpassables>
-				<FeatureImpassable>
-					<FeatureType>FEATURE_SPICE</FeatureType>
-					<bFeatureImpassable>1</bFeatureImpassable>
-				</FeatureImpassable>
-			</FeatureImpassables>
-			<TerrainPassableTechs>
-				<TerrainPassableTech>
-					<TerrainType>TERRAIN_COAST</TerrainType>
-					<PassableTech>TECH_EXPLORATION</PassableTech>
-				</TerrainPassableTech>
-				<TerrainPassableTech>
-					<TerrainType>TERRAIN_OCEAN</TerrainType>
-					<PassableTech>TECH_STILLSUITS</PassableTech>
-				</TerrainPassableTech>
-				<TerrainPassableTech>
-					<TerrainType>TERRAIN_SPICE_COAST</TerrainType>
-					<PassableTech>TECH_EXPLORATION</PassableTech>
-				</TerrainPassableTech>
-				<TerrainPassableTech>
-					<TerrainType>TERRAIN_SPICE_OCEAN</TerrainType>
-					<PassableTech>TECH_STILLSUITS</PassableTech>
-				</TerrainPassableTech>
-			</TerrainPassableTechs>
-			<FeaturePassableTechs>
-				<FeaturePassableTech>
-					<FeatureType>FEATURE_SPICE</FeatureType>
-					<PassableTech>TECH_EXPLORATION</PassableTech>
-				</FeaturePassableTech>
-			</FeaturePassableTechs>
+			<TerrainImpassables/>
+			<FeatureImpassables/>
+			<TerrainPassableTechs/>
+			<FeaturePassableTechs/>
 			<iCombat>0</iCombat>
 			<iCombatLimit>0</iCombatLimit>
 			<iAirCombat>0</iAirCombat>
@@ -22211,7 +22167,12 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<FreePromotions/>
+			<FreePromotions>
+				<FreePromotion>
+					<PromotionType>PROMOTION_SANDWORKER</PromotionType>
+					<bFreePromotion>1</bFreePromotion>
+				</FreePromotion>
+			</FreePromotions>
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
 		</UnitInfo>
