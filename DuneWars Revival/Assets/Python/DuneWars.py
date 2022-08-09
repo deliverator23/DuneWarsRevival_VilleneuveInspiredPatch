@@ -852,9 +852,6 @@ class DuneWars:
         self.iICot3 = self.GetCheckInfo("IMPROVEMENT_VILLAGE3")
         self.iICot4 = self.GetCheckInfo("IMPROVEMENT_TOWN4")
         self.iICot1F = self.GetCheckInfo("IMPROVEMENT_COTTAGE1_FREMEN")
-        self.iICot2F = self.GetCheckInfo("IMPROVEMENT_HAMLET2_FREMEN")
-        self.iICot3F = self.GetCheckInfo("IMPROVEMENT_VILLAGE3_FREMEN")
-        self.iICot4F = self.GetCheckInfo("IMPROVEMENT_TOWN4_FREMEN")
         self.iICot4R = self.GetCheckInfo("IMPROVEMENT_TOWN_RICHESE")
         self.iISietch1 = self.GetCheckInfo("IMPROVEMENT_SIETCH1")
         self.iISietch2 = self.GetCheckInfo("IMPROVEMENT_SIETCH2")
@@ -895,7 +892,7 @@ class DuneWars:
         self.dTerraformCount = {}
         self.dSpiceVictoryCount = {}
         self.irrigatedImprovements = [self.iITrad, self.iICot1, self.iICot2, self.iICot3, self.iICot4,
-                                        self.iICot1F, self.iICot2F, self.iICot3F, self.iICot4F, self.iICot4R,
+                                        self.iICot1F, self.iICot4R,
                                         self.iISietch1, self.iISietch2, self.iISietch3, self.iISietch4]
 
     # Print a debug message to file
