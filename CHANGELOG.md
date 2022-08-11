@@ -1,5 +1,13 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.4
+
+(Breaks save games)
+
+### Gameplay Changes
+
+* Remove Fremen copies of Settlement (Hamlet), Village and Town to resolve issue where Settlement disappears and alters terrain type on upgrade to Village. Fremen Dwelling now upgrades to a regular Settlement.
+
 ## Version 5.3
 
 ### Gameplay Changes
