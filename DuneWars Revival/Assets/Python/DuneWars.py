@@ -806,7 +806,7 @@ class DuneWars:
     def Initialize(self):
         if self.bInitialized: return
         self.bInitialized = true
-        self.DebugFilename = "c:\\stats.csv"
+        self.DebugFilename = "C:\Game Mods\Civ4\stats.log"
 
         self.iTraitABo = self.GetCheckInfo('TRAIT_ABOMINATION')
         self.iBonusSapho = self.GetCheckInfo("BONUS_SAPHO")
@@ -851,7 +851,6 @@ class DuneWars:
         self.iICot2 = self.GetCheckInfo("IMPROVEMENT_HAMLET2")
         self.iICot3 = self.GetCheckInfo("IMPROVEMENT_VILLAGE3")
         self.iICot4 = self.GetCheckInfo("IMPROVEMENT_TOWN4")
-        self.iICot1F = self.GetCheckInfo("IMPROVEMENT_COTTAGE1_FREMEN")
         self.iICot4R = self.GetCheckInfo("IMPROVEMENT_TOWN_RICHESE")
         self.iISietch1 = self.GetCheckInfo("IMPROVEMENT_SIETCH1")
         self.iISietch2 = self.GetCheckInfo("IMPROVEMENT_SIETCH2")
@@ -891,8 +890,7 @@ class DuneWars:
         self.dContracts = {}
         self.dTerraformCount = {}
         self.dSpiceVictoryCount = {}
-        self.irrigatedImprovements = [self.iITrad, self.iICot1, self.iICot2, self.iICot3, self.iICot4,
-                                        self.iICot1F, self.iICot4R,
+        self.irrigatedImprovements = [self.iITrad, self.iICot1, self.iICot2, self.iICot3, self.iICot4, self.iICot4R,
                                         self.iISietch1, self.iISietch2, self.iISietch3, self.iISietch4]
 
     # Print a debug message to file
