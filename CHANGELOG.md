@@ -1,5 +1,13 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.5
+
+(Breaks save games)
+
+### Gameplay Changes
+
+* Resolve disappearing Improvements issue by moving new Fremen Improvements beneath IMPROVEMENT_DESALINATOR in Civ4ImprovementInfos.xml. Remove redundant Fremen version of Dwelling (Cottage).
+
 ## Version 5.4
 
 (Breaks save games)
