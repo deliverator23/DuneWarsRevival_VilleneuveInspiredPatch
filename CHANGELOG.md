@@ -4,7 +4,7 @@
 
 ### Cosmetic Changes
 
-* Several new leaderheads including renderings of Christopher Walken as Shaddam, Florence Pugh as Irulan, Austen Butler as Feyd and Léa Seydoux as Margot Fenring.
+* Several new leaderheads including renderings of Christopher Walken as Shaddam, Florence Pugh as Irulan, Austin Butler as Feyd and Léa Seydoux as Margot Fenring.
 * Improved quality of other leaderheads.
 
 ## Version 5.5
