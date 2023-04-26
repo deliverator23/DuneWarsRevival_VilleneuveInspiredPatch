@@ -1,5 +1,12 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.6
+
+### Cosmetic Changes
+
+* Several new leaderheads including renderings of Christopher Walken as Shaddam, Florence Pugh as Irulan, Austen Butler as Feyd and Léa Seydoux as Margot Fenring.
+* Improved quality of other leaderheads.
+
 ## Version 5.5
 
 (Breaks save games)
