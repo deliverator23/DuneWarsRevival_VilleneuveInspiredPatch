@@ -1,11 +1,18 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.7
+
+### Cosmetic Changes
+
+* New leader graphics drawn from the trailer for Dune: Part 2 - Florence Pugh as Irulan, Austin Butler as Feyd, Léa Seydoux as Margot Fenring plus Paul Muad'DibMuad'Dib.
+* Main Menu also updated with some Dune: Part 2 images and new Botanical Testing Station graphic.
+
 ## Version 5.6
 
 ### Cosmetic Changes
 
-* Several new leaderheads including renderings of Christopher Walken as Shaddam, Florence Pugh as Irulan, Austin Butler as Feyd and Léa Seydoux as Margot Fenring.
-* Improved quality of other leaderheads.
+* Several new leader graphics including a rendering of Christopher Walken as Shaddam.
+* Improved quality of other leader graphics.
 
 ## Version 5.5
 
@@ -164,7 +171,7 @@ Spice is completed removed from the World Builder map on saving and then randoml
 
 ## Version 1.0
 
-* New Leaderheads for:
+* New leader graphics for:
 ```
 * Paul Muad'Dib (Fremen)
 * Liet-Kynes (Fremen)
