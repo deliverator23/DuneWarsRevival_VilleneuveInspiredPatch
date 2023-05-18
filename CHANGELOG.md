@@ -4,7 +4,7 @@
 
 ### Cosmetic Changes
 
-* New leader graphics drawn from the trailer for Dune: Part 2 - Florence Pugh as Irulan, Austin Butler as Feyd, Léa Seydoux as Margot Fenring plus Paul Muad'DibMuad'Dib.
+* New leader graphics drawn from the trailer for Dune: Part 2 - Florence Pugh as Irulan, Austin Butler as Feyd, Léa Seydoux as Margot Fenring plus Paul Muad'Dib.
 * Main Menu also updated with some Dune: Part 2 images and new Botanical Testing Station graphic.
 
 ## Version 5.6
