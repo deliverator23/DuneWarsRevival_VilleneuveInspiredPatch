@@ -1,6 +1,6 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch
 
-The Villeneuve Inspired Patch for Dune Wars: Revival has now evolved into modmodmod with a number of gameplay changes in addition to artwork from Denis Villeneuve's Dune movie.
+The Villeneuve Inspired Patch for Dune Wars: Revival has now evolved into modmodmod with a number of gameplay changes in addition to artwork from Denis Villeneuve's Dune movies.
 
 ## Installation
 
