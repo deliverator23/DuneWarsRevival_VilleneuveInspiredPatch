@@ -9579,4 +9579,20 @@ Stub pedia for Soldier
 		<Italian>Miles Teg</Italian>
 		<Spanish>Miles Teg</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_REL_FREE_XP</Tag>
+		<English>[ICON_BULLET]%D1_XP Experience Points in Cities with State [ICON_RELIGION]</English>
+		<French>[ICON_BULLET]%D1_XP EXP dans les villes ayant pour religion : [ICON_RELIGION]</French>
+		<German>[ICON_BULLET]%D1_XP Erfahrungspunkte in St&#228;dten mit der Religion [ICON_RELIGION]</German>
+		<Italian>[ICON_BULLET]%D1_XP punti esperienza esperienza nelle citt&#224; con [ICON_RELIGION]</Italian>
+		<Spanish>[ICON_BULLET]%D1_XP puntos de experiencia en las ciudades con [ICON_RELIGION]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_REL_BUILDING_BONUS</Tag>
+		<English>[ICON_BULLET]Cities with State [ICON_RELIGION] Construct Buildings %D2_Mod%% Faster</English>
+		<French>[ICON_BULLET]Vitesse de construction des b&#226;timents pour les villes ayant la religion [ICON_RELIGION] : %D2_Mod%% </French>
+		<German>[ICON_BULLET]St&#228;dte mit der Religion [ICON_RELIGION] errichten Geb&#228;ude %D2_Mod%% schneller</German>
+		<Italian>[ICON_BULLET]Le citt&#224; con [ICON_RELIGION] costruiscono il %D2_Mod%% pi&#249; velocemente</Italian>
+		<Spanish>[ICON_BULLET]Las ciudades con [ICON_RELIGION] construyen edificios un %D2_Mod%% m&#225;s r&#225;pido</Spanish>
+	</TEXT>
 </Civ4GameText>
