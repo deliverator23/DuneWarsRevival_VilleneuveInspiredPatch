@@ -1,5 +1,17 @@
 # Dune Wars: Revival - Villeneuve Inspired Patch Changelog
 
+## Version 5.8
+
+### Fixes
+* Scenarios now playable! Changed new line format to CRLF in scenario files making them playable.
+* Fixed Fremen description to mention Sietch Improvement.
+* Fixed issue with State Religion icon in Theology Civic description.
+* Removed defensive bonus from Peaks since they are impassable anyway.
+
+### Cosmetic Changes
+* New leader for Shaddam IV and other graphics drawn from the second trailer for Dune: Part 2.
+
+
 ## Version 5.7
 
 ### Cosmetic Changes
